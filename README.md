@@ -26,7 +26,7 @@ There are thousands of AI tools on GitHub. This repo cuts through the noise:
 |----------|-------|---------------|
 | [Claude Code Skills](#-claude-code-skills) | 12 | Ready-to-install skills for Claude Code |
 | [Multi-Agent Frameworks](#-multi-agent-frameworks) | 8 | PraisonAI, CrewAI, AgentHub, Citadel... |
-| [Browser & Web Automation](#-browser--web-automation) | 6 | Alumnium, Firecrawl, Playwright-based... |
+| [Browser & Web Automation](#-browser--web-automation) | 7 | Alumnium, Firecrawl, unbrowse, Playwright-based... |
 | [LLM Infrastructure](#-llm-infrastructure) | 7 | Free LLM gateways, local models, routing |
 | [Content & Media Generation](#-content--media-generation) | 9 | Voice, video, image, slides automation |
 | [Data & Analytics](#-data--analytics) | 6 | Finance, trading indicators, geospatial |
@@ -34,7 +34,8 @@ There are thousands of AI tools on GitHub. This repo cuts through the noise:
 | [UI & Frontend Components](#-ui--frontend-components) | 5 | Animated React components, design systems |
 | [Backend & Infrastructure](#-backend--infrastructure) | 10 | Kubernetes, monitoring, messaging |
 | [Mobile Development](#-mobile-development) | 4 | Capacitor, NativeScript, store publishing |
-| [Developer Productivity](#-developer-productivity) | 8 | Code graphs, context tools, scaffolding |
+| [Code Review & Quality](#-code-review--quality) | 1 | Google eng-practices, AI code reviewer setup |
+| [Developer Productivity](#-developer-productivity) | 9 | Code graphs, context tools, scaffolding |
 | [WhatsApp & Messaging](#-whatsapp--messaging) | 3 | Self-hosted WhatsApp API, n8n workflows |
 | [AI Roles & Prompts](#-ai-roles--prompts) | 5 | 140+ expert agent roles, system prompts |
 
@@ -75,6 +76,62 @@ cp -r /tmp/sc/.claude/* ~/.claude/
 # Install PM skills (106 across 15 professions)
 git clone https://github.com/mohitagw15856/pm-claude-skills ~/.claude/skills/pm-skills
 ```
+
+### Claude Code Agent Teams — Level 3 Parallelism
+
+Run Backend + Frontend + Testing + Review agents **simultaneously** on the same feature. One environment variable unlocks it.
+
+```bash
+# Add to ~/.zshrc
+export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
+export CLAUDE_CODE_SUBAGENT_MODEL="claude-sonnet-4-5-20250929"  # teammates use Sonnet, 1/5 the cost
+export CLAUDE_CODE_DEFAULT_EFFORT=high
+```
+
+**Team prompt template:**
+```
+I need to [describe the full feature].
+
+Spawn separate agents:
+1. Backend: [specific task + files]
+2. Frontend: [specific task + files]
+3. Testing: Write tests for all new endpoints
+4. Review: Review all code for security/style issues
+
+Each agent works in its own context. Flag dependencies before starting dependent tasks.
+```
+
+**3 levels of Claude Code agents:**
+
+| Level | Tool | Best For |
+|-------|------|----------|
+| Level 1: Subagents | Run inside current session | Repeatable tasks (review, test, docs) |
+| Level 2: Agent View | `claude agents` dashboard | 3-10 independent tasks |
+| Level 3: Agent Teams | `AGENT_TEAMS=1` + team prompt | Multi-file features with dependencies |
+
+**Guardrails (always set these):**
+```json
+{
+  "permissions": {
+    "allow": ["Read", "Glob", "Grep", "Edit", "Write(src/**)", "Write(tests/**)"],
+    "deny": ["Read(**/.env*)", "Bash(rm -rf *)", "Bash(git push *)", "Bash(npm publish *)"],
+    "defaultMode": "acceptEdits"
+  }
+}
+```
+
+```bash
+# Budget cap — prevents runaway parallel agents
+claude -p "build the auth system" --max-budget-usd 15.00
+```
+
+**Before / After:**
+- Before: write → review → test → commit (sequential, full day)
+- After: 4 agents in parallel, same feature in 2 hours, each with clean focused context
+
+> Full guide: [guides/claude-code-agent-teams.md](guides/claude-code-agent-teams.md)
+
+---
 
 ### skills.sh — The "Find Skills" Trick
 
@@ -204,6 +261,33 @@ npx firecrawl crawl https://docs.site.com --limit 50 --format markdown
 **Repo:** [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 
 Scraping with bot-bypass. Gets through Cloudflare, reCAPTCHA, and other protections.
+
+---
+
+### unbrowse
+
+**Repo:** [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse)
+
+Turns any website into a structured API for AI agents — no scraping code, no CSS selectors. Give it a URL, get back clean JSON.
+
+```bash
+pip install unbrowse
+```
+
+```python
+from unbrowse import Unbrowse
+
+ub = Unbrowse()
+data = ub.fetch("https://news.ycombinator.com", schema={
+    "stories": [{"title": "str", "points": "int", "url": "str"}]
+})
+# Returns structured JSON regardless of site layout changes
+```
+
+**Use cases:**
+- Feed live web data to PraisonAI/CrewAI agents without custom scrapers
+- Monitor competitor pricing pages as a structured data source
+- Replace fragile BeautifulSoup scrapers with schema-driven extraction
 
 ---
 
@@ -423,6 +507,45 @@ PATTERNS = {
 
 ---
 
+## Code Review & Quality
+
+### Google Engineering Practices
+
+**Repo:** [google/eng-practices](https://github.com/google/eng-practices)
+
+Google's actual internal code review standards — the same system used to review millions of lines of production code. Feed this to any AI agent and it becomes a Google-style code reviewer.
+
+**What it covers:**
+- Approval criteria — what "good enough to merge" actually means at Google
+- What blocks a merge — the exact reasons Google engineers reject PRs
+- How to write code that's easy to review (LGTM-friendly patterns)
+- Internal terminology: CL (changelist), LGTM, readability review
+- Author and reviewer responsibilities, separately documented
+
+**How to use with Claude:**
+
+```
+System prompt:
+You are a senior Google engineer conducting a code review.
+Apply the standards from google/eng-practices exactly.
+For every issue found: classify as MUST FIX / SHOULD FIX / NIT.
+End with: LGTM (approve), LGTM with comments, or REQUEST CHANGES.
+
+[paste the eng-practices content or link to it]
+[paste the diff/PR]
+```
+
+**What AI can now do with this:**
+- Detect bad practices (not just syntax errors)
+- Review architecture decisions against Google principles
+- Request meaningful changes with clear justification
+- Assess readability and long-term maintainability
+- Give structured feedback identical to Google internal review format
+
+> Theory? No. This is the real system Google uses. The difference between "looks fine" and "Google-grade review" is this document.
+
+---
+
 ## Developer Productivity
 
 | Repo | What It Does |
@@ -432,6 +555,7 @@ PATTERNS = {
 | [AgentHub (Stanshy)](https://github.com/Stanshy/AgentHub) | Multi-agent parallel dev team |
 | [Citadel (SethGammon)](https://github.com/SethGammon/Citadel) | Persistent cross-session campaigns |
 | [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 12 principles for production agents |
+| [google/eng-practices](https://github.com/google/eng-practices) | Google's internal code review standards — turn any AI into a Google-style code reviewer |
 
 ---
 
