@@ -5,3 +5,9 @@
 | 1 | **llmfit** | 600 | Donanıma göre uygun local LLM modellerini gösteriyor | [link](https://github.com/AlexsJones/llmfit) |
 | 2 | **ollama** | 130,000 | Açık kaynak modelleri yerel çalıştırma | [link](https://github.com/ollama/ollama) |
 | 3 | **freellmapi** | 320 | Duzinelerce ucretsiz LLM katmanini tek API de birlestiren router; otomatik yonlendirme + fallback | [link](https://github.com/tashfeenahmed/freellmapi) |
+| 4 | **llama3** | 77,000 | Meta'nın Llama 3 model ailesi — 8B/70B/405B ağırlıkları, fine-tune rehberleri, inference örnekleri | [link](https://github.com/meta-llama/llama3) |
+| 5 | **metaseq** | 13,000 | Meta'nın büyük ölçekli dil modeli araştırma çerçevesi; OPT modeli dahil | [link](https://github.com/facebookresearch/metaseq) |
+| 6 | **bert** | 38,000 | Google'ın BERT modeli — NLP'de devrim yaratan orijinal pre-training kodu ve ağırlıklar | [link](https://github.com/google-research/bert) |
+| 7 | **google-research** | 35,000 | Google Research'ün yüzlerce araştırma projesini barındıran ana repo: BERT, T5, ViT, Imagen ve daha fazlası | [link](https://github.com/google-research/google-research) |
+| 8 | **automl** | 6,200 | Google AutoML araçları — NAS (Neural Architecture Search), verimli model tasarımı | [link](https://github.com/google/automl) |
+| 9 | **starter-applets (Gemini)** | 1,100 | Google Gemini API ile sıfırdan uygulama örnekleri — multimodal, chat, function calling | [link](https://github.com/google-gemini/starter-applets) |

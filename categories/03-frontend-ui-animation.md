@@ -12,3 +12,6 @@
 | 8 | **lottie-web** | 31,834 | Profesyonel animasyonlar ekleme | [link](https://github.com/airbnb/lottie-web) |
 | 9 | **recharts** | 25,000 | React projelerinde grafik oluşturma | [link](https://github.com/recharts/recharts) |
 | 10 | **react-bits** | 112,000 | 110+ ozellestirilebilir animasyonlu React bileseni; kopyala-yapistir hazir | [link](https://github.com/DavidHDev/react-bits) |
+| 11 | **material-design-icons** | 50,000 | Google Material Design ikonları — 2500+ SVG, PNG, web font formatında; tüm platformlara uygun | [link](https://github.com/google/material-design-icons) |
+| 12 | **microsoft-ui-xaml** | 6,400 | Windows'un modern UI çerçevesi WinUI 3 — native Windows uygulamaları için Fluent Design | [link](https://github.com/microsoft/microsoft-ui-xaml) |
+| 13 | **fluentui-apple** | 2,100 | Microsoft Fluent UI tasarım sistemi — iOS ve macOS için native Swift bileşenleri | [link](https://github.com/microsoft/fluentui-apple) |
