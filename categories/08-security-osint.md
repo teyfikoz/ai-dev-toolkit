@@ -12,3 +12,4 @@
 | 8 | **google-authenticator** | 8,100 | Google Authenticator açık kaynak uygulaması — TOTP/HOTP 2FA, Android + iOS | [link](https://github.com/google/google-authenticator) |
 | 9 | **Detours** | 5,400 | Microsoft'un Win32 API interception kütüphanesi — fonksiyon hooking, DLL injection, test/monitoring | [link](https://github.com/microsoft/Detours) |
 | 10 | **microsoft-pdb** | 1,100 | Microsoft PDB (Program Database) debug bilgisi formatı — sembol dosyaları, reverse engineering | [link](https://github.com/microsoft/microsoft-pdb) |
+| 11 | **skillspector** | 272 | NVIDIA'nın AI agent skill güvenlik tarayıcısı — MCP/Claude skill'lerinde açık tespiti, MITRE ATT&CK haritalama | [link](https://github.com/NVIDIA/skillspector) |

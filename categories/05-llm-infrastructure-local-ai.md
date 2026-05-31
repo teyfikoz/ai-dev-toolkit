@@ -11,3 +11,4 @@
 | 7 | **google-research** | 35,000 | Google Research'ün yüzlerce araştırma projesini barındıran ana repo: BERT, T5, ViT, Imagen ve daha fazlası | [link](https://github.com/google-research/google-research) |
 | 8 | **automl** | 6,200 | Google AutoML araçları — NAS (Neural Architecture Search), verimli model tasarımı | [link](https://github.com/google/automl) |
 | 9 | **starter-applets (Gemini)** | 1,100 | Google Gemini API ile sıfırdan uygulama örnekleri — multimodal, chat, function calling | [link](https://github.com/google-gemini/starter-applets) |
+| 10 | **lupine** | 2,005 | GPU over IP köprüsü — uzak GPU'yu yerel CUDA cihazı gibi kullanma; multi-GPU workload dağıtımı | [link](https://github.com/iot-lab/lupine) |
