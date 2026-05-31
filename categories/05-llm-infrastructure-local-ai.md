@@ -12,3 +12,4 @@
 | 8 | **automl** | 6,200 | Google AutoML araçları — NAS (Neural Architecture Search), verimli model tasarımı | [link](https://github.com/google/automl) |
 | 9 | **starter-applets (Gemini)** | 1,100 | Google Gemini API ile sıfırdan uygulama örnekleri — multimodal, chat, function calling | [link](https://github.com/google-gemini/starter-applets) |
 | 10 | **lupine** | 2,005 | GPU over IP köprüsü — uzak GPU'yu yerel CUDA cihazı gibi kullanma; multi-GPU workload dağıtımı | [link](https://github.com/iot-lab/lupine) |
+| 11 | **gemini-web2api** | 823 | Gemini web arayüzünü OpenAI uyumlu API'ye dönüştürür — tek Python dosyası, sıfır bağımlılık, streaming + tool calling + 20K token bağlam; ayda $20-50 API maliyeti sıfıra inebilir | [link](https://github.com/Sophomoresty/gemini-web2api) |
