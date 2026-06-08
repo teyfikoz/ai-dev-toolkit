@@ -9,3 +9,4 @@
 | 5 | **dokploy** | 33,859 | Kendi sunucunda deployment ve hosting | [link](https://github.com/dokploy/dokploy) |
 | 6 | **immich** | 62,000 | Google Photos'a açık kaynak alternatif | [link](https://github.com/immich-app/immich) |
 | 7 | **onyx** | 14,000 | Self-hosted kurumsal yapay zeka platformu | [link](https://github.com/onyx-dot-app/onyx) |
+| 8 | **Checkmate** | 6,500 | Self-hosted uptime ve donanim monitoru — gercek zamanli gorsellestirme, HTTP/ping/port/keyword izleme, uyari kanallari. RoboCheckIn gibi uygulamalar icin altyapi izleme referansi | [link](https://github.com/bluewave-labs/Checkmate) |

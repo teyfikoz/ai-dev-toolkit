@@ -12,3 +12,6 @@
 | 8 | **googleads-mobile-android-examples** | 3,100 | Google AdMob Android örnek projeleri — banner, interstitial, rewarded, native ad formatları | [link](https://github.com/googleads/googleads-mobile-android-examples) |
 | 9 | **googleads-mobile-unity** | 720 | Google AdMob Unity plugin ve örnekleri — oyun içi reklam entegrasyonu | [link](https://github.com/googleads/googleads-mobile-unity) |
 | 10 | **3d-tiles** | 2,489 | CesiumGS'in 3D coğrafi veri streaming spesifikasyonu — büyük ölçekli harita, arazi ve bina verisi için açık standart | [link](https://github.com/CesiumGS/3d-tiles) |
+| 11 | **baguette** | 300 | macOS iOS simulatorlerini tarayici uzerinden AI'ya acar. AI agent ekrani gorebilir, dokunabilir, kaydirabilir. brew install baguette && baguette serve. SmartBlock/PersonaLite otomatik UI testi | [link](https://github.com/tddworks/baguette) |
+| 12 | **lingbot-map** | 800 | Akim videodan gercek zamanli 3D sahne yeniden olusturma. AR/VR ve robotik icin; YouTube'da benzersiz 3D gorsellestirme icerigi uretmek icin potansiyel | [link](https://github.com/Robbyant/lingbot-map) |
+| 13 | **kimodo** | 2,200 | Metin komutlarından 3D insan ve robot haraketleri uretir. NVIDIA akademik projesi. YouTube icin AI-generated hareket animasyonlari icerigi uretmede kullanilabilir | [link](https://github.com/nv-tlabs/kimodo) |

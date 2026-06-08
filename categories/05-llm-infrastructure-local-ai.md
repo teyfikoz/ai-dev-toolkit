@@ -13,3 +13,4 @@
 | 9 | **starter-applets (Gemini)** | 1,100 | Google Gemini API ile sıfırdan uygulama örnekleri — multimodal, chat, function calling | [link](https://github.com/google-gemini/starter-applets) |
 | 10 | **lupine** | 2,005 | GPU over IP köprüsü — uzak GPU'yu yerel CUDA cihazı gibi kullanma; multi-GPU workload dağıtımı | [link](https://github.com/iot-lab/lupine) |
 | 11 | **gemini-web2api** | 823 | Gemini web arayüzünü OpenAI uyumlu API'ye dönüştürür — tek Python dosyası, sıfır bağımlılık, streaming + tool calling + 20K token bağlam; ayda $20-50 API maliyeti sıfıra inebilir | [link](https://github.com/Sophomoresty/gemini-web2api) |
+| 12 | **pipeshub-ai** | 4,500 | Aciklanabilir kurumsal arama + bilgi grafigi (knowledge graph). Belge, sohbet, kod ve is verilerini semantik olarak indeksler; seffaf AI arama sonuclari. Self-hosted, SOC2 uyumlu | [link](https://github.com/pipeshub-ai/pipeshub-ai) |
