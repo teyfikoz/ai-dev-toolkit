@@ -14,3 +14,4 @@
 | 10 | **EpicStaff** | 800 | Operasyon ekipleri icin self-hosted AI agent orkestrasyon platformu. Gorev atama, izleme, raporlama arayuzu ile agentlari yonet | [link](https://github.com/EpicStaff/EpicStaff) |
 | 11 | **Memoh** | 1,200 | Her AI agent'a kendi masaustu, ag ve bellek ortami verir. Agent izolasyonu ve coklu agent paralel calisma icin sandbox altyapisi | [link](https://github.com/memohai/Memoh) |
 | 12 | **Shannon** | 500 | AI agent suruleri (swarms) orkestrasyon — zaman-yolculugu hata ayiklama (time-travel debugging) ozelligi ile agent akislarini geri sarip analiz etme imkani | [link](https://github.com/Kocoro-lab/Shannon) |
+| 13 | **wayland** | 2,800 | Rust motoruyla 16 CLI agent'ı (Claude Code, Codex, Gemini, Qwen vb.) tek komutla yönet. 177 dahili iş akışı, kendi kendine birleşen AI takımları, zamanlanmış görevler, kalıcı bellek ve MCP entegrasyonu. Tüm işlemler yerel sandbox içinde. | [link](https://github.com/FerroxLabs/wayland) |

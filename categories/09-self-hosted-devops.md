@@ -10,3 +10,4 @@
 | 6 | **immich** | 62,000 | Google Photos'a açık kaynak alternatif | [link](https://github.com/immich-app/immich) |
 | 7 | **onyx** | 14,000 | Self-hosted kurumsal yapay zeka platformu | [link](https://github.com/onyx-dot-app/onyx) |
 | 8 | **Checkmate** | 6,500 | Self-hosted uptime ve donanim monitoru — gercek zamanli gorsellestirme, HTTP/ping/port/keyword izleme, uyari kanallari. RoboCheckIn gibi uygulamalar icin altyapi izleme referansi | [link](https://github.com/bluewave-labs/Checkmate) |
+| 9 | **GitHub-Store** | 2,100 | GitHub sürümlerini keşfetmek ve yüklemek için açık kaynak uygulama mağazası. GitHub release'lerini tarayıcı arayüzüyle bul, filtrele ve tek tıkla kur. App store deneyimini open source'a taşıyor. | [link](https://github.com/OpenHub-Store/GitHub-Store) |
