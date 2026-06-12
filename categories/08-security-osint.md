@@ -13,3 +13,4 @@
 | 9 | **Detours** | 5,400 | Microsoft'un Win32 API interception kütüphanesi — fonksiyon hooking, DLL injection, test/monitoring | [link](https://github.com/microsoft/Detours) |
 | 10 | **microsoft-pdb** | 1,100 | Microsoft PDB (Program Database) debug bilgisi formatı — sembol dosyaları, reverse engineering | [link](https://github.com/microsoft/microsoft-pdb) |
 | 11 | **skillspector** | 272 | NVIDIA'nın AI agent skill güvenlik tarayıcısı — MCP/Claude skill'lerinde açık tespiti, MITRE ATT&CK haritalama | [link](https://github.com/NVIDIA/skillspector) |
+| 12 | **whatsapp-web-reveng** | — | WhatsApp Web API'sini tersine mühendislik ile çözümler. Özel WhatsApp istemcisi ve otomasyon geliştirme için API dokümantasyonu. RoboCheckIn veya B2BLife için WhatsApp bildirim kanalı geliştirmede referans. | [link](https://github.com/sigalor/whatsapp-web-reveng) |
