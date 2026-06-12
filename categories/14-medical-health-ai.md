@@ -10,3 +10,4 @@ Tıbbi görüntüleme, sağlık taraması ve klinik AI modelleri.
 | 4 | **MedicalNet** | 2,400 | 3D tıbbi görüntüler için ResNet tabanlı transfer öğrenimi; 8 farklı 3D-ResNet ağırlığı mevcut | [link](https://github.com/Tencent/MedicalNet) |
 | 5 | **generative-virtual-screening** | 220 | NVIDIA BioNeMo ile ilaç keşfi için generatif sanal tarama — molekül üretimi + bağlanma analizi | [link](https://github.com/NVIDIA-BioNeMo-blueprints/generative-virtual-screening) |
 | 6 | **generative-protein-binder-design** | 130 | NVIDIA BioNeMo ile protein bağlayıcı tasarımı — RFDiffusion + ProteinMPNN pipeline | [link](https://github.com/NVIDIA-BioNeMo-blueprints/generative-protein-binder-design) |
+| 7 | **OpenClaw-Medical-Skills** | — | AI agentlara 869 tıbbi araştırma becerisi ekler. Klinik protokoller, ilaç etkileşimleri, tanı destek sistemleri için hazır skill paketi. OpenClaw ve MCP uyumlu. | [link](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
