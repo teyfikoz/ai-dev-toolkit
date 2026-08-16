@@ -13,3 +13,14 @@
 | 9 | **GitHub-Store** | 2,100 | GitHub sürümlerini keşfetmek ve yüklemek için açık kaynak uygulama mağazası. GitHub release'lerini tarayıcı arayüzüyle bul, filtrele ve tek tıkla kur. App store deneyimini open source'a taşıyor. | [link](https://github.com/OpenHub-Store/GitHub-Store) |
 | 10 | **n8n-free-templates** | — | 200+ hazır n8n workflow şablonu — AI otomasyon, veri işleme, API entegrasyonu, sosyal medya, bildirim ve daha fazlası. İçe aktarıp anında kullan. | [link](https://github.com/wassupjay/n8n-free-templates) |
 | 11 | **FreeDomain** | 153,000 | Ömür boyu ücretsiz alan adı kaydı ve yenileme. Gizli maliyet yok. Cloudflare ve FreeDNS ile uyumlu. 400,000+ alan adı kayıtlı. DigitalPlat Foundation kâr amacı gütmeyen projesi. Yan projeler ve demolar için ideal. | [link](https://github.com/DigitalPlatDev/FreeDomain) |
+| 12 | **nodecast-tv** | ? | Self-hosted IPTV web uygulaması — Canlı TV, Film ve Dizi için | [link](https://github.com/technomancer702/nodecast-tv) |
+| 13 | **container** | ? | Apple'ın resmi macOS Docker alternatifi — Apple Silicon için optimize, OCI uyumlu, Swift ile yazılı | [link](https://github.com/apple/container) |
+| 14 | **checkcle** | 2687 | Self-hosted açık kaynak izleme platformu — gerçek zamanlı uptime, dağıtık kontrol, incident takibi ve uyarılar, her yerde deploy edilebilir | [link](https://github.com/operacle/checkcle) |
+| 15 | **gatus** | 11229 | Geliştirici odaklı durum sayfası — 11K yıldız, uyarı ve incident desteği, Apache-2.0. RoboCheckIn'in ana rakibi | [link](https://github.com/TwiN/gatus) |
+| 16 | **uptime-kuma** | 84000 | Şık ve kullanıcı dostu self-hosted uptime monitoring aracı. 84K+ yıldız ile en popüler açık kaynak izleme çözümü. Docker ile tek komutta kurulum, güzel web UI. | [link](https://github.com/louislam/uptime-kuma) |
+| 17 | **awesome-status-pages** | 2100 | Açık kaynak durum sayfası yazılımları ve büyük şirketlerin public status sayfalarının derlenmiş listesi. Alternatif araç araştırması için kapsamlı kaynak. | [link](https://github.com/ivbeg/awesome-status-pages) |
+| 18 | **ongrid** | 493 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. | [link](https://github.com/ongridio/ongrid) |
+| 19 | **XHS-Downloader** | 12148 | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件 | [link](https://github.com/JoeanAmier/XHS-Downloader) |
+| 20 | **nginx-ui** | 11346 | Yet another WebUI for Nginx | [link](https://github.com/0xJacky/nginx-ui) |
+| 21 | **free-for-dev** | ? | Ücretsiz hosting, veritabani, API, izleme, e-posta, güvenlik ve gelistirici araçlarinin büyük listesi | [link](https://github.com/ripienaar/free-for-dev) |
+| 22 | **composio** | ? | AI agent'lari Gmail, Slack, GitHub, Notion ve 1000+ araçla baglar — auth dahil (MCP alternatifi) | [link](https://github.com/ComposioHQ/composio) |

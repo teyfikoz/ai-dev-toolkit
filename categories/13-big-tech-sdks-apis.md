@@ -25,3 +25,4 @@ Google, Meta ve Microsoft'un resmi SDK ve API istemci kütüphaneleri.
 | 19 | **azure-docs** | 10,500 | Azure dokümantasyonu kaynak dosyaları; örnekler ve hızlı başlangıç rehberleri | [link](https://github.com/MicrosoftDocs/azure-docs) |
 | 20 | **microsoft-365-docs** | 1,300 | Microsoft 365 resmi dokümantasyonu | [link](https://github.com/MicrosoftDocs/microsoft-365-docs) |
 | 21 | **api-guidelines** | 24,000 | Microsoft REST API tasarım rehberi — naming, versioning, pagination, error format standartları | [link](https://github.com/microsoft/api-guidelines) |
+| 22 | **public-apis** | 320000 | 14.000+ ücretsiz public API'nin küratörlü listesi — her kategori için ücretsiz veri kaynağı | [link](https://github.com/public-apis/public-apis) |

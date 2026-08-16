@@ -15,3 +15,15 @@
 | 11 | **gridex** | 3,200 | Yedi veritabani motorunu (PostgreSQL, MySQL, SQLite, MongoDB, Redis, vb.) destekleyen yerel database IDE — entegre AI ile sorgu onerisi ve optimizasyon | [link](https://github.com/gridex/gridex) |
 | 12 | **brightbean-studio** | 1,400 | 10+ platform icin self-hosted sosyal medya dashboard — post zamanlama, analitik, icerik onizleme. Instagram, LinkedIn, Twitter ve diger kanallari tek panelden yonetme | [link](https://github.com/brightbeanxyz/brightbean-studio) |
 | 13 | **career-ops** | 2,800 | Is arama komuta sistemi — 740+ pozisyon tarama, A-F notlandirma sistemi (10 boyut), CV yeniden yapilandirma + hedefli PDF uretimi, 45 sirket is ilanı sayfasi otomatik takibi. GlobalKariyerim entegrasyon adayi | [link](https://github.com/santifer/career-ops) |
+| 14 | **midday** | ? | Serbest çalışanlar için hepsi bir arada AI iş asistanı — fatura, zaman takibi, finansal raporlar | [link](https://github.com/midday-ai/midday) |
+| 15 | **pm-skills** | 1650 | PM Skills Marketplace — 68 beceri + 42 zincirli workflow, /discover /write-prd /strategy /ship-check komutları, Teresa Torres & Marty Cagan frameworkleri | [link](https://github.com/phuryn/pm-skills) |
+| 16 | **agentsview** | 2100 | Tüm AI araç maliyetlerini tek dashboardda takip et — Claude Code, Codex, Gemini CLI, Cursor; yerel veri, GitHub aktivite grafiği | [link](https://github.com/kenn-io/agentsview) |
+| 17 | **JustHireMe** | 890 | Yerel calisan is scraper + kisisellestirilmis basvuru otomatik olusturucu | [link](https://github.com/vasu-devs/JustHireMe) |
+| 18 | **hermes-gpt** | 47 | Hermes Agent için MCP sidecar — dosya arama, bellek, beceri araçlarını lokal tarafta çalıştırarak GPT-4/Claude gibi pahalı modellere gönderilen token yükünü azaltır. | [link](https://github.com/asimons81/hermes-gpt) |
+| 19 | **git-xargs** | 1113 | git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command. | [link](https://github.com/gruntwork-io/git-xargs) |
+| 20 | **nocodb** | ? | Mevcut SQL veritabanini Airtable tarzinda görsel arayüze dönüstürür | [link](https://github.com/nocodb/nocodb) |
+| 21 | **listmonk** | ? | Hizli self-hosted bülten ve posta listesi platformu — kitle büyüdükçe ekstra ücret yok (Mailchimp alternatifi) | [link](https://github.com/knadh/listmonk) |
+| 22 | **Perplexica** | ? | Self-hosted AI arama motoru — web'i arastirir ve kaynaklarla cevap verir (Perplexity Pro alternatifi) | [link](https://github.com/ItzCrazyKns/Perplexica) |
+| 23 | **meetily** | ? | Toplantilari kaydeder, konusmayi yaziyi çevirir ve özet olusturur — veri cihazda kalir (Otter.ai alternatifi) | [link](https://github.com/Zackriya-Solutions/meetily) |
+| 24 | **zulip** | ? | Açik kaynak iletisim platformu — konuya göre organize sohbet, sesli/görüntülü görüsme (Slack alternatifi) | [link](https://github.com/zulip/zulip) |
+| 25 | **presenton** | ? | Konu veya belgeyi AI tabanli tam sunuma dönüstürür (Gamma/Beautiful.ai alternatifi) | [link](https://github.com/presenton/presenton) |
