@@ -178,3 +178,4 @@
 | 174 | **claude-cookbooks** | ? | Claude API pratik örnekleri — agent SDK, dynamic workflows, memory ve araç entegrasyonlari | [link](https://github.com/anthropics/claude-cookbooks) |
 | 175 | **awesome-copilot** | ? | GitHub Copilot için agent'lar, skill'ler, talimatlar, hook'lar ve workflow'lar koleksiyonu | [link](https://github.com/github/awesome-copilot) |
 | 176 | **ART** | ? | Agent Reinforcement Training — araç kullanan LLM agent'lari için GRPO tabanli RL egitim çerçevesi | [link](https://github.com/OpenPipe/ART) |
+| 177 | **jcode** | 17,688 | En RAM-verimli AI coding agent harness (Rust). Claude + OpenAI + MCP + TUI. OmniRoute tarzı — birden fazla LLM provider desteği | [link](https://github.com/1jehuang/jcode) |
