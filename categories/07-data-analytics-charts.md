@@ -32,3 +32,4 @@
 | 28 | **analytics** | ? | Gizlilik dostu, hafif web analitigi — Google Analytics olmadan site istatistikleri (GDPR uyumlu) | [link](https://github.com/plausible/analytics) |
 | 29 | **awesome** | ? | GitHub'daki en büyük awesome listesi koleksiyonu — her konu için ürün ve araç listelerini bulma rehberi | [link](https://github.com/sindresorhus/awesome) |
 | 30 | **open-design** | ? | Açik kaynak tasarim kaynaklar ve araçlar koleksiyonu — figma alternatif ve free UI kaynaklari | [link](https://github.com/nexu-io/open-design) |
+| 31 | **data-formulator** | 16,148 | Microsoft yapımı AI destekli interaktif veri analizi. Doğal dille veri bağla, keşfet, görselleştir. LLM + Python + chart üretimi tek akışta. | [link](https://github.com/microsoft/data-formulator) |
