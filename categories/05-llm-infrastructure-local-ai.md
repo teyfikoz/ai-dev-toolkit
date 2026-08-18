@@ -98,3 +98,4 @@
 | 94 | **pocketbase** | ? | Tek dosyali açik kaynak backend — gerçek zamanli veritabani, auth, dosya depolama ve REST/JS SDK | [link](https://github.com/pocketbase/pocketbase) |
 | 95 | **Infisical** | ? | Açik kaynak secret yönetim platformu — .env, API key, sertifika ve yapilari merkezi olarak yönet | [link](https://github.com/Infisical/infisical) |
 | 96 | **kimi-cli** | 11188 | Kimi Code CLI — yeni nesil ajan tabanlı kodlama ve görev yürütme aracı | [link](https://github.com/MoonshotAI/kimi-cli) |
+| 97 | **omlx** | 19,328 | Apple Silicon MLX tabanlı LLM inference server. Continuous batching + SSD cache + macOS menu bar yönetim. OpenAI API uyumlu. | [link](https://github.com/jundot/omlx) |
