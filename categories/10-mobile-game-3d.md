@@ -16,3 +16,9 @@
 | 12 | **lingbot-map** | 800 | Akim videodan gercek zamanli 3D sahne yeniden olusturma. AR/VR ve robotik icin; YouTube'da benzersiz 3D gorsellestirme icerigi uretmek icin potansiyel | [link](https://github.com/Robbyant/lingbot-map) |
 | 13 | **kimodo** | 2,200 | Metin komutlarından 3D insan ve robot haraketleri uretir. NVIDIA akademik projesi. YouTube icin AI-generated hareket animasyonlari icerigi uretmede kullanilabilir | [link](https://github.com/nv-tlabs/kimodo) |
 | 14 | **LiveContainer** | 22000 | iOS uygulamalarini yuklemeden calistir — jailbreak gerektirmez, sandbox container | [link](https://github.com/LiveContainer/LiveContainer) |
+
+## liriliri/aya ⭐5,378
+**URL:** https://github.com/liriliri/aya
+**Tags:** adb, android, electron, electron-app
+Android ADB masaüstü uygulaması — Electron tabanlı, cihaz yönetimi.
+**Portföy:** PersonaLite/SmartBlock Android debug ve test yönetimi

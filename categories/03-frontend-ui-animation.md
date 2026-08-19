@@ -25,3 +25,21 @@
 | 21 | **skills** | 8242 | Tasarım mühendisleri için UI/animasyon beceri paketi — CSS geçişleri, easing kuralları ve arayüz tasarım kararları için Vercel/Linear deneyiminden damıtılmış agent-ready context. `npx skills@latest add` ile kurulur. | [link](https://github.com/emilkowalski/skills) |
 | 22 | **langfuse** | ? | Açik kaynak LLM mühendislik platformu — prompt, yanit, maliyet, hata ve ajan trace takibi (LangSmith alternatifi) | [link](https://github.com/langfuse/langfuse) |
 | 23 | **kimi-code** | 6797 | Kimi Code CLI — sonraki nesil kodlama ajanları için başlangıç noktası | [link](https://github.com/MoonshotAI/kimi-code) |
+
+## stackblitz/bolt.new ⭐16,520
+**URL:** https://github.com/stackblitz/bolt.new
+**Tags:** ai-playground, anthropic, chatbot, webcontainers-api
+Prompt ile tam-yığın web uygulama üretimi. AI + WebContainers, tarayıcıda çalışır.
+**Portföy:** Hızlı prototip üretimi için referans, Synaptiq single-file app ilham kaynağı
+
+## ast-grep/ast-grep ⭐15,587
+**URL:** https://github.com/ast-grep/ast-grep
+**Tags:** ast, codemod, codereview, command-line, rust
+Rust tabanlı AST yapısal arama, lint ve kod yeniden yazma CLI.
+**Portföy:** Büyük codebase migrasyonu için
+
+## openrewrite/rewrite ⭐3,659
+**URL:** https://github.com/openrewrite/rewrite
+**Tags:** ast, code-search, java, refactoring
+Otomatik kaynak kodu toplu refactor — AST tabanlı dönüşüm.
+**Portföy:** Java/Python kod migrasyonu

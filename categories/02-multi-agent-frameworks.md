@@ -55,3 +55,33 @@
 | 51 | **letta** | ? | Uzun vadeli bellek ve durum yönetimine sahip stateful LLM agent'lari olusturma platformu | [link](https://github.com/letta-ai/letta) |
 | 52 | **MemOS** | ? | LLM ve agent sistemleri için kapsamli bellek isletim sistemi — saklama, güncelleme, silme ve arama | [link](https://github.com/MemTensor/MemOS) |
 | 53 | **supermemory** | ? | AI için web URL, PDF, metin ve baris kaynakli bellek deposu — hizli ve alinti destekli arama | [link](https://github.com/supermemoryai/supermemory) |
+
+## openinterpreter/openinterpreter ⭐68,074
+**URL:** https://github.com/openinterpreter/openinterpreter
+**Tags:** coding-agent, acp, deepseek, kimi, qwen
+Açık modeller için coding agent (ACP protokolü). Kimi K3, DeepSeek, Qwen ile çalışır. Kod yazma + çalıştırma döngüsü.
+**Portföy:** Synaptiq Python Workspace için agent-as-interpreter, B2BLife araştırma pipeline'ı
+
+## stablyai/orca ⭐48,954
+**URL:** https://github.com/stablyai/orca
+**Tags:** ade, agent-ide, ai-agents, claude-code, cli
+Paralel agent filo yönetim ADE. Claude Code ile çalışır, birden fazla agent'ı aynı anda yönetir.
+**Portföy:** Synaptiq Agent Studio orkestrasyon referansı
+
+## microsoft/agent-framework ⭐12,950
+**URL:** https://github.com/microsoft/agent-framework
+**Tags:** agent-framework, agentic-ai, agents, ai, dotnet
+Microsoft'un AI agent ve multi-agent orkestrasyon framework'ü (.NET). Enterprise grade.
+**Portföy:** TSA enterprise agent mimarisi referansı
+
+## HarnessRouter/harnessrouter ⭐270
+**URL:** https://github.com/HarnessRouter/harnessrouter
+**Tags:** agent-api, agent-harness, ai-infrastructure, open-protocol
+Self-hosted, Apache-2.0 lisanslı agent harness router. Açık protokol uyumlu.
+**Portföy:** Synaptiq Agent Runtime altyapısı için
+
+## elie222/botdirectory.ai ⭐58
+**URL:** https://github.com/elie222/botdirectory.ai
+**Tags:** agents, ai-agents, astro, automation, bots
+Açık kaynak agent-bot prompt dizini (Grok Bot, Rakazo vb.).
+**Portföy:** TSA StrategyLab agent prompt kütüphanesi

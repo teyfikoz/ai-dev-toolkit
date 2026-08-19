@@ -57,3 +57,9 @@
 | 53 | **open-seo** | ? | Konu arastir, SEO makalesi yaz, metadata olustur ve WordPress'e direk yayin yap | [link](https://github.com/maximemarsal/open-seo) |
 | 54 | **AI-reads-books-page-by-page** | ? | AI ile kitap sayfa sayfa okuma ve özet çikarma pipeline'i | [link](https://github.com/echohive42/AI-reads-books-page-by-page) |
 | 55 | **Kimi-Audio** | 4720 | Kimi-Audio açık kaynak ses temel modeli — konuşma ve ses anlama | [link](https://github.com/MoonshotAI/Kimi-Audio) |
+
+## DrewThomasson/ebook2audiobook ⭐19,894
+**URL:** https://github.com/DrewThomasson/ebook2audiobook
+**Tags:** audiobook, voice-cloning, docker, 1158-languages
+E-kitaptan sesli kitap üretimi, ses klonlama, 1158+ dil desteği. Docker ile çalışır.
+**Portföy:** Podcast Factory için çok dilli TTS ve ses klonlama

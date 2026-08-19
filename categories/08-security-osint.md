@@ -35,3 +35,15 @@
 | 31 | **vulnrepo** | 564 | VULNRΞPO - Free vulnerability report generator and repository, end-to-end encrypted! Templates of issues, CWE,CVE,MITRE ATT&CK,PCI DSS, import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/DOCX, attachments, automatic changelog, stats, vulnerability management, bugbounty, local ai/llm, super fast pentest reporting! | [link](https://github.com/kac89/vulnrepo) |
 | 32 | **defending-code-reference-harness** | 6734 | Anthropic'in autonomous güvenlik açığı bulma ve düzeltme referans implementasyonu. Claude Code skill'leri: /threat-model, /vuln-scan, /triage, /patch, /customize. C/C++ memory vulnerabilities için Docker+ASAN harness. Detection & response: /dnr-hunt, /dnr-respond. | [link](https://github.com/anthropics/defending-code-reference-harness) |
 | 33 | **bettercap** | 19704 | 802.11, BLE, IPv4/IPv6 ağ keşfi ve MITM framework — pentest İsviçre çakısı | [link](https://github.com/bettercap/bettercap) |
+
+## semgrep/semgrep ⭐16,303
+**URL:** https://github.com/semgrep/semgrep
+**Tags:** c, go, java, javascript, python
+Çok dilli hafif statik analiz — pattern tabanlı bug ve güvenlik açığı bulma.
+**Portföy:** RoboCheckIn kod tarama modülü entegrasyonu
+
+## github/codeql-action ⭐1,619
+**URL:** https://github.com/github/codeql-action
+**Tags:** actions, advanced-security, ci, code-scanning, codeql
+GitHub Actions CodeQL entegrasyonu — otomatik güvenlik taraması.
+**Portföy:** Tüm repo'lar için CI/CD güvenlik pipeline'ı
