@@ -105,3 +105,4 @@
 **Tags:** agents, data, framework, rag, fine-tuning
 Dokuman agent + RAG framework. OCR + indexleme platformu.
 **Portföy:** B2BLife şirket intelligence için belge indexleme, TSA StrategyLab için RAG
+| 27 | **qdrant** | 34,063 | Yüksek performanslı vektör veritabanı — RAG, embedding arama, semantik benzerlik. B2BLife/TechSyncAnalytica için şirket bilgi tabanı ve döküman arama altyapısı. Yerel çalışır, REST+gRPC API | [link](https://github.com/qdrant/qdrant) |

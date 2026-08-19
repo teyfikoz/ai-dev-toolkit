@@ -27,3 +27,7 @@
 | 23 | **meetily** | ? | Toplantilari kaydeder, konusmayi yaziyi çevirir ve özet olusturur — veri cihazda kalir (Otter.ai alternatifi) | [link](https://github.com/Zackriya-Solutions/meetily) |
 | 24 | **zulip** | ? | Açik kaynak iletisim platformu — konuya göre organize sohbet, sesli/görüntülü görüsme (Slack alternatifi) | [link](https://github.com/zulip/zulip) |
 | 25 | **presenton** | ? | Konu veya belgeyi AI tabanli tam sunuma dönüstürür (Gamma/Beautiful.ai alternatifi) | [link](https://github.com/presenton/presenton) |
+| 26 | **novu** | 39,618 | Açık kaynak bildirim altyapısı — e-posta, SMS, push, in-app, WhatsApp kanallarını tek API'den yönet. Self-hosted, Paddle ödeme onayı/fatura bildirimleri için RoboCheckIn ve B2BLife'a entegre edilebilir | [link](https://github.com/novuhq/novu) |
+| 27 | **cal.diy** | 47,805 | cal.com'un tam DIY sürümü — kendi sunucunda Calendly. TSA demo rezervasyon, B2BLife müşteri randevusu için self-hosted scheduling | [link](https://github.com/calcom/cal.diy) |
+| 28 | **documenso** | 14,616 | Açık kaynak DocuSign alternatifi — e-imza, şablon yönetimi, webhook desteği. Self-hosted, müşteri sözleşmeleri için B2BLife/TSA'ya entegre edilebilir | [link](https://github.com/documenso/documenso) |
+| 29 | **directus** | 37,471 | Mevcut SQL veritabanını otomatik REST+GraphQL API'ye dönüştürür — Headless CMS + admin paneli. PostgreSQL, MySQL, SQLite destekli; self-hosted | [link](https://github.com/directus/directus) |

@@ -24,3 +24,4 @@
 | 20 | **nginx-ui** | 11346 | Yet another WebUI for Nginx | [link](https://github.com/0xJacky/nginx-ui) |
 | 21 | **free-for-dev** | ? | Ücretsiz hosting, veritabani, API, izleme, e-posta, güvenlik ve gelistirici araçlarinin büyük listesi | [link](https://github.com/ripienaar/free-for-dev) |
 | 22 | **composio** | ? | AI agent'lari Gmail, Slack, GitHub, Notion ve 1000+ araçla baglar — auth dahil (MCP alternatifi) | [link](https://github.com/ComposioHQ/composio) |
+| 23 | **dgit** | 142 | GitHub bağlantısı olmadan git repo'larını dağıtık olarak paylaşma — p2p git, tamamen offline çalışır | [link](https://github.com/littledivy/dgit) |

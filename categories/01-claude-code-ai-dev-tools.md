@@ -179,3 +179,6 @@
 | 175 | **awesome-copilot** | ? | GitHub Copilot için agent'lar, skill'ler, talimatlar, hook'lar ve workflow'lar koleksiyonu | [link](https://github.com/github/awesome-copilot) |
 | 176 | **ART** | ? | Agent Reinforcement Training — araç kullanan LLM agent'lari için GRPO tabanli RL egitim çerçevesi | [link](https://github.com/OpenPipe/ART) |
 | 177 | **jcode** | 17,688 | En RAM-verimli AI coding agent harness (Rust). Claude + OpenAI + MCP + TUI. OmniRoute tarzı — birden fazla LLM provider desteği | [link](https://github.com/1jehuang/jcode) |
+| 178 | **pi-subagents** | 918 | Perplexity AI (pi) için Claude Code / AI subagent uzantıları — web arama, araştırma ve context zenginleştirme entegrasyonu | [link](https://github.com/tintinweb/pi-subagents) |
+| 179 | **pi-web-access** | 1,160 | AI agent'lara web erişimi kazandıran MCP/tool entegrasyonu — yerel çalışır, API key gerektirmez | [link](https://github.com/nicobailon/pi-web-access) |
+| 180 | **agent-pi** | 256 | Pi AI agent framework — Claude Code ile bütünleşen hafif agent yönetim katmanı | [link](https://github.com/ruizrica/agent-pi) |
