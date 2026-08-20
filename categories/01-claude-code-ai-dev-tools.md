@@ -182,3 +182,4 @@
 | 178 | **pi-subagents** | 918 | Perplexity AI (pi) için Claude Code / AI subagent uzantıları — web arama, araştırma ve context zenginleştirme entegrasyonu | [link](https://github.com/tintinweb/pi-subagents) |
 | 179 | **pi-web-access** | 1,160 | AI agent'lara web erişimi kazandıran MCP/tool entegrasyonu — yerel çalışır, API key gerektirmez | [link](https://github.com/nicobailon/pi-web-access) |
 | 180 | **agent-pi** | 256 | Pi AI agent framework — Claude Code ile bütünleşen hafif agent yönetim katmanı | [link](https://github.com/ruizrica/agent-pi) |
+| 181 | **maka** | 1,580 | Apache destekli local-first AI masaüstü asistanı. TypeScript, Apache 2.0, çevrimdışı çalışır. OCC ve Synaptiq için offline-first AI asistan mimarisi referansı | [link](https://github.com/apache/maka) |
