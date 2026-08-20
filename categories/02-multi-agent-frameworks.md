@@ -85,3 +85,4 @@ Self-hosted, Apache-2.0 lisanslı agent harness router. Açık protokol uyumlu.
 **Tags:** agents, ai-agents, astro, automation, bots
 Açık kaynak agent-bot prompt dizini (Grok Bot, Rakazo vb.).
 **Portföy:** TSA StrategyLab agent prompt kütüphanesi
+| 54 | **trueforge** | 1,931 | LLM'yi çalışan agent'a dönüştüren açık kaynak agent harness runtime katmanı. Tool calling, memory, state management, retry logic içerir. TypeScript, MIT. TSA StrategyLab ve B2BLife agent altyapısı için referans | [link](https://github.com/truefoundry/trueforge) |
