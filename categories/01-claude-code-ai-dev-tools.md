@@ -183,3 +183,12 @@
 | 179 | **pi-web-access** | 1,160 | AI agent'lara web erişimi kazandıran MCP/tool entegrasyonu — yerel çalışır, API key gerektirmez | [link](https://github.com/nicobailon/pi-web-access) |
 | 180 | **agent-pi** | 256 | Pi AI agent framework — Claude Code ile bütünleşen hafif agent yönetim katmanı | [link](https://github.com/ruizrica/agent-pi) |
 | 181 | **maka** | 1,580 | Apache destekli local-first AI masaüstü asistanı. TypeScript, Apache 2.0, çevrimdışı çalışır. OCC ve Synaptiq için offline-first AI asistan mimarisi referansı | [link](https://github.com/apache/maka) |
+
+- [xai-org/xai-cookbook](https://github.com/xai-org/xai-cookbook) ⭐549 — xAI Grok API için gerçek dünya örnekleri koleksiyonu
+- [xai-org/xai-sdk-python](https://github.com/xai-org/xai-sdk-python) ⭐553 — xAI API için resmi Python SDK
+- [xai-org/xai-proto](https://github.com/xai-org/xai-proto) ⭐148 — xAI gRPC API için resmi protobuf tanımlamaları
+- [xai-org/plugin-marketplace](https://github.com/xai-org/plugin-marketplace) ⭐162 — Resmi xAI plugin marketplace
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) ⭐12409 — Claude Code sistem promptları ve 27 dahili araç açıklamaları
+- [LING71671/Open-ClaudeCode](https://github.com/LING71671/Open-ClaudeCode) ⭐945 — npm kaynaklarından yeniden oluşturulan Claude Code kaynak arşivi
+- [RishabhK103/claude-code](https://github.com/RishabhK103/claude-code) ⭐107 — Claude Code topluluk fork
+- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) ⭐4771 — Monorepo için ultimate RAG — çok dilli codebase sorgulama ve düzenleme

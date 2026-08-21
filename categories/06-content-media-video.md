@@ -63,3 +63,5 @@
 **Tags:** audiobook, voice-cloning, docker, 1158-languages
 E-kitaptan sesli kitap üretimi, ses klonlama, 1158+ dil desteği. Docker ile çalışır.
 **Portföy:** Podcast Factory için çok dilli TTS ve ses klonlama
+
+- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐7192 — LongCat: uzun video anlama ve üretim modeli

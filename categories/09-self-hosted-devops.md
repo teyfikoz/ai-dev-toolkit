@@ -25,3 +25,7 @@
 | 21 | **free-for-dev** | ? | Ücretsiz hosting, veritabani, API, izleme, e-posta, güvenlik ve gelistirici araçlarinin büyük listesi | [link](https://github.com/ripienaar/free-for-dev) |
 | 22 | **composio** | ? | AI agent'lari Gmail, Slack, GitHub, Notion ve 1000+ araçla baglar — auth dahil (MCP alternatifi) | [link](https://github.com/ComposioHQ/composio) |
 | 23 | **dgit** | 142 | GitHub bağlantısı olmadan git repo'larını dağıtık olarak paylaşma — p2p git, tamamen offline çalışır | [link](https://github.com/littledivy/dgit) |
+
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) ⭐11217 — Port numaralarını kararlı adlandırılmış lokal URL'lerle değiştir
+- [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) ⭐1419 — Tencent'in bulut için özel Linux sunucu çekirdeği
+- [Tencent/TSW](https://github.com/Tencent/TSW) ⭐1802 — Tencent Server Web izleme ve altyapı platformu

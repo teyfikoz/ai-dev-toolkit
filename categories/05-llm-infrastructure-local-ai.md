@@ -106,3 +106,8 @@
 Dokuman agent + RAG framework. OCR + indexleme platformu.
 **Portföy:** B2BLife şirket intelligence için belge indexleme, TSA StrategyLab için RAG
 | 27 | **qdrant** | 34,063 | Yüksek performanslı vektör veritabanı — RAG, embedding arama, semantik benzerlik. B2BLife/TechSyncAnalytica için şirket bilgi tabanı ve döküman arama altyapısı. Yerel çalışır, REST+gRPC API | [link](https://github.com/qdrant/qdrant) |
+
+- [salesforce/OmniXAI](https://github.com/salesforce/OmniXAI) ⭐970 — Açıklanabilir AI (XAI) kütüphanesi — model yorumlama ve şeffaflık
+- [Tencent/TencentPretrain](https://github.com/Tencent/TencentPretrain) ⭐1091 — PyTorch tabanlı LLM ön eğitim çerçevesi ve model zoo
+- [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) ⭐3063 — Büyük çok etiketli görsel veritabanı ve ResNet-101 modeli
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) ⭐40672 — AI Agent tasarım ilkeleri ve mühendislik pratiği kitabı (açık kaynak)
