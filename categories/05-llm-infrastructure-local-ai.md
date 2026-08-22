@@ -111,3 +111,9 @@ Dokuman agent + RAG framework. OCR + indexleme platformu.
 - [Tencent/TencentPretrain](https://github.com/Tencent/TencentPretrain) ⭐1091 — PyTorch tabanlı LLM ön eğitim çerçevesi ve model zoo
 - [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) ⭐3063 — Büyük çok etiketli görsel veritabanı ve ResNet-101 modeli
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) ⭐40672 — AI Agent tasarım ilkeleri ve mühendislik pratiği kitabı (açık kaynak)
+
+## shiyu-coder/Kronos ⭐37,729
+**Lang:** Python | Finansal piyasalar için temel dil modeli.
+Fiyat, hacim ve volatilite verilerini doğal dil olarak modelleyen transformer mimarisi.
+**Repo:** https://github.com/shiyu-coder/Kronos
+**Not:** StockPulse için finansal zaman serisi tahmin referansı
