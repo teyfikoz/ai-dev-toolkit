@@ -199,3 +199,10 @@ GPT-Image-2 için 470+ endüstriyel prompt şablonu ve Skills kütüphanesi. Pro
 - **Tags:** prompt-engineering, gpt-image-2, skills, workflow-automation, ai-image-generation
 - **GitHub:** https://github.com/freestylefly/awesome-gpt-image-2
 - **Kullanım:** Synapse SkillStore için görsel analiz prompt şablonları
+
+## Leonxlnx/unlazy
+AI agent tembelligi önleme skill — Depth Tree yöntemi ile görev N katman derine bölünür, her yaprak düğümü görevin tam zaman bütçesini alır. Model tembelliği ve erken tamamlama araştırmalarına (2025-2026) dayalı. Claude Code, Codex CLI desteği.
+- **Stars:** 1,322 | **Language:** JavaScript
+- **Tags:** ai-agents, claude, claude-code, llm, skill, prompt-engineering
+- **GitHub:** https://github.com/Leonxlnx/unlazy
+- **Kullanım:** Synaptiq `buildDepthTree()` olarak agentRuntime.ts'e entegre edildi — offline, LLM gerektirmez

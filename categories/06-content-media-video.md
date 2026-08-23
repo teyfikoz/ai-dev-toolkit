@@ -71,3 +71,17 @@ Flux + Together AI tabanlı ücretsiz açık kaynak logo oluşturucu. Next.js, R
 - **Stars:** 8,361 | **Language:** TypeScript
 - **GitHub:** https://github.com/Nutlope/logocreator
 - **Kullanım:** B2BLife/RoboCheckIn landing page görselleri, YouTube kanal logoları
+
+## altic-dev/FluidVoice
+macOS için on-device STT dikte uygulaması — Whisper, Parakeet, Nemotron Speech 3.5 modelleri, tamamen offline, LLM gerektirmez. Homebrew ile kurulum. iOS ve Windows yolda.
+- **Stars:** 10,833 | **Language:** Swift
+- **Tags:** ai, dictation, llama-cpp, macos, on-device-stt
+- **GitHub:** https://github.com/altic-dev/FluidVoice
+- **Kullanım:** Offline STT referansı — Whisper.js/transformers.js entegrasyonu için mimari model
+
+## cclank/lanshu-create-ai-presenter-video
+Script + yüz fotoğrafından AI presenter video üreten provider-agnostic Codex skill. Digital human video üretimi, doğrulanmış AI sunucu. MIT lisansı.
+- **Stars:** 536 | **Language:** Python
+- **Tags:** ai-video, codex, codex-skill, digital-human, video-generation
+- **GitHub:** https://github.com/cclank/lanshu-create-ai-presenter-video
+- **Kullanım:** Content pipeline — YouTube/TikTok için AI presenter video üretimi

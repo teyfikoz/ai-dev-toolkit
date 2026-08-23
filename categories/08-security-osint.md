@@ -47,3 +47,10 @@
 **Tags:** actions, advanced-security, ci, code-scanning, codeql
 GitHub Actions CodeQL entegrasyonu — otomatik güvenlik taraması.
 **Portföy:** Tüm repo'lar için CI/CD güvenlik pipeline'ı
+
+## duty1g/x64dbg-mcp-server
+x64dbg debugger için native MCP plugin — HTTP üzerinden tam debugger erişimi. Breakpoint, adım, memory okuma, register dump. Zig ile sıfır bağımlılık, single-binary. Cross-platform.
+- **Stars:** 401 | **Language:** Zig
+- **Tags:** ai-debugging, binary-analysis, mcp, mcp-server, x64dbg, zig, malware-analysis
+- **GitHub:** https://github.com/duty1g/x64dbg-mcp-server
+- **Kullanım:** AI destekli reverse engineering ve malware analiz pipeline'ı

@@ -42,3 +42,10 @@ S3-uyumlu hafif nesne depolama sunucusu — tek binary, web dashboard, rest şif
 - **Stars:** 1,239 | **Language:** Go
 - **GitHub:** https://github.com/Kodiqa-Solutions/VaultS3
 - **Kullanım:** Hetzner'da S3-uyumlu dosya depolama altyapısı
+
+## oomol-lab/open-connector
+1000+ SaaS sağlayıcıyı AI agent'lara bağlayan self-hosted OAuth gateway. Composio/Pipedream açık kaynak alternatifi. SDK, CLI, MCP, HTTP, OpenAPI desteği. Cloudflare, Docker, Node.js ile deploy.
+- **Stars:** 5,001 | **Language:** TypeScript
+- **Tags:** ai-agents, api-gateway, mcp, oauth, saas-integrations, self-hosted
+- **GitHub:** https://github.com/oomol-lab/open-connector
+- **Kullanım:** Synaptiq ConnectView'e entegre — self-hosted, internet gerektirmez, 1000+ provider
