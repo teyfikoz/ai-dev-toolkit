@@ -43,3 +43,17 @@ Rust tabanlı AST yapısal arama, lint ve kod yeniden yazma CLI.
 **Tags:** ast, code-search, java, refactoring
 Otomatik kaynak kodu toplu refactor — AST tabanlı dönüşüm.
 **Portföy:** Java/Python kod migrasyonu
+
+## braedonsaunders/codeflow
+GitHub URL yapıştır → interaktif mimari harita. Bağımlılık grafiği, D3.js, tarayıcıda çalışır, kurulum yok.
+- **Stars:** 5,042 | **Language:** HTML
+- **Tags:** code-analysis, dependency-graph, visualization, d3js, browser-based
+- **GitHub:** https://github.com/braedonsaunders/codeflow
+- **Kullanım:** Synaptiq Studio/OCC proje mimari görselleştirmesi
+
+## MengTo/threeui
+ThreeJS + WebGL interaktif 3D UI bileşen kataloğu. React entegrasyonu, shader efektleri, canlı önizleme.
+- **Stars:** 2,154 | **Language:** HTML
+- **Tags:** threejs, webgl, react, shaders, ui-components
+- **GitHub:** https://github.com/MengTo/threeui
+- **Kullanım:** OCC / Synaptiq Studio 3D görselleştirme bileşenleri

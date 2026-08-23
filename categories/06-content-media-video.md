@@ -65,3 +65,9 @@ E-kitaptan sesli kitap üretimi, ses klonlama, 1158+ dil desteği. Docker ile ç
 **Portföy:** Podcast Factory için çok dilli TTS ve ses klonlama
 
 - [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) ⭐7192 — LongCat: uzun video anlama ve üretim modeli
+
+## Nutlope/logocreator
+Flux + Together AI tabanlı ücretsiz açık kaynak logo oluşturucu. Next.js, Replicate API.
+- **Stars:** 8,361 | **Language:** TypeScript
+- **GitHub:** https://github.com/Nutlope/logocreator
+- **Kullanım:** B2BLife/RoboCheckIn landing page görselleri, YouTube kanal logoları

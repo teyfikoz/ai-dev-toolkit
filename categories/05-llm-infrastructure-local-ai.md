@@ -117,3 +117,22 @@ Dokuman agent + RAG framework. OCR + indexleme platformu.
 Fiyat, hacim ve volatilite verilerini doğal dil olarak modelleyen transformer mimarisi.
 **Repo:** https://github.com/shiyu-coder/Kronos
 **Not:** StockPulse için finansal zaman serisi tahmin referansı
+
+## FlashML-org/FreeToken
+Ücretsiz LLM token/erişim yönetimi — açık kaynak token optimizasyon aracı.
+- **Stars:** 2,483 | **Language:** Python
+- **GitHub:** https://github.com/FlashML-org/FreeToken
+- **Kullanım:** Groq/Ollama token verimliliği, Synapse embedding maliyet azaltma
+
+## microsoft/kernel-memory
+Microsoft LLM bellek çözümü — RAG, semantic search, indeksleme, kullanıcı/takım/uygulama hafızası.
+- **Stars:** 2,233 | **Language:** C#
+- **Tags:** rag, llm, memory, semantic-search, indexing
+- **GitHub:** https://github.com/microsoft/kernel-memory
+- **Kullanım:** Synapse Knowledge Layer için alternatif RAG mimarisi referansı
+
+## JustVugg/colibri
+Saf C ile MoE modellerini disk'ten expert streaming ile çalıştır. Sıfır bağımlılık, minimal kaynak.
+- **Stars:** 25,890 | **Language:** C
+- **GitHub:** https://github.com/JustVugg/colibri
+- **Kullanım:** Synaptiq Studio offline/yerel model desteği için ultra-hafif inference

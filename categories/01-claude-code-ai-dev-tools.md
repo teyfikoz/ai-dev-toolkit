@@ -192,3 +192,10 @@
 - [LING71671/Open-ClaudeCode](https://github.com/LING71671/Open-ClaudeCode) ⭐945 — npm kaynaklarından yeniden oluşturulan Claude Code kaynak arşivi
 - [RishabhK103/claude-code](https://github.com/RishabhK103/claude-code) ⭐107 — Claude Code topluluk fork
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) ⭐4771 — Monorepo için ultimate RAG — çok dilli codebase sorgulama ve düzenleme
+
+## freestylefly/awesome-gpt-image-2
+GPT-Image-2 için 470+ endüstriyel prompt şablonu ve Skills kütüphanesi. Prompt as Code yaklaşımı, 20+ template kategorisi, workflow otomasyon entegrasyonu.
+- **Stars:** 12,325 | **Language:** JavaScript
+- **Tags:** prompt-engineering, gpt-image-2, skills, workflow-automation, ai-image-generation
+- **GitHub:** https://github.com/freestylefly/awesome-gpt-image-2
+- **Kullanım:** Synapse SkillStore için görsel analiz prompt şablonları

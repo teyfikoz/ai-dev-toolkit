@@ -92,3 +92,10 @@ Açık kaynak agent-bot prompt dizini (Grok Bot, Rakazo vb.).
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐14540 — AI agentlar için güvenli sandbox runtime
 - [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) ⭐1128 — Lokal-önce Agent OS: uzman agentlar hub + görev başına orkestratör
 - [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) ⭐2076 — Her biri kendi bilgisayarına sahip açık kaynak AI iş arkadaşları
+
+## BagelHole/DevOps-Security-Agent-Skills
+Agent-ready 80+ DevOps/güvenlik beceri seti — Kubernetes, Terraform, AWS/Azure/GCP, SOC2/ISO27001, SRE. Hazır playbook ve scriptler.
+- **Stars:** 562 | **Language:** Shell
+- **Tags:** agent-skills, agentic-ai, devops, kubernetes, security, terraform, compliance
+- **GitHub:** https://github.com/BagelHole/DevOps-Security-Agent-Skills
+- **Kullanım:** Synapse SkillStore'a DevOps domain becerileri eklemek için

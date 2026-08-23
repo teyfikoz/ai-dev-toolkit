@@ -10,3 +10,10 @@
 | 6 | **TradingAgents** | 2,000 | Çok-agent LLM finansal trading framework — fundamental, sentiment, teknik analist + trader ve risk agent rolleri. | [link](https://github.com/TauricResearch/TradingAgents) |
 | 7 | **FinRL-Trading** | 3,000 | LLM çağı için üretim hazır AI trading altyapısı — modüler mimari, backtesting, live execution. | [link](https://github.com/AI4Finance-Foundation/FinRL-Trading) |
 | 8 | **awesome-quant** | 4,000 | Quant finans için en kapsamlı kaynak listesi — Python, R, Matlab, Julia, C++ kütüphaneleri. | [link](https://github.com/wilsonfreitas/awesome-quant) |
+
+## suislanchez/polymarket-kalshi-weather-bot
+Polymarket/Kalshi hava durumu tahmin piyasası botu. GFS ensemble, Kelly kriteri, React dashboard. Kar: $1.8K+
+- **Stars:** 620 | **Language:** Python
+- **Tags:** prediction-markets, kalshi, polymarket, ensemble-forecasting, kelly-criterion
+- **GitHub:** https://github.com/suislanchez/polymarket-kalshi-weather-bot
+- **Kullanım:** TechSyncAnalytica DecisionSense için prediction market veri entegrasyonu

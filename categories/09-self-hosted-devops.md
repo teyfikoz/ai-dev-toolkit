@@ -29,3 +29,16 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) ⭐11217 — Port numaralarını kararlı adlandırılmış lokal URL'lerle değiştir
 - [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) ⭐1419 — Tencent'in bulut için özel Linux sunucu çekirdeği
 - [Tencent/TSW](https://github.com/Tencent/TSW) ⭐1802 — Tencent Server Web izleme ve altyapı platformu
+
+## databasus/databasus
+PostgreSQL yedekleme aracı — PITR (Point-In-Time Recovery), restore doğrulama, web UI, Docker/Kubernetes desteği.
+- **Stars:** 8,127 | **Language:** Go
+- **Tags:** backup, postgresql, kubernetes, docker, self-hosted, s3
+- **GitHub:** https://github.com/databasus/databasus
+- **Kullanım:** Hetzner PostgreSQL yedekleme (B2BLife, RoboCheckIn, TSA DB'leri)
+
+## Kodiqa-Solutions/VaultS3
+S3-uyumlu hafif nesne depolama sunucusu — tek binary, web dashboard, rest şifreleme, düşük bellek.
+- **Stars:** 1,239 | **Language:** Go
+- **GitHub:** https://github.com/Kodiqa-Solutions/VaultS3
+- **Kullanım:** Hetzner'da S3-uyumlu dosya depolama altyapısı
