@@ -49,3 +49,4 @@ S3-uyumlu hafif nesne depolama sunucusu — tek binary, web dashboard, rest şif
 - **Tags:** ai-agents, api-gateway, mcp, oauth, saas-integrations, self-hosted
 - **GitHub:** https://github.com/oomol-lab/open-connector
 - **Kullanım:** Synaptiq ConnectView'e entegre — self-hosted, internet gerektirmez, 1000+ provider
+| 24 | **httpsms** | 4,303 | Android telefonundan HTTP API ile programatik SMS gönder/al — kendi SMS gateway'in. Go backend, self-hosted, webhook desteği | [link](https://github.com/NdoleStudio/httpsms) |

@@ -136,3 +136,10 @@ Saf C ile MoE modellerini disk'ten expert streaming ile çalıştır. Sıfır ba
 - **Stars:** 25,890 | **Language:** C
 - **GitHub:** https://github.com/JustVugg/colibri
 - **Kullanım:** Synaptiq Studio offline/yerel model desteği için ultra-hafif inference
+
+## zilliztech/deep-searcher
+Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. Agentic RAG mimarisi, Milvus/Zilliz vektör DB entegrasyonu. Claude, DeepSeek, Grok, Qwen3, Llama4 desteği. Pipedream/Perplexity alternatifi.
+- **Stars:** 8,168 | **Language:** Python
+- **Tags:** agentic-rag, deep-research, vector-database, milvus, reasoning-models
+- **GitHub:** https://github.com/zilliztech/deep-searcher
+- **Kullanım:** Synaptiq Synapse brain için deep research referansı — private data üzerinde RAG + reasoning

@@ -206,3 +206,5 @@ AI agent tembelligi önleme skill — Depth Tree yöntemi ile görev N katman de
 - **Tags:** ai-agents, claude, claude-code, llm, skill, prompt-engineering
 - **GitHub:** https://github.com/Leonxlnx/unlazy
 - **Kullanım:** Synaptiq `buildDepthTree()` olarak agentRuntime.ts'e entegre edildi — offline, LLM gerektirmez
+| 182 | **LongHorizon-Harness** | 1,229 | Uzun süreli bilgisayar kullanım harness — AI agent'ları masaüstü uygulamaları ve CLI'de uzun süre çalıştırır, görev durumunu korur. Fresh-context execution, dayanıklı doğrulanmış state, bağımsız denetim. Claude Code, Codex, OpenClaw entegrasyonu | [link](https://github.com/AMAP-ML/LongHorizon-Harness) |
+| 183 | **ux-ui-agent-skills** | 712 | Claude'u Kıdemli Tasarım Mimarına dönüştür — DTCG design token'ları, 42 component, WCAG 2.2 erişilebilirlik, 138 design system, çalıştırılabilir skill'ler. Figma→kod, herhangi framework desteği | [link](https://github.com/plugin87/ux-ui-agent-skills) |

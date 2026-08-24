@@ -31,3 +31,4 @@
 | 27 | **cal.diy** | 47,805 | cal.com'un tam DIY sürümü — kendi sunucunda Calendly. TSA demo rezervasyon, B2BLife müşteri randevusu için self-hosted scheduling | [link](https://github.com/calcom/cal.diy) |
 | 28 | **documenso** | 14,616 | Açık kaynak DocuSign alternatifi — e-imza, şablon yönetimi, webhook desteği. Self-hosted, müşteri sözleşmeleri için B2BLife/TSA'ya entegre edilebilir | [link](https://github.com/documenso/documenso) |
 | 29 | **directus** | 37,471 | Mevcut SQL veritabanını otomatik REST+GraphQL API'ye dönüştürür — Headless CMS + admin paneli. PostgreSQL, MySQL, SQLite destekli; self-hosted | [link](https://github.com/directus/directus) |
+| 30 | **pluely** | 2,580 | Cluely açık kaynak alternatifi — toplantı, mülakat ve konuşmalarda gizli AI asistanı. Tauri ile native performans, 10MB, video call/ekran paylaşımında tespit edilemez. Claude, Gemini, Grok, OpenAI desteği | [link](https://github.com/iamsrikanthnani/pluely) |
