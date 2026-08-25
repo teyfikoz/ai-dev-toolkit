@@ -22,3 +22,17 @@
 **Tags:** adb, android, electron, electron-app
 Android ADB masaüstü uygulaması — Electron tabanlı, cihaz yönetimi.
 **Portföy:** PersonaLite/SmartBlock Android debug ve test yönetimi
+
+### capacitor-llm
+Capacitor eklentisi — iOS/Android'de yerel LLM modelleri çalıştırma. Offline AI.
+- **Stars:** 43 | **Language:** TypeScript
+- **Tags:** capacitor, llm, mobile, on-device-ai, offline
+- **GitHub:** https://github.com/Cap-go/capacitor-llm
+- **Kullanım:** PersonaLite, SmartBlock — cihaz üzerinde AI, offline kişilik analizi
+
+### Open-AutoGLM
+Mobil otomasyon için açık telefon ajan modeli ve framework'ü.
+- **Stars:** 26,000 | **Language:** Python
+- **Tags:** mobile-agent, phone-automation, autogl, android
+- **GitHub:** https://github.com/zai-org/Open-AutoGLM
+- **Kullanım:** PersonaLite, SmartBlock — mobil AI ajan referansı

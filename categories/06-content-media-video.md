@@ -85,3 +85,17 @@ Script + yüz fotoğrafından AI presenter video üreten provider-agnostic Codex
 - **Tags:** ai-video, codex, codex-skill, digital-human, video-generation
 - **GitHub:** https://github.com/cclank/lanshu-create-ai-presenter-video
 - **Kullanım:** Content pipeline — YouTube/TikTok için AI presenter video üretimi
+
+### short-video-factory
+Tek tıkla ürün pazarlama kısa video üretimi, AI toplu otomatik kırpma, çapraz platform masaüstü.
+- **Stars:** 5,200 | **Language:** Python
+- **Tags:** short-video, automation, ai-clipping, marketing, batch-generation
+- **GitHub:** https://github.com/YILS-LIN/short-video-factory
+- **Kullanım:** YouTube Shorts Factory — video üretim hattı güçlendirme
+
+### video-autopilot-kit
+YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON + FFmpeg.
+- **Stars:** 1,900 | **Language:** Python
+- **Tags:** youtube-automation, video-generation, capcut, ffmpeg
+- **GitHub:** https://github.com/Hao0321/video-autopilot-kit
+- **Kullanım:** YouTube Shorts Factory, Podcast Factory — otomasyon referansı

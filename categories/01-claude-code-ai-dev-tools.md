@@ -229,3 +229,17 @@ Claude Code için sürekli öğrenme ve kendini geliştirme beceri sistemi — d
 - **Tags:** claude-code, claude-code-skills, continuous-improvement, self-learning, reflection, skill-system
 - **GitHub:** https://github.com/haddock-development/claude-reflect-system
 - **Kullanım:** Claude Code workflow iyileştirme; tüm projelerde tekrarlanan hataları önleme, öğrenme döngüsü kurma
+
+### andrej-karpathy-skills
+Karpathy'nin LLM kodlama tuzaklarına dayalı Claude Code davranış iyileştirme CLAUDE.md — tek dosya, anında uygulanabilir.
+- **Stars:** 207,000 | **Language:** Markdown
+- **Tags:** claude-code, claude-skills, karpathy, llm, best-practices
+- **GitHub:** https://github.com/multica-ai/andrej-karpathy-skills
+- **Kullanım:** Tüm projeler — Claude Code kalite artışı, CLAUDE.md referansı
+
+### cc-switch
+Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-in-One asistan.
+- **Stars:** 129,000 | **Language:** TypeScript
+- **Tags:** claude-code, codex, opencode, desktop, all-in-one
+- **GitHub:** https://github.com/farion1231/cc-switch
+- **Kullanım:** Tüm projeler — birleşik geliştirme iş akışı

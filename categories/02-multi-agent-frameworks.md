@@ -99,3 +99,24 @@ Agent-ready 80+ DevOps/güvenlik beceri seti — Kubernetes, Terraform, AWS/Azur
 - **Tags:** agent-skills, agentic-ai, devops, kubernetes, security, terraform, compliance
 - **GitHub:** https://github.com/BagelHole/DevOps-Security-Agent-Skills
 - **Kullanım:** Synapse SkillStore'a DevOps domain becerileri eklemek için
+
+### openai-agents-python
+OpenAI'dan hafif, güçlü çoklu ajan iş akışı framework'ü. Agent loop, tool use, guardrails, handoffs desteği.
+- **Stars:** 29,000 | **Language:** Python
+- **Tags:** agents, multi-agent, openai, orchestration, guardrails
+- **GitHub:** https://github.com/openai/openai-agents-python
+- **Kullanım:** Synaptiq Studio, TSA — ajan orkestrasyon referansı
+
+### omnigent
+Claude Code, Codex, Cursor ve özel ajanları politika uygulamasıyla orkestre eden meta-araç.
+- **Stars:** 9,300 | **Language:** TypeScript
+- **Tags:** agent-orchestration, claude-code, codex, cursor, policy-enforcement
+- **GitHub:** https://github.com/omnigent-ai/omnigent
+- **Kullanım:** Tüm projeler — ajan orkestrasyon ve politika yönetimi
+
+### ii-agent
+Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
+- **Stars:** 3,400 | **Language:** Python
+- **Tags:** agents, intelligent-agents, framework, deployment
+- **GitHub:** https://github.com/Intelligent-Internet/ii-agent
+- **Kullanım:** Synaptiq Studio — ajan mimarisi referansı
