@@ -215,3 +215,10 @@ Claude Code, GitHub Copilot, Codex, Cursor ve diğer Agent Skills uyumlu araçla
 - **Tags:** claude-code, agent-skills, critical-thinking, mental-models, decision-making, systems-thinking
 - **GitHub:** https://github.com/tjboudreaux/cc-thinking-skills
 - **Kullanım:** Claude Fable 5 skill ekosistemini zenginleştirecek eleştirel düşünme becerileri; ~/.claude/skills/ entegrasyonu
+
+### archify
+Mimari, iş akışı, sıralama, veri akışı ve yaşam döngüsü diyagramları oluşturan ajan becerisi — bağımsız HTML çıktı, animasyon ve temiz dışa aktarım desteği. Mermaid alternatifi.
+- **Stars:** 16,063 | **Language:** HTML
+- **Tags:** agent-skills, claude-skill, architecture-diagram, diagrams-as-code, sequence-diagram, system-design, text-to-diagram, mermaid-alternative
+- **GitHub:** https://github.com/tt-a1i/archify
+- **Kullanım:** Synaptiq/TSA mimari diyagram üretimi için agent skill olarak entegre edilebilir; kod görselleştirme ve sistem tasarım dokümantasyonu
