@@ -54,3 +54,31 @@ x64dbg debugger için native MCP plugin — HTTP üzerinden tam debugger erişim
 - **Tags:** ai-debugging, binary-analysis, mcp, mcp-server, x64dbg, zig, malware-analysis
 - **GitHub:** https://github.com/duty1g/x64dbg-mcp-server
 - **Kullanım:** AI destekli reverse engineering ve malware analiz pipeline'ı
+
+## Zyrexnn/Cybermes
+Hermes Agent, özel akıl yürütme becerileri ve çoklu LLM orkestrasyonu ile güçlendirilmiş otonom ofansif güvenlik, bug bounty ve red teaming agent framework'ü. Nuclei, sqlmap, Playwright entegrasyonu.
+- **Stars:** 525 | **Language:** Python
+- **Tags:** offensive-security, red-teaming, bug-bounty, penetration-testing, ai-agent, nuclei, sqlmap
+- **GitHub:** https://github.com/Zyrexnn/Cybermes
+- **Kullanım:** RoboCheckIn güvenlik tarama modülüne entegre edilebilir; otomatik zafiyet keşfi
+
+## projectdiscovery/nuclei-templates
+Nuclei motoru için topluluk tarafından küratörlenen güvenlik zafiyet şablonları koleksiyonu. CVE, misconfig, default credentials, exposed panels ve daha fazlası.
+- **Stars:** 12,839 | **Language:** YAML
+- **Tags:** nuclei, nuclei-templates, security, vulnerability-detection, bugbounty, exploits
+- **GitHub:** https://github.com/projectdiscovery/nuclei-templates
+- **Kullanım:** RoboCheckIn güvenlik tarama altyapısı için hazır şablon kütüphanesi; Cybermes ile birlikte kullanılabilir
+
+## keycloak/keycloak
+Modern uygulamalar ve servisler için açık kaynak kimlik ve erişim yönetimi (IAM) platformu. OIDC, SAML, OAuth2 desteği. Single Sign-On, kullanıcı federasyonu, identity brokering.
+- **Stars:** 36,403 | **Language:** Java
+- **Tags:** keycloak, oidc, saml
+- **GitHub:** https://github.com/keycloak/keycloak
+- **Kullanım:** B2BLife/RoboCheckIn/TSA için merkezi SSO ve kimlik yönetimi altyapısı
+
+## silentchainai/SILENTCHAIN
+Çoklu AI sağlayıcı desteğiyle (Ollama, OpenAI, Claude, Gemini) Burp Suite için yapay zeka destekli zafiyet tarayıcı eklentisi. OWASP uyumlu, otomatik zafiyet sınıflandırma.
+- **Stars:** 422 | **Language:** Python
+- **Tags:** burp-suite, vulnerability-scanner, ai, security-tools, penetration-testing, owasp
+- **GitHub:** https://github.com/silentchainai/SILENTCHAIN
+- **Kullanım:** RoboCheckIn güvenlik tarama özelliğine AI destekli zafiyet analizi eklemek için referans mimari

@@ -143,3 +143,10 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - **Tags:** agentic-rag, deep-research, vector-database, milvus, reasoning-models
 - **GitHub:** https://github.com/zilliztech/deep-searcher
 - **Kullanım:** Synaptiq Synapse brain için deep research referansı — private data üzerinde RAG + reasoning
+
+## ombharatiya/ai-system-design-guide
+Üretim ortamı AI sistemleri ve değerlendirmeleri oluşturan mühendisler için kapsamlı AI sistem tasarım rehberi. RAG, agentic workflow, evals, interview soruları. Claude, Gemini, DeepSeek, Grok desteği.
+- **Stars:** 2,857 | **Language:** Markdown
+- **Tags:** ai, system-design-interview, rag, evals, agentic-ai, llm, machine-learning
+- **GitHub:** https://github.com/ombharatiya/ai-system-design-guide
+- **Kullanım:** YouTube 'AI ile SaaS Kurma' serisi için içerik kaynağı; TSA agent mimarisi tasarım referansı
