@@ -222,3 +222,10 @@ Mimari, iş akışı, sıralama, veri akışı ve yaşam döngüsü diyagramlar�
 - **Tags:** agent-skills, claude-skill, architecture-diagram, diagrams-as-code, sequence-diagram, system-design, text-to-diagram, mermaid-alternative
 - **GitHub:** https://github.com/tt-a1i/archify
 - **Kullanım:** Synaptiq/TSA mimari diyagram üretimi için agent skill olarak entegre edilebilir; kod görselleştirme ve sistem tasarım dokümantasyonu
+
+### claude-reflect-system
+Claude Code için sürekli öğrenme ve kendini geliştirme beceri sistemi — düzeltmelerden öğrenir, hataları tekrarlamaz. Reflection tabanlı self-improving skill.
+- **Stars:** 211 | **Language:** Python
+- **Tags:** claude-code, claude-code-skills, continuous-improvement, self-learning, reflection, skill-system
+- **GitHub:** https://github.com/haddock-development/claude-reflect-system
+- **Kullanım:** Claude Code workflow iyileştirme; tüm projelerde tekrarlanan hataları önleme, öğrenme döngüsü kurma

@@ -82,3 +82,10 @@ Modern uygulamalar ve servisler için açık kaynak kimlik ve erişim yönetimi 
 - **Tags:** burp-suite, vulnerability-scanner, ai, security-tools, penetration-testing, owasp
 - **GitHub:** https://github.com/silentchainai/SILENTCHAIN
 - **Kullanım:** RoboCheckIn güvenlik tarama özelliğine AI destekli zafiyet analizi eklemek için referans mimari
+
+### clearcam
+Güvenlik kameralarına nesne algılama, takip, mobil bildirim ve arama ekleme aracı. RTSP destekli, self-hosted NVR, YOLOv9 + CLIP tabanlı.
+- **Stars:** 1,055 | **Language:** Python
+- **Tags:** ai, cctv, clip, nvr, object-detection, rtsp, selfhosted, tinygrad, yolov9
+- **GitHub:** https://github.com/roryclear/clearcam
+- **Kullanım:** RoboCheckIn fiziksel güvenlik monitoring özelliği için referans mimari; kamera tabanlı güvenlik izleme
