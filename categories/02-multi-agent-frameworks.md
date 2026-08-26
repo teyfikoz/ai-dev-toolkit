@@ -120,3 +120,8 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Tags:** agents, intelligent-agents, framework, deployment
 - **GitHub:** https://github.com/Intelligent-Internet/ii-agent
 - **Kullanım:** Synaptiq Studio — ajan mimarisi referansı
+
+### agencycli
+- **Repo:** https://github.com/chenhg5/agencycli
+- **Stars:** 166
+- **Açıklama:** Kendi kendini yöneten AI ajan takımları kuran hafif CLI. Markdown+YAML ile roller, beceriler ve projeler tanımlanır. Ajanlar heartbeat zamanlamasıyla otonom çalışır.

@@ -243,3 +243,13 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Tags:** claude-code, codex, opencode, desktop, all-in-one
 - **GitHub:** https://github.com/farion1231/cc-switch
 - **Kullanım:** Tüm projeler — birleşik geliştirme iş akışı
+
+### claude-seo
+- **Repo:** https://github.com/AgriciDaniel/claude-seo
+- **Stars:** 15,289
+- **Açıklama:** Claude Code için evrensel SEO skill'i. 25 alt beceri + 18 alt ajan: teknik SEO, E-E-A-T, şema, GEO/AEO, backlink, yerel SEO, harita zekası, semantik kümeleme, e-ticaret SEO, uluslararası SEO, Google API'ler ve PDF/Excel raporlama.
+
+### hallmark
+- **Repo:** https://github.com/Nutlope/hallmark
+- **Stars:** 27,148
+- **Açıklama:** Anti-AI-slop tasarım skill'i. Claude Code, Cursor ve Codex için. AI'ın ürettiği generic/yapay içeriği tespit eder ve düzeltir.
