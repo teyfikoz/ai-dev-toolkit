@@ -33,3 +33,10 @@
 | 29 | **awesome** | ? | GitHub'daki en büyük awesome listesi koleksiyonu — her konu için ürün ve araç listelerini bulma rehberi | [link](https://github.com/sindresorhus/awesome) |
 | 30 | **open-design** | ? | Açik kaynak tasarim kaynaklar ve araçlar koleksiyonu — figma alternatif ve free UI kaynaklari | [link](https://github.com/nexu-io/open-design) |
 | 31 | **data-formulator** | 16,148 | Microsoft yapımı AI destekli interaktif veri analizi. Doğal dille veri bağla, keşfet, görselleştir. LLM + Python + chart üretimi tek akışta. | [link](https://github.com/microsoft/data-formulator) |
+
+## microsoft/powerbi-modeling-mcp
+Power BI semantik modelleme yeteneklerini AI ajanlarına getiren MCP sunucusu. Veri modelleme, DAX sorguları ve BI iş akışlarını ajan tabanlı otomasyona açar.
+- **Stars:** 1,105 | **Language:** —
+- **Tags:** power-bi, mcp, semantic-modeling, ai-agents, dax
+- **GitHub:** https://github.com/microsoft/powerbi-modeling-mcp
+- **Kullanım:** B2BLife ve TSA — Power BI entegrasyonu ile kurumsal müşterilere BI raporlama sunulabilir

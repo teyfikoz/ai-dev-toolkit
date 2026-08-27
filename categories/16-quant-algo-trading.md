@@ -17,3 +17,10 @@ Polymarket/Kalshi hava durumu tahmin piyasası botu. GFS ensemble, Kelly kriteri
 - **Tags:** prediction-markets, kalshi, polymarket, ensemble-forecasting, kelly-criterion
 - **GitHub:** https://github.com/suislanchez/polymarket-kalshi-weather-bot
 - **Kullanım:** TechSyncAnalytica DecisionSense için prediction market veri entegrasyonu
+
+## HKUDS/AI-Trader
+%100 tam otomatik ajan tabanlı trading sistemi. Piyasa analizi, strateji oluşturma ve emir yürütmeyi uçtan uca AI ajanlarıyla gerçekleştirir.
+- **Stars:** 21,650 | **Language:** Python
+- **Tags:** ai-trading, autonomous-agents, algo-trading, fully-automated
+- **GitHub:** https://github.com/HKUDS/AI-Trader
+- **Kullanım:** StockPulse — otonom trading ajan mimarisi referansı. FundPilot için algo-trading motoru entegrasyonu.

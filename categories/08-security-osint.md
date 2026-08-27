@@ -89,3 +89,10 @@ Güvenlik kameralarına nesne algılama, takip, mobil bildirim ve arama ekleme a
 - **Tags:** ai, cctv, clip, nvr, object-detection, rtsp, selfhosted, tinygrad, yolov9
 - **GitHub:** https://github.com/roryclear/clearcam
 - **Kullanım:** RoboCheckIn fiziksel güvenlik monitoring özelliği için referans mimari; kamera tabanlı güvenlik izleme
+
+### AgentHound
+AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway ve AI servisleri üzerinde keşif, kimlik hırsızlığı, model sızdırma, zehirleme ve saldırı yolu analizi. Ajanlar için BloodHound.
+- **Stars:** 334 | **Language:** Go
+- **Tags:** a2a, ai-security, mcp, offensive-security, red-team, pentesting, bloodhound
+- **GitHub:** https://github.com/adithyan-ak/AgentHound
+- **Kullanım:** RoboCheckIn güvenlik tarama modülüne AI ajan saldırı tespiti eklenebilir. Synaptiq MCP güvenlik denetimi için referans.

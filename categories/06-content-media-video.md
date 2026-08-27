@@ -99,3 +99,10 @@ YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON +
 - **Tags:** youtube-automation, video-generation, capcut, ffmpeg
 - **GitHub:** https://github.com/Hao0321/video-autopilot-kit
 - **Kullanım:** YouTube Shorts Factory, Podcast Factory — otomasyon referansı
+
+### ai-image-prompts-skill
+10.000+ küratörlü görsel üretim prompt'u. Midjourney, DALL-E, Flux, Stable Diffusion ve daha fazlası ile uyumlu. Her model için optimize edilmiş prompt şablonları.
+- **Stars:** 778 | **Language:** TypeScript
+- **Tags:** image-prompts, midjourney, dall-e, stable-diffusion, flux, ai-art
+- **GitHub:** https://github.com/YouMind-OpenLab/ai-image-prompts-skill
+- **Kullanım:** YouTube thumbnail ve Instagram görselleri için prompt kütüphanesi. Higgsfield MCP ile entegre edilebilir.

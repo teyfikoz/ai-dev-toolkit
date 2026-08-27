@@ -36,3 +36,17 @@ Mobil otomasyon için açık telefon ajan modeli ve framework'ü.
 - **Tags:** mobile-agent, phone-automation, autogl, android
 - **GitHub:** https://github.com/zai-org/Open-AutoGLM
 - **Kullanım:** PersonaLite, SmartBlock — mobil AI ajan referansı
+
+### Unity-Technologies/skills
+Unity iş akışları için yeniden kullanılabilir AI kodlama becerileri koleksiyonu — promptlar, slash komutları ve araçlar. Resmi Unity deposu.
+- **Stars:** 606 | **Language:** C#
+- **Tags:** unity, ai-skills, coding-agents, slash-commands
+- **GitHub:** https://github.com/Unity-Technologies/skills
+- **Kullanım:** PersonaLite ve SmartBlock için Unity tabanlı oyun/3D özellik geliştirmede AI beceri referansı.
+
+### Besty0728/Unity-Skills
+Unity için özel olarak tasarlanmış AI otomasyon becerileri. Claude Code, Cursor, Codex, Gemini CLI uyumlu. VR/MR desteği dahil.
+- **Stars:** 1,675 | **Language:** C#
+- **Tags:** unity, ai-automation, claude-code, cursor, vr, mr, skill
+- **GitHub:** https://github.com/Besty0728/Unity-Skills
+- **Kullanım:** PersonaLite, SmartBlock — Unity projelerinde AI destekli otomasyon. Claude Code skill olarak doğrudan kullanılabilir.

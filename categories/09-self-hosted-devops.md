@@ -50,3 +50,10 @@ S3-uyumlu hafif nesne depolama sunucusu — tek binary, web dashboard, rest şif
 - **GitHub:** https://github.com/oomol-lab/open-connector
 - **Kullanım:** Synaptiq ConnectView'e entegre — self-hosted, internet gerektirmez, 1000+ provider
 | 24 | **httpsms** | 4,303 | Android telefonundan HTTP API ile programatik SMS gönder/al — kendi SMS gateway'in. Go backend, self-hosted, webhook desteği | [link](https://github.com/NdoleStudio/httpsms) |
+
+### tailscale/tailcat
+Tailscale veri düzlemi üzerinden çalışan netcat alternatifi. Tailscale kontrol düzlemi olmadan güvenli ağ tünelleme. Hafif, hızlı, sıfır yapılandırma.
+- **Stars:** 1,806 | **Language:** Go
+- **Tags:** tailscale, netcat, networking, tunnel, wireguard
+- **GitHub:** https://github.com/tailscale/tailcat
+- **Kullanım:** Hetzner sunucu yönetimi ve OCC terminal bağlantıları için güvenli tünel alternatifi.
