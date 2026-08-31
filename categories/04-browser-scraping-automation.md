@@ -38,3 +38,8 @@
 - **Repo:** https://github.com/vibheksoni/stealth-browser-mcp
 - **Stars:** 1,663
 - **Açıklama:** Anti-bot sistemleri atlayan tek tarayıcı otomasyon MCP sunucusu. AI ağ hook'ları yazar, UI'ları piksel-mükemmel klonlar.
+
+### brave-search-mcp-server
+- **Repo:** https://github.com/brave/brave-search-mcp-server
+- **Stars:** ?
+- **Açıklama:** Brave Search MCP server — AI ajanlarına Brave arama motoru entegrasyonu sağlayan resmi MCP sunucusu. Claude ve diğer LLM'lerle web araması.

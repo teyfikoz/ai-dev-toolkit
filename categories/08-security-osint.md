@@ -96,3 +96,23 @@ AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway 
 - **Tags:** a2a, ai-security, mcp, offensive-security, red-team, pentesting, bloodhound
 - **GitHub:** https://github.com/adithyan-ak/AgentHound
 - **Kullanım:** RoboCheckIn güvenlik tarama modülüne AI ajan saldırı tespiti eklenebilir. Synaptiq MCP güvenlik denetimi için referans.
+
+### Agentic-Bug-Hunter
+- **Repo:** https://github.com/Awarexone/Agentic-Bug-Hunter
+- **Stars:** ?
+- **Açıklama:** AI bug hunting — otonom AI ajanlarla güvenlik açığı avlama aracı. Bug bounty ve güvenlik testlerinde AI destekli zafiyet keşfi.
+
+### spiderfoot (smicallef)
+- **Repo:** https://github.com/smicallef/spiderfoot
+- **Stars:** 21,638
+- **Açıklama:** OSINT otomasyon aracı — tehdit istihbaratı ve saldırı yüzeyi haritalama. B2BLife rakip istihbarat ve şirket araştırma entegrasyonu.
+
+### ESPectre (francescopace)
+- **Repo:** https://github.com/francescopace/espectre
+- **Stars:** 9,275
+- **Açıklama:** Wi-Fi spektrum analizi tabanlı hareket algılama sistemi — Home Assistant entegrasyonu. ESP32 + CSI tabanlı IoT güvenlik çözümü.
+
+### Awesome-LLMs-for-Vulnerability-Detection (huhusmang)
+- **Repo:** https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
+- **Stars:** 1,353
+- **Açıklama:** Zafiyet tespitinde LLM araştırma indeksi — MITRE ATT&CK, NIST CSF, CWE framework eşlemesi. LLM tabanlı güvenlik tarama referansı.

@@ -253,3 +253,83 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Repo:** https://github.com/Nutlope/hallmark
 - **Stars:** 27,148
 - **Açıklama:** Anti-AI-slop tasarım skill'i. Claude Code, Cursor ve Codex için. AI'ın ürettiği generic/yapay içeriği tespit eder ve düzeltir.
+
+### open-seo
+- **Repo:** https://github.com/every-app/open-seo
+- **Stars:** ?
+- **Açıklama:** Açık kaynak SEO toolkit — web siteleri için SEO analizi ve optimizasyon araçları.
+
+### skills (higgsfield-ai/game-generation)
+- **Repo:** https://github.com/higgsfield-ai/skills
+- **Stars:** ?
+- **Açıklama:** Higgsfield game generation skill — AI ile oyun üretimi için beceri paketi.
+
+### skills (rivet-dev/multiplayer-game)
+- **Repo:** https://github.com/rivet-dev/skills
+- **Stars:** ?
+- **Açıklama:** Multiplayer game skill — çok oyunculu oyun geliştirme için AI beceri paketi.
+
+### claude-skills (Jeffallan/game-developer)
+- **Repo:** https://github.com/Jeffallan/claude-skills
+- **Stars:** ?
+- **Açıklama:** Claude game developer skill — oyun geliştirme odaklı Claude Code beceri paketi.
+
+### awesome-gamedev-agent-skills
+- **Repo:** https://github.com/gamedev-skills/awesome-gamedev-agent-skills
+- **Stars:** ?
+- **Açıklama:** Game UI, design ve feel için 3 alt klasörlü oyun geliştirme agent skill koleksiyonu.
+
+### threejs-game-skills
+- **Repo:** https://github.com/majidmanzarpour/threejs-game-skills
+- **Stars:** ?
+- **Açıklama:** Three.js ile oyun geliştirme için AI beceri paketi — 3D web oyunları.
+
+### skills (openai/develop-web-game)
+- **Repo:** https://github.com/openai/skills
+- **Stars:** ?
+- **Açıklama:** OpenAI web game skill — tarayıcı tabanlı oyun geliştirme için resmi OpenAI beceri paketi.
+
+### claude-plugins-community (eli5)
+- **Repo:** https://github.com/anthropics/claude-plugins-community
+- **Stars:** ?
+- **Açıklama:** ELI5 (Explain Like I'm 5) plugin — karmaşık konuları basit dille açıklama için Anthropic topluluk eklentisi.
+
+### skills (humanlayer/show-me)
+- **Repo:** https://github.com/humanlayer/skills
+- **Stars:** ?
+- **Açıklama:** Show-me visualization skill — verileri ve kavramları görsel olarak açıklama becerisi.
+
+### common-skills (warpdotdev/skill-doctor)
+- **Repo:** https://github.com/warpdotdev/common-skills
+- **Stars:** ?
+- **Açıklama:** Warp skill-doctor — terminal sorunlarını teşhis ve çözüm için Warp beceri paketi.
+
+### plugins (cursor/unslop)
+- **Repo:** https://github.com/cursor/plugins
+- **Stars:** ?
+- **Açıklama:** Cursor anti-slop plugin — AI'ın ürettiği generic/yapay kod ve içeriği tespit edip düzelten Cursor eklentisi.
+
+### Fabric (danielmiessler)
+- **Repo:** https://github.com/danielmiessler/Fabric
+- **Stars:** 43,627
+- **Açıklama:** İnsanları AI ile güçlendiren açık kaynak framework — modüler prompt sistemi. Tüm projeler için prompt mühendisliği ve AI iş akışı otomasyonu.
+
+### CodeWhale (Hmbown)
+- **Repo:** https://github.com/Hmbown/CodeWhale
+- **Stars:** 40,883
+- **Açıklama:** Rust tabanlı açık kaynak terminal kodlama ajanı — topluluk odaklı geliştirme. Claude Code alternatifi, Rust performans karşılaştırması.
+
+### kilocode (Kilo-Org)
+- **Repo:** https://github.com/Kilo-Org/kilocode
+- **Stars:** 27,104
+- **Açıklama:** Hepsi bir arada ajansal mühendislik platformu — VS Code AI uzantısı. Cline alternatifi.
+
+### crush (charmbracelet)
+- **Repo:** https://github.com/charmbracelet/crush
+- **Stars:** 27,837
+- **Açıklama:** Gösterişli ajansal kodlama aracı — terminal tabanlı AI geliştirme asistanı. Go tabanlı Claude Code / Codex CLI alternatifi.
+
+### cline (cline)
+- **Repo:** https://github.com/cline/cline
+- **Stars:** 67,238
+- **Açıklama:** Otonom kodlama ajanı — SDK, IDE uzantısı ve CLI asistanı olarak kullanılabilir. Çoklu kullanım modu ile en popüler AI coding assistant.

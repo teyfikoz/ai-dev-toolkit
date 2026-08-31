@@ -125,3 +125,18 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Repo:** https://github.com/chenhg5/agencycli
 - **Stars:** 166
 - **Açıklama:** Kendi kendini yöneten AI ajan takımları kuran hafif CLI. Markdown+YAML ile roller, beceriler ve projeler tanımlanır. Ajanlar heartbeat zamanlamasıyla otonom çalışır.
+
+### OpenMAIC
+- **Repo:** https://github.com/THU-MAIC/OpenMAIC
+- **Stars:** ?
+- **Açıklama:** Multi-agent interaction computing — Tsinghua Üniversitesi'nden çok ajanlı etkileşim hesaplama framework'ü.
+
+### Auto-Company
+- **Repo:** https://github.com/MaxMiksa/Auto-Company
+- **Stars:** ?
+- **Açıklama:** Autonomous company simulation — AI ajanlarla otonom şirket simülasyonu; departmanlar arası koordinasyon ve karar alma.
+
+### agents-course
+- **Repo:** https://github.com/huggingface/agents-course
+- **Stars:** ?
+- **Açıklama:** HuggingFace resmi AI agents kursu — multi-agent sistemleri, tool kullanımı ve ajan mimarisi öğretimi. Eğitim + uygulama.

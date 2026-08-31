@@ -57,3 +57,13 @@ Tailscale veri düzlemi üzerinden çalışan netcat alternatifi. Tailscale kont
 - **Tags:** tailscale, netcat, networking, tunnel, wireguard
 - **GitHub:** https://github.com/tailscale/tailcat
 - **Kullanım:** Hetzner sunucu yönetimi ve OCC terminal bağlantıları için güvenli tünel alternatifi.
+
+### awesome-mlops (visenger)
+- **Repo:** https://github.com/visenger/awesome-mlops
+- **Stars:** 14,175
+- **Açıklama:** MLOps araçları ve kaynakları küratörlü listesi — model yaşam döngüsü yönetimi, deploy ve monitoring referansı.
+
+### trippy (fujiapple852)
+- **Repo:** https://github.com/fujiapple852/trippy
+- **Stars:** 7,696
+- **Açıklama:** Ağ tanılama aracı — traceroute + ping + DNS görselleştirmesi. Rust tabanlı, Hetzner sunucu ağ tanılama ve RoboCheckIn network monitoring için.

@@ -40,3 +40,13 @@ Power BI semantik modelleme yeteneklerini AI ajanlarına getiren MCP sunucusu. V
 - **Tags:** power-bi, mcp, semantic-modeling, ai-agents, dax
 - **GitHub:** https://github.com/microsoft/powerbi-modeling-mcp
 - **Kullanım:** B2BLife ve TSA — Power BI entegrasyonu ile kurumsal müşterilere BI raporlama sunulabilir
+
+### Unlimited-OCR (baidu)
+- **Repo:** https://github.com/baidu/Unlimited-OCR
+- **Stars:** 24,920
+- **Açıklama:** Sınırsız OCR — tek seferde uzun belge ayrıştırma. Baidu'nun DeepSeek-OCR tabanlı 3B MoE VLM modeli. Gumroad PDF-OCR-Pro alternatif motor.
+
+### latticedb (jeffhajewski)
+- **Repo:** https://github.com/jeffhajewski/latticedb
+- **Stars:** 618
+- **Açıklama:** Gömülü tek dosyalı bilgi grafiği veritabanı — vektör arama ve tam metin arama. Zig tabanlı, Synaptiq Studio KG alternatifi.

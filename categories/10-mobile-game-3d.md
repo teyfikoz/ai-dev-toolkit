@@ -50,3 +50,8 @@ Unity için özel olarak tasarlanmış AI otomasyon becerileri. Claude Code, Cur
 - **Tags:** unity, ai-automation, claude-code, cursor, vr, mr, skill
 - **GitHub:** https://github.com/Besty0728/Unity-Skills
 - **Kullanım:** PersonaLite, SmartBlock — Unity projelerinde AI destekli otomasyon. Claude Code skill olarak doğrudan kullanılabilir.
+
+### microduck
+- **Repo:** https://github.com/pollen-robotics/microduck
+- **Stars:** ?
+- **Açıklama:** Robot control — küçük ölçekli robot kontrol platformu. Mobil ve gömülü sistemlerde robot yönetimi.

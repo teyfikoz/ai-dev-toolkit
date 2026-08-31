@@ -150,3 +150,13 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - **Tags:** ai, system-design-interview, rag, evals, agentic-ai, llm, machine-learning
 - **GitHub:** https://github.com/ombharatiya/ai-system-design-guide
 - **Kullanım:** YouTube 'AI ile SaaS Kurma' serisi için içerik kaynağı; TSA agent mimarisi tasarım referansı
+
+### microduck_rl
+- **Repo:** https://github.com/pollen-robotics/microduck_rl
+- **Stars:** ?
+- **Açıklama:** Reinforcement Learning for robotics — robotik sistemlerde pekiştirmeli öğrenme uygulaması. Sim-to-real transfer.
+
+### minimind (jingyaogong)
+- **Repo:** https://github.com/jingyaogong/minimind
+- **Stars:** 56,020
+- **Açıklama:** Sıfırdan 64M parametreli LLM eğitimi — sadece 2 saatte küçük dil modeli oluşturma. LLM mimarisi anlama ve eğitim amaçlı referans proje.

@@ -24,3 +24,8 @@ Polymarket/Kalshi hava durumu tahmin piyasası botu. GFS ensemble, Kelly kriteri
 - **Tags:** ai-trading, autonomous-agents, algo-trading, fully-automated
 - **GitHub:** https://github.com/HKUDS/AI-Trader
 - **Kullanım:** StockPulse — otonom trading ajan mimarisi referansı. FundPilot için algo-trading motoru entegrasyonu.
+
+### QuantMind (qusong0627)
+- **Repo:** https://github.com/qusong0627/QuantMind
+- **Stars:** 1,222
+- **Açıklama:** AI tabanlı çoklu piyasa kuantitatif ticaret platformu — Microsoft Qlib + RD-Agent faktör evrimi + TradingAgents çoklu ajan entegrasyonu. StockPulse için kuantitatif strateji motoru referansı.
