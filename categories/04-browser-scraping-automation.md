@@ -43,3 +43,28 @@
 - **Repo:** https://github.com/brave/brave-search-mcp-server
 - **Stars:** ?
 - **Açıklama:** Brave Search MCP server — AI ajanlarına Brave arama motoru entegrasyonu sağlayan resmi MCP sunucusu. Claude ve diğer LLM'lerle web araması.
+
+### scrapy (scrapy)
+- **Repo:** https://github.com/scrapy/scrapy
+- **Stars:** 64,170
+- **Açıklama:** Python web scraping framework — hızlı, yüksek seviyeli, asenkron crawler ve veri toplama altyapısı. B2BLife şirket intelligence veri toplama için temel framework.
+
+### katana (projectdiscovery)
+- **Repo:** https://github.com/projectdiscovery/katana
+- **Stars:** 17,376
+- **Açıklama:** Next-gen web crawling ve spidering framework — headless browser destekli, JavaScript rendering. RoboCheckIn web testing ve B2BLife JS-rendered site analizi için.
+
+### reader (jina-ai)
+- **Repo:** https://github.com/jina-ai/reader
+- **Stars:** 11,945
+- **Açıklama:** URL'yi LLM dostu formata dönüştür (r.jina.ai prefix) — markdown output, API üzerinden erişim. B2BLife AI analiz pipeline'ı için URL içerik extraction.
+
+### requests-html (psf)
+- **Repo:** https://github.com/psf/requests-html
+- **Stars:** 13,812
+- **Açıklama:** Pythonic HTML parsing — JavaScript rendering destekli, requests ile entegre web scraping. B2BLife veri toplama ve içerik pipeline'ları için hızlı scraping.
+
+### colly (gocolly)
+- **Repo:** https://github.com/gocolly/colly
+- **Stars:** 25,494
+- **Açıklama:** Go tabanlı zarif web scraper ve crawler — yüksek performans, paralel scraping, site haritası. Yüksek hacimli data collection; RoboCheckIn site analizi için Go microservice adayı.

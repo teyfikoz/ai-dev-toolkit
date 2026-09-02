@@ -116,3 +116,43 @@ AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway 
 - **Repo:** https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
 - **Stars:** 1,353
 - **Açıklama:** Zafiyet tespitinde LLM araştırma indeksi — MITRE ATT&CK, NIST CSF, CWE framework eşlemesi. LLM tabanlı güvenlik tarama referansı.
+
+### CyberStrike (CyberStrikeus)
+- **Repo:** https://github.com/CyberStrikeus/CyberStrike
+- **Stars:** 2,219
+- **Açıklama:** AI destekli ofansif güvenlik harness — otomatik penetrasyon testi, bug bounty, LLM tabanlı saldırı vektörü keşfi. RoboCheckIn güvenlik tarama modülü ve B2BLife rakip analiz güvenlik katmanı için referans.
+
+### nuclei (projectdiscovery)
+- **Repo:** https://github.com/projectdiscovery/nuclei
+- **Stars:** 30,983
+- **Açıklama:** Hızlı özelleştirilebilir güvenlik açığı tarayıcı — 10,000+ şablon, CVE, web app, API tarama. RoboCheckIn güvenlik tarama backend'i için doğrudan entegrasyon adayı.
+
+### zaproxy (zaproxy)
+- **Repo:** https://github.com/zaproxy/zaproxy
+- **Stars:** 15,723
+- **Açıklama:** OWASP ZAP web uygulama güvenlik tarayıcı — aktif/pasif tarama, API güvenliği, CI/CD entegrasyonu. RoboCheckIn OWASP Top 10 otomasyonu için temel araç.
+
+### nikto (sullo)
+- **Repo:** https://github.com/sullo/nikto
+- **Stars:** 10,697
+- **Açıklama:** Web sunucu güvenlik tarayıcı — 6,700+ tehlikeli dosya/program, eski sürüm, sunucu hatası tespiti. RoboCheckIn sunucu yanlış yapılandırma ve CVE tespiti.
+
+### sqlmap (sqlmapproject)
+- **Repo:** https://github.com/sqlmapproject/sqlmap
+- **Stars:** 38,342
+- **Açıklama:** Otomatik SQL injection ve veritabanı ele geçirme aracı — en popüler açık kaynak sqlmap. RoboCheckIn web güvenlik tarama: SQL injection tespiti.
+
+### httpx (projectdiscovery)
+- **Repo:** https://github.com/projectdiscovery/httpx
+- **Stars:** 10,344
+- **Açıklama:** Hızlı çok amaçlı HTTP toolkit — web keşif, teknoloji tespiti, status kontrolü, header analizi. RoboCheckIn uptime monitoring ve site teknoloji parmak izi.
+
+### subfinder (projectdiscovery)
+- **Repo:** https://github.com/projectdiscovery/subfinder
+- **Stars:** 14,362
+- **Açıklama:** Hızlı pasif subdomain keşif aracı — çoklu kaynak (Shodan, VirusTotal, Censys), DNS enum. RoboCheckIn güvenlik tarama: subdomain saldırı yüzeyi keşfi.
+
+### naabu (projectdiscovery)
+- **Repo:** https://github.com/projectdiscovery/naabu
+- **Stars:** 6,223
+- **Açıklama:** Go ile yazılmış hızlı port tarayıcı — güvenilirlik odaklı, nuclei entegre, async tarama. RoboCheckIn güvenlik tarama: açık port tespiti.
