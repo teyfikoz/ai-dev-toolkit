@@ -29,3 +29,8 @@ Polymarket/Kalshi hava durumu tahmin piyasası botu. GFS ensemble, Kelly kriteri
 - **Repo:** https://github.com/qusong0627/QuantMind
 - **Stars:** 1,222
 - **Açıklama:** AI tabanlı çoklu piyasa kuantitatif ticaret platformu — Microsoft Qlib + RD-Agent faktör evrimi + TradingAgents çoklu ajan entegrasyonu. StockPulse için kuantitatif strateji motoru referansı.
+
+### ai-hedge-fund (virattt)
+- **Repo:** https://github.com/virattt/ai-hedge-fund
+- **Stars:** 63,187
+- **Açıklama:** AI hedge fon ekibi — çoklu ajan tabanlı hisse analiz ve portföy yönetimi. Temel analiz, teknik analiz, sentiment ve risk ajanları. StockPulse + TSA FundPilot için referans mimari.

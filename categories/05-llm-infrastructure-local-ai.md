@@ -160,3 +160,13 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - **Repo:** https://github.com/jingyaogong/minimind
 - **Stars:** 56,020
 - **Açıklama:** Sıfırdan 64M parametreli LLM eğitimi — sadece 2 saatte küçük dil modeli oluşturma. LLM mimarisi anlama ve eğitim amaçlı referans proje.
+
+### DeepTutor (HKUDS)
+- **Repo:** https://github.com/HKUDS/DeepTutor
+- **Stars:** 38,432
+- **Açıklama:** Araştırma tabanlı kişiselleştirilmiş AI öğretmen — derin öğrenme asistanı, etkileşimli ders modu. Synaptiq'in Fabric agent sistemi ile entegre edilebilir veri eğitimi modülü için ilham kaynağı.
+
+### system-design-101 (ByteByteGoHq)
+- **Repo:** https://github.com/ByteByteGoHq/system-design-101
+- **Stars:** 87,973
+- **Açıklama:** Görseller ve rehberlerle sistem tasarımı — 87K yıldız, API, veritabanı, cache, CDN, mesajlaşma sistemleri anlatılıyor. YouTube teknik eğitim serisi + TSA içerik üretimi için temel referans.

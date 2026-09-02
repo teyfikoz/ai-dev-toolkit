@@ -140,3 +140,8 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Repo:** https://github.com/huggingface/agents-course
 - **Stars:** ?
 - **Açıklama:** HuggingFace resmi AI agents kursu — multi-agent sistemleri, tool kullanımı ve ajan mimarisi öğretimi. Eğitim + uygulama.
+
+### OpenViking (volcengine)
+- **Repo:** https://github.com/volcengine/OpenViking
+- **Stars:** 35,137
+- **Açıklama:** AI ajanları için kendini geliştiren bağlam veritabanı — RAG tabanlı hafıza altyapısı, ajan bağlamı yönetimi. Synaptiq KG (Knowledge Graph) ve agentRuntime memory layer için güçlü referans mimari.
