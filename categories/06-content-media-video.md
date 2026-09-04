@@ -498,3 +498,8 @@ YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON +
 - **Repo:** https://github.com/wassermanproductions/scriptbreak
 - **Stars:** 44
 - **Açıklama:** Senaryo çözümleme — screenplay breakdown, prodüksiyon planlama aracı.
+
+### youtube-skills (ZeroPointRepo)
+- **Repo:** https://github.com/ZeroPointRepo/youtube-skills
+- **Stars:** 658
+- **Açıklama:** AI agent için YouTube Transcript API skills — transkript çekme, video arama, kanal analizi, çok dilli destek. LearnLingOz içerik pipeline ve Synaptiq YouTube analiz ajanı için doğrudan entegrasyon adayı.

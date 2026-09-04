@@ -156,3 +156,23 @@ AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway 
 - **Repo:** https://github.com/projectdiscovery/naabu
 - **Stars:** 6,223
 - **Açıklama:** Go ile yazılmış hızlı port tarayıcı — güvenilirlik odaklı, nuclei entegre, async tarama. RoboCheckIn güvenlik tarama: açık port tespiti.
+
+### exploitarium (bikini)
+- **Repo:** https://github.com/bikini/exploitarium
+- **Stars:** 4,359
+- **Açıklama:** Kamuya açık exploit PoC ve güvenlik açığı araştırma yazıları arşivi. RoboCheckIn güvenlik tarama referans veritabanı ve B2BLife rakip güvenlik analizi için kaynak.
+
+### deep-eye (zakirkun)
+- **Repo:** https://github.com/zakirkun/deep-eye
+- **Stars:** 2,276
+- **Açıklama:** Çoklu AI sağlayıcı orchestrasyon (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral) ile 50+ güvenlik açığı tarama, uyumluluk mapping, retest workflow. Synaptiq güvenlik agent ve B2BLife domain tarama entegrasyonu.
+
+### agentseal (getagentseal)
+- **Repo:** https://github.com/getagentseal/agentseal
+- **Stars:** 351
+- **Açıklama:** AI agent güvenlik toolkit — tehlikeli MCP config tespiti, supply chain saldırı izleme, prompt injection direnci testi, MCP sunucu araç zehirleme (tool poisoning) denetimi. Synaptiq ve OCC MCP güvenlik denetimi için kritik.
+
+### numasec (FrancescoStabile)
+- **Repo:** https://github.com/FrancescoStabile/numasec
+- **Stars:** 703
+- **Açıklama:** Siber güvenlik AI ajanı — saldırı yüzeyi analizi, threat intelligence, CVE araştırma, penetrasyon testi otomasyonu. RoboCheckIn güvenlik tarama agent ve B2BLife rakip güvenlik profili için.
