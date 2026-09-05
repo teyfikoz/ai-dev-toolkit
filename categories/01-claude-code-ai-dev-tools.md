@@ -333,3 +333,9 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Repo:** https://github.com/cline/cline
 - **Stars:** 67,238
 - **Açıklama:** Otonom kodlama ajanı — SDK, IDE uzantısı ve CLI asistanı olarak kullanılabilir. Çoklu kullanım modu ile en popüler AI coding assistant.
+
+### agents-cli (google)
+- **Repo:** https://github.com/google/agents-cli
+- **Stars:** 5,824
+- **Açıklama:** Google Cloud'da AI agent oluşturma, değerlendirme ve deploy etme CLI ve skill seti — Google ADK + Gemini + Cloud entegrasyonu. Hetzner/Groq stack ile uyumsuz (Google Cloud bağımlısı), agent framework tasarım desenleri için referans.
+---
