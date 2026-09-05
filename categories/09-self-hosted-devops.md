@@ -67,3 +67,9 @@ Tailscale veri düzlemi üzerinden çalışan netcat alternatifi. Tailscale kont
 - **Repo:** https://github.com/fujiapple852/trippy
 - **Stars:** 7,696
 - **Açıklama:** Ağ tanılama aracı — traceroute + ping + DNS görselleştirmesi. Rust tabanlı, Hetzner sunucu ağ tanılama ve RoboCheckIn network monitoring için.
+
+### unpeel (unpeel-com)
+- **Repo:** https://github.com/unpeel-com/unpeel
+- **Stars:** 32
+- **Açıklama:** Rust ile yazılmış terminal AI agent'ları için her zaman açık multiplexer sunucu — persistent agent bağlantıları. OCC terminal entegrasyonu için alternatif; ttyd yerine kalıcı AI agent bağlantıları için altyapı.
+---

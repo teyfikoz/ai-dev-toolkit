@@ -68,3 +68,9 @@
 - **Repo:** https://github.com/gocolly/colly
 - **Stars:** 25,494
 - **Açıklama:** Go tabanlı zarif web scraper ve crawler — yüksek performans, paralel scraping, site haritası. Yüksek hacimli data collection; RoboCheckIn site analizi için Go microservice adayı.
+
+### skills (browser-act)
+- **Repo:** https://github.com/browser-act/skills
+- **Stars:** 5,646
+- **Açıklama:** AI agent'lar için browser otomasyon CLI — anti-bot duvarlarını aşar, insan benzeri tarama. B2BLife şirket veri toplama modülü için Tavily API'ye alternatif/tamamlayıcı; TSA StrategyLab web araştırma.
+---

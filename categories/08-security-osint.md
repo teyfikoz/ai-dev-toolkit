@@ -176,3 +176,27 @@ AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway 
 - **Repo:** https://github.com/FrancescoStabile/numasec
 - **Stars:** 703
 - **Açıklama:** Siber güvenlik AI ajanı — saldırı yüzeyi analizi, threat intelligence, CVE araştırma, penetrasyon testi otomasyonu. RoboCheckIn güvenlik tarama agent ve B2BLife rakip güvenlik profili için.
+
+### edrEvasionWorkshop (tyeurada)
+- **Repo:** https://github.com/tyeurada/edrEvasionWorkshop
+- **Stars:** 306
+- **Açıklama:** EDR atlatma teknikleri atölyesi — loader'dan kernel'a adım adım zararlı yazılım geliştirme ve güvenlik atlama workshop materyalleri. RoboCheckIn güvenlik tarama modülü için tehdit modelleme referansı.
+---
+
+### METATRON (sooryathejas)
+- **Repo:** https://github.com/sooryathejas/METATRON
+- **Stars:** 3,889
+- **Açıklama:** Yerel LLM destekli AI sızma testi asistanı — Parrot OS üzerinde çalışır, otomatik güvenlik açığı tespiti ve raporlama. RoboCheckIn güvenlik tarama özelliğine AI-guided pentest akışı eklemek için referans mimari.
+---
+
+### bitwarden/server (bitwarden)
+- **Repo:** https://github.com/bitwarden/server
+- **Stars:** 20,030
+- **Açıklama:** Bitwarden açık kaynak şifre yöneticisi sunucu altyapısı — API, veritabanı, Docker desteği, self-hosted. Hetzner'da self-hosted credential yönetimi; ekip güvenliği için kurumsal seçenek.
+---
+
+### AutoPentestX (Gowtham-Darkseid)
+- **Repo:** https://github.com/Gowtham-Darkseid/AutoPentestX
+- **Stars:** 1,530
+- **Açıklama:** Otomatik sızma testi ve güvenlik açığı raporlama aracı — AI destekli, kapsamlı pentest pipeline. RoboCheckIn güvenlik tarama özelliği için AI-guided pentest akışı; OCC Network Security sekmesi entegrasyonu.
+---

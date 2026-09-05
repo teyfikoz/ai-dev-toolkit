@@ -170,3 +170,15 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - **Repo:** https://github.com/ByteByteGoHq/system-design-101
 - **Stars:** 87,973
 - **Açıklama:** Görseller ve rehberlerle sistem tasarımı — 87K yıldız, API, veritabanı, cache, CDN, mesajlaşma sistemleri anlatılıyor. YouTube teknik eğitim serisi + TSA içerik üretimi için temel referans.
+
+### Spark-X2.5 (XHToken)
+- **Repo:** https://github.com/XHToken/Spark-X2.5
+- **Stars:** 152
+- **Açıklama:** Spark-X2.5 açık model serisi (1.7B/4B) — 1M token context, 200+ dil, agentic yetenekli, llama.cpp/MLX uyumlu on-device model. PersonaLite on-device AI için güçlü alternatif; HomeLab KVKK offline-first gereksinimi için NIM yerine yerel çalıştırılabilir.
+---
+
+### Personal-AI-Router (NVIDIA)
+- **Repo:** https://github.com/NVIDIA/Personal-AI-Router
+- **Stars:** 485
+- **Açıklama:** NVIDIA PAIR — aynı ağdaki birden fazla cihaza Ollama/LM Studio inference'ını dağıtan yerel AI router, OpenAI-compatible endpoint sunar. OCC AI Chat: Mac Ollama + Hetzner'ı tek endpoint altında birleştirir; HomeLab ve GlobalKariyerim için multi-device inference routing.
+---
