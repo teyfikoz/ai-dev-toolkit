@@ -150,3 +150,5 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Repo:** https://github.com/bingreeky/JIT
 - **Stars:** 315
 - **Açıklama:** JIT-Agent — 27B model her görev için özel Python harness üretir (memory/planning/tool-policy/action modülleri). Aynı agent runtime, her görev için farklı harness. Sabit harness seçimini ortadan kaldırır, görev-başına optimal orchestration. Synaptiq agent mimarisi için yüksek ROI: 284 ajan × farklı görev tipleri → farklı harness stratejileri.
+
+- [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) — Agent orchestrator araçlarının küratörlü listesi ⭐1815

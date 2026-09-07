@@ -76,3 +76,5 @@
 ---
 
 - [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) — Web bot tespiti analizi — Cloudflare/Datadome/Imperva/Akamai bypass araştırma aracı ⭐418
+
+- [instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) — Instagram private API graph explorer ⭐337

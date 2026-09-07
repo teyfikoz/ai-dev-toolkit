@@ -55,3 +55,5 @@ Unity için özel olarak tasarlanmış AI otomasyon becerileri. Claude Code, Cur
 - **Repo:** https://github.com/pollen-robotics/microduck
 - **Stars:** ?
 - **Açıklama:** Robot control — küçük ölçekli robot kontrol platformu. Mobil ve gömülü sistemlerde robot yönetimi.
+
+- [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) — App Store Connect API için CLI aracı — iOS uygulama yönetimi ⭐7004

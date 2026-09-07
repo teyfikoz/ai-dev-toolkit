@@ -24,3 +24,5 @@
 - **Repo:** https://github.com/debpalash/VoiceStudio
 - **Stars:** 12,660
 - **Açıklama:** Açık kaynak yerel ElevenLabs alternatifi — ses klonlama, ses tasarımı, TTS. Tamamen lokal çalışır, OCC Ses Stüdyosu için ideal alternatif.
+
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) — Python öğrenme serisi — 100 günlük kapsamlı müfredat ⭐186105

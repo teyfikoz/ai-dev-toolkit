@@ -20,3 +20,7 @@ Word/PPT/Excel/PDF/EPUB'u temiz Markdown'a dönüştürür. HomeLab belge analiz
 - **Stars:** 10,516
 - **Açıklama:** OpenAI Codex Security CLI ve TypeScript SDK — kod tabanında güvenlik açığı bulma, doğrulama ve otomatik düzeltme, DevSecOps pipeline entegrasyonu. RoboCheckIn güvenlik tarama modülüne AI destekli kod analizi; OCC Network Security için statik analiz referansı.
 ---
+
+- [awesome-list](https://github.com/0xor0ne/awesome-list) — Siber güvenlik araçları ve kaynakları küratörlü liste ⭐4149
+
+- [endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse) — AI agent endpoint güvenlik açıkları araştırması ⭐78
