@@ -74,3 +74,5 @@
 - **Stars:** 5,646
 - **Açıklama:** AI agent'lar için browser otomasyon CLI — anti-bot duvarlarını aşar, insan benzeri tarama. B2BLife şirket veri toplama modülü için Tavily API'ye alternatif/tamamlayıcı; TSA StrategyLab web araştırma.
 ---
+
+- [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) — Web bot tespiti analizi — Cloudflare/Datadome/Imperva/Akamai bypass araştırma aracı ⭐418
