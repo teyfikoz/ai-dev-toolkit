@@ -339,3 +339,15 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Stars:** 5,824
 - **Açıklama:** Google Cloud'da AI agent oluşturma, değerlendirme ve deploy etme CLI ve skill seti — Google ADK + Gemini + Cloud entegrasyonu. Hetzner/Groq stack ile uyumsuz (Google Cloud bağımlısı), agent framework tasarım desenleri için referans.
 ---
+
+### Claude-of-Duty (mshumer)
+- **Repo:** https://github.com/mshumer/Claude-of-Duty
+- **Stars:** 3,399
+- **Açıklama:** Tek prompt ile Three.js'te Call of Duty kalitesinde FPS oyunu — Claude API gücünü gösteren viral demo. Synaptiq tanıtım materyali olarak kullanılabilir.
+---
+
+### dembrandt (dembrandt)
+- **Repo:** https://github.com/dembrandt/dembrandt
+- **Stars:** 3,405
+- **Açıklama:** Herhangi bir web sitesinin tasarım sistemini saniyeler içinde token'lara çıkar: logo, renkler, tipografi. B2BLife WebsiteGap rakip analizi için ideal.
+---

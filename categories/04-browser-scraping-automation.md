@@ -78,3 +78,7 @@
 - [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) — Web bot tespiti analizi — Cloudflare/Datadome/Imperva/Akamai bypass araştırma aracı ⭐418
 
 - [instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) — Instagram private API graph explorer ⭐337
+
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp) — iOS ve Android için MCP sunucusu — mobil otomasyon ve scraping, Appium tabanlı ⭐6479
+
+- [artemis](https://github.com/google/artemis) — Google — Doğal dil talimatları ile güvenilir Android otomasyonu ⭐471
