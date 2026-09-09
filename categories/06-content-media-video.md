@@ -503,3 +503,8 @@ YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON +
 - **Repo:** https://github.com/ZeroPointRepo/youtube-skills
 - **Stars:** 658
 - **Açıklama:** AI agent için YouTube Transcript API skills — transkript çekme, video arama, kanal analizi, çok dilli destek. LearnLingOz içerik pipeline ve Synaptiq YouTube analiz ajanı için doğrudan entegrasyon adayı.
+
+- [manim](https://github.com/ManimCommunity/manim) — Matematik animasyon motoru, 2D/3D görselleştirme, LaTeX desteği ⭐40724
+- [manim-physics](https://github.com/Matheart/manim-physics) — Manim fizik simülasyon eklentisi ⭐404
+- [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) — AI ile matematik→Manim animasyon üretimi ⭐2578
+- [videos](https://github.com/3b1b/videos) — 3Blue1Brown YouTube kanalı Manim kaynak kodları ⭐11202
