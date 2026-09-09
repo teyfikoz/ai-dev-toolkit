@@ -351,3 +351,10 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Stars:** 3,405
 - **Açıklama:** Herhangi bir web sitesinin tasarım sistemini saniyeler içinde token'lara çıkar: logo, renkler, tipografi. B2BLife WebsiteGap rakip analizi için ideal.
 ---
+
+### deepseek-v4-for-copilot (Vizards)
+- **Repo:** https://github.com/Vizards/deepseek-v4-for-copilot
+- **Stars:** 1,412
+- **Açıklama:** GitHub Copilot Chat model seçicisine DeepSeek V4 ekleyen TypeScript VS Code extension.
+- **Portföy:** Synaptiq geliştirme ortamı verimlilik artışı; developer toolchain
+---

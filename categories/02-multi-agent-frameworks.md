@@ -152,3 +152,10 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Açıklama:** JIT-Agent — 27B model her görev için özel Python harness üretir (memory/planning/tool-policy/action modülleri). Aynı agent runtime, her görev için farklı harness. Sabit harness seçimini ortadan kaldırır, görev-başına optimal orchestration. Synaptiq agent mimarisi için yüksek ROI: 284 ajan × farklı görev tipleri → farklı harness stratejileri.
 
 - [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) — Agent orchestrator araçlarının küratörlü listesi ⭐1815
+
+### deer-flow (bytedance)
+- **Repo:** https://github.com/bytedance/deer-flow
+- **Stars:** 82,092
+- **Açıklama:** ByteDance açık kaynak uzun-ufuklu SuperAgent harness — araştırır, kod yazar, içerik üretir. MCP destekli agentic workflow framework.
+- **Portföy:** Synaptiq agent pipeline referansı; TSA research agent; YouTube içerik araştırma otomasyonu için DeerFlow workflow tasarımı
+---

@@ -182,3 +182,7 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - **Stars:** 485
 - **Açıklama:** NVIDIA PAIR — aynı ağdaki birden fazla cihaza Ollama/LM Studio inference'ını dağıtan yerel AI router, OpenAI-compatible endpoint sunar. OCC AI Chat: Mac Ollama + Hetzner'ı tek endpoint altında birleştirir; HomeLab ve GlobalKariyerim için multi-device inference routing.
 ---
+
+- [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) — DeepSeek-v4-Flash 0731 tarifi: 2x DGX Spark üzerinde fine-tune ve deployment ⭐1296
+
+- [vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) — Google Vertex AI ile Gemini/Imagen/Chirp/TTS generatif medya stüdyosu ⭐1206
