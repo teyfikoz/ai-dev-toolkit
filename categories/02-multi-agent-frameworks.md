@@ -159,3 +159,28 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Açıklama:** ByteDance açık kaynak uzun-ufuklu SuperAgent harness — araştırır, kod yazar, içerik üretir. MCP destekli agentic workflow framework.
 - **Portföy:** Synaptiq agent pipeline referansı; TSA research agent; YouTube içerik araştırma otomasyonu için DeerFlow workflow tasarımı
 ---
+
+- [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) — Gerçek zamanlı ses runtime — agent'ları sesle yönlendir, WebSocket voice streaming ⭐2409
+
+- [harnessrouter](https://github.com/HarnessRouter/harnessrouter) — Self-hosted Apache 2.0 unified harness router — birden fazla agent harness'ı tek noktadan yönet ⭐1256 *(zaten vardı)*
+
+### SoL-Pi (NVlabs)
+- **Repo:** https://github.com/NVlabs/SoL-Pi
+- **Stars:** 1,003
+- **Açıklama:** NVIDIA açık kaynak — Agent'ların kendi harness'larını otomatik araştırma döngüsüyle optimize etmesi. Token kullanımını %45-49 azaltır, maliyeti ~1/3 düşürür. Action Fusion + Online Context Compact + ObservationPack + Evidence Reducer.
+- **Portföy:** Synaptiq harness otomasyonu; Hetzner maliyeti düşürmek için doğrudan uygulanabilir
+---
+
+### deepseek-harness (deepseek-ai)
+- **Repo:** https://github.com/deepseek-ai/deepseek-harness
+- **Stars:** 220,477
+- **Açıklama:** DeepSeek Harness — Her şey bir Plugin. Resmi DeepSeek agent harness framework'ü. En çok yıldızlı harness reposu.
+- **Portföy:** Synaptiq plugin mimarisi için temel referans; Hetzner Qwen3.8-27B ile test edilebilir
+---
+
+### designing-multiagent-systems (victordibia)
+- **Repo:** https://github.com/victordibia/designing-multiagent-systems
+- **Stars:** 1,074
+- **Açıklama:** PicoAgents framework ile sıfırdan multi-agent uygulama inşası. First-principles yaklaşım.
+- **Portföy:** Synaptiq agent optimizasyonu; loop-graph-engineering skill'i ile birlikte referans kitabı
+---

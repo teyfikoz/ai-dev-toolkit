@@ -508,3 +508,5 @@ YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON +
 - [manim-physics](https://github.com/Matheart/manim-physics) — Manim fizik simülasyon eklentisi ⭐404
 - [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) — AI ile matematik→Manim animasyon üretimi ⭐2578
 - [videos](https://github.com/3b1b/videos) — 3Blue1Brown YouTube kanalı Manim kaynak kodları ⭐11202
+
+- [omniget](https://github.com/tonhowtf/omniget) — Rust — YouTube/Udemy/Hotmart/1800+ site indirici, terminal gerektirmez ⭐10037

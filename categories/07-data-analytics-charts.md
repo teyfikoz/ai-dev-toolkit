@@ -50,3 +50,10 @@ Power BI semantik modelleme yeteneklerini AI ajanlarına getiren MCP sunucusu. V
 - **Repo:** https://github.com/jeffhajewski/latticedb
 - **Stars:** 618
 - **Açıklama:** Gömülü tek dosyalı bilgi grafiği veritabanı — vektör arama ve tam metin arama. Zig tabanlı, Synaptiq Studio KG alternatifi.
+
+### tsfresh (blue-yonder)
+- **Repo:** https://github.com/blue-yonder/tsfresh
+- **Stars:** 9,315
+- **Açıklama:** Zaman serilerinden otomatik, kapsamlı özellik çıkarımı (777+ özellik). sklearn uyumlu, parallel processing.
+- **Portföy:** StockPulse demand forecast ve anomali tespiti için KRİTİK ARAÇ; envanter verilerinden otomatik pattern çıkarımı
+---
