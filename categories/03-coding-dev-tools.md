@@ -4,3 +4,8 @@
 Tarayıcıda Material 3 Expressive UI çiz ve vibe-coding prompt'a dönüştür. OCC/SaaS prototip tasarımı için.
 
 - [tgrep](https://github.com/microsoft/tgrep) — Microsoft — Trigram indeksli grep, büyük codebase'lerde hızlı regex arama (client/server) ⭐1858
+
+---
+## open-code-review
+**Repo:** [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | ★22,686
+Alibaba ölçeğinde battle-tested, AI destekli kod inceleme sistemi. Hibrit mimari: hızlı + kapsamlı analiz. TSA / CI pipeline kod kalite ajanı için.

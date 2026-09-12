@@ -184,3 +184,13 @@ Akıllı ajan oluşturma ve dağıtım için açık kaynak framework.
 - **Açıklama:** PicoAgents framework ile sıfırdan multi-agent uygulama inşası. First-principles yaklaşım.
 - **Portföy:** Synaptiq agent optimizasyonu; loop-graph-engineering skill'i ile birlikte referans kitabı
 ---
+
+---
+## Polymarket-bot
+**Repo:** [MrFadiAi/Polymarket-bot](https://github.com/MrFadiAi/Polymarket-bot) | ★803
+Polymarket tahmin piyasası için 4 stratejili arbitraj botu — momentum, mean-reversion, arbitraj ve ML tabanlı strateji. 4 katmanlı koruma sistemi. *Aksiyon yetkisi GPT-6 Astra'da.*
+
+---
+## beamnxw-mem
+**Repo:** [beamnxw/beamnxw-mem](https://github.com/beamnxw/beamnxw-mem) | ★2
+Ajan kalıcı bellek altyapısı — episodik hafıza katmanı. Synaptiq Studio agent memory için Mem0 alternatif referansı.
