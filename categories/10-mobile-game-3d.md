@@ -57,3 +57,8 @@ Unity için özel olarak tasarlanmış AI otomasyon becerileri. Claude Code, Cur
 - **Açıklama:** Robot control — küçük ölçekli robot kontrol platformu. Mobil ve gömülü sistemlerde robot yönetimi.
 
 - [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) — App Store Connect API için CLI aracı — iOS uygulama yönetimi ⭐7004
+
+---
+## flybrain-robot-bridge
+**Repo:** [Frankweb33/flybrain-robot-bridge](https://github.com/Frankweb33/flybrain-robot-bridge) | ★23
+Drosophila sinir ağı esinli kamera→robot köprüsü. 8 sanal nöral popülasyon, optik akış, IMU geri bildirim, UDP motor kontrolü, ESP32 scaffold. Robot/drone/süpürge robotu bağlantısı için. SmartBlock mesh sensör ağı + How2TakeOff simülasyon motoru için araştırma referansı.
