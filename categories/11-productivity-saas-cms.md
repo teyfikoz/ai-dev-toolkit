@@ -33,3 +33,24 @@
 | 29 | **directus** | 37,471 | Mevcut SQL veritabanını otomatik REST+GraphQL API'ye dönüştürür — Headless CMS + admin paneli. PostgreSQL, MySQL, SQLite destekli; self-hosted | [link](https://github.com/directus/directus) |
 | 30 | **pluely** | 2,580 | Cluely açık kaynak alternatifi — toplantı, mülakat ve konuşmalarda gizli AI asistanı. Tauri ile native performans, 10MB, video call/ekran paylaşımında tespit edilemez. Claude, Gemini, Grok, OpenAI desteği | [link](https://github.com/iamsrikanthnani/pluely) |
 | 31 | **the-book-of-secret-knowledge** | ? | DevOps, sysadmin ve güvenlik profesyonelleri için dev bilgi tabanı — araçlar, cheatsheet'ler, komutlar, tek satırlık scriptler. Binlerce kaynak | [link](https://github.com/trimstray/the-book-of-secret-knowledge) |
+
+---
+## BuildingAI
+**Repo:** [BidingCC/BuildingAI](https://github.com/BidingCC/BuildingAI) | ★1,885
+No-code AI uygulama oluşturma — müşteri için AI asistanı veya abonelik satışı.
+
+## akaunting
+**Repo:** [akaunting/akaunting](https://github.com/akaunting/akaunting) | ★10,122
+Ücretsiz açık kaynak muhasebe — QuickBooks alternatifi, lisans ücreti sıfır.
+
+## faveo-helpdesk
+**Repo:** [faveosuite/faveo-helpdesk](https://github.com/faveosuite/faveo-helpdesk) | ★1,253
+Ücretsiz müşteri destek sistemi — Zendesk alternatifi.
+
+## astron-rpa
+**Repo:** [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) | ★5,547
+Kapsamlı RPA — UiPath gibi pahalı alternatiflerin yerine rutin veri transferi otomasyonu.
+
+## laracom
+**Repo:** [jsdecena/laracom](https://github.com/jsdecena/laracom) | ★2,042
+Laravel e-ticaret mağazası — Shopify aylık ücret ve işlem kesintisi olmadan.

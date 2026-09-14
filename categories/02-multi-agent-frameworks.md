@@ -194,3 +194,12 @@ Polymarket tahmin piyasası için 4 stratejili arbitraj botu — momentum, mean-
 ## beamnxw-mem
 **Repo:** [beamnxw/beamnxw-mem](https://github.com/beamnxw/beamnxw-mem) | ★2
 Ajan kalıcı bellek altyapısı — episodik hafıza katmanı. Synaptiq Studio agent memory için Mem0 alternatif referansı.
+
+---
+## OpenHands
+**Repo:** [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | ★87,875
+Otonom AI yazılım geliştirici — repo üzerinde metin açıklamasıyla bug fix ve özellik yazma.
+
+## openai-agents-js
+**Repo:** [openai/openai-agents-js](https://github.com/openai/openai-agents-js) | ★3,811
+OpenAI Agents SDK — JavaScript/TypeScript için resmi agent framework. OCC/Synaptiq entegrasyon referansı.

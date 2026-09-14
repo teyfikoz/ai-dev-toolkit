@@ -57,3 +57,24 @@ Power BI semantik modelleme yeteneklerini AI ajanlarına getiren MCP sunucusu. V
 - **Açıklama:** Zaman serilerinden otomatik, kapsamlı özellik çıkarımı (777+ özellik). sklearn uyumlu, parallel processing.
 - **Portföy:** StockPulse demand forecast ve anomali tespiti için KRİTİK ARAÇ; envanter verilerinden otomatik pattern çıkarımı
 ---
+
+---
+## AlphaGPT
+**Repo:** [imbue-bit/AlphaGPT](https://github.com/imbue-bit/AlphaGPT) | ★3,136
+Sembolik regresyon ile hisse/kripto faktör analizi — quant strateji keşif aracı. *[Aksiyon: GPT-6 Astra]*
+
+## nautilus_trader
+**Repo:** [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | ★28,927
+Yüksek performanslı event-driven algo trading + backtest platformu. *[Aksiyon: GPT-6 Astra]*
+
+## go-stock
+**Repo:** [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) | ★7,523
+ABD/HK hisse AI analizi ve piyasa duygu analizi — yerel AI ile. *[Aksiyon: GPT-6 Astra]*
+
+## openpanel
+**Repo:** [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | ★6,964
+Tam özellikli web/ürün analitiği — Mixpanel/Amplitude'un ücretsiz açık kaynak alternatifi.
+
+## OpenStock
+**Repo:** [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | ★14,237
+Güncel piyasa verisi API'si — premium finansal veri aboneliği yerine. StockPulse için.

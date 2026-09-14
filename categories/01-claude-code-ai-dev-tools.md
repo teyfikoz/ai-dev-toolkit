@@ -358,3 +358,16 @@ Claude Code, Codex, OpenCode, Grok Build için çapraz platform masaüstü All-i
 - **Açıklama:** GitHub Copilot Chat model seçicisine DeepSeek V4 ekleyen TypeScript VS Code extension.
 - **Portföy:** Synaptiq geliştirme ortamı verimlilik artışı; developer toolchain
 ---
+
+---
+## claude-code-tips
+**Repo:** [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | ★10,084
+Claude Code için 40+ ipucu: durum çubuğu scripti, Gemini CLI entegrasyonu, container kullanımı, dx plugin.
+
+## AntigravityQuotaWatcher
+**Repo:** [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ★2,261
+Gemini/Claude model kota ve limit takip — aşım faturasını önler.
+
+## Claude-Usage-Tracker
+**Repo:** [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) | ★3,493
+Claude kullanım izleme — token tüketimi ve maliyet analizi.

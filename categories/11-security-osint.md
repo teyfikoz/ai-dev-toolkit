@@ -24,3 +24,12 @@ Word/PPT/Excel/PDF/EPUB'u temiz Markdown'a dönüştürür. HomeLab belge analiz
 - [awesome-list](https://github.com/0xor0ne/awesome-list) — Siber güvenlik araçları ve kaynakları küratörlü liste ⭐4149
 
 - [endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse) — AI agent endpoint güvenlik açıkları araştırması ⭐78
+
+---
+## ghidra
+**Repo:** [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | ★75,708
+NSA'nın efsanevi 75K★ reverse engineering aracı — ikili kod decompile, zafiyet analizi. GhidraMCP ile AI entegrasyonu mevcut (10K★ MCP server).
+
+## bounty-program
+**Repo:** [zama-ai/bounty-program](https://github.com/zama-ai/bounty-program) | ★15,252
+Homomorfik şifreleme kütüphanesi geliştirme için nakit ödül programı. SmartBlock E2E şifreleme araştırması için.

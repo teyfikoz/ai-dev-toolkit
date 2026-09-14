@@ -82,3 +82,20 @@
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) — iOS ve Android için MCP sunucusu — mobil otomasyon ve scraping, Appium tabanlı ⭐6479
 
 - [artemis](https://github.com/google/artemis) — Google — Doğal dil talimatları ile güvenilir Android otomasyonu ⭐471
+
+---
+## docling
+**Repo:** [docling-project/docling](https://github.com/docling-project/docling) | ★66,400
+Karmaşık PDF/tablo/belgeleri RAG için otomatik yapılandırır — ücretli OCR'ın yerini alır. Local RAG build (€5K servis modeli).
+
+## MegaParse
+**Repo:** [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) | ★7,410
+PDF/DOCX/PPTX'ten kayıpsız metin çıkarımı — AI eğitim veri hazırlama.
+
+## firecrawl
+**Repo:** [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | ★180,305
+Web sitelerini LLM için temiz Markdown'a çevirir — 180K★ ticari crawler alternatifi.
+
+## we-mp-rss
+**Repo:** [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) | ★4,619
+WeChat makalelerini Markdown'a çevirir + RSS feed — Asya trend takibi için.

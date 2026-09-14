@@ -510,3 +510,20 @@ YouTube/kısa video otomasyonu için doldurup-kullan framework'ü, CapCut JSON +
 - [videos](https://github.com/3b1b/videos) — 3Blue1Brown YouTube kanalı Manim kaynak kodları ⭐11202
 
 - [omniget](https://github.com/tonhowtf/omniget) — Rust — YouTube/Udemy/Hotmart/1800+ site indirici, terminal gerektirmez ⭐10037
+
+---
+## autoclip_mvp
+**Repo:** [zhouxiaoka/autoclip_mvp](https://github.com/zhouxiaoka/autoclip_mvp) | ★1,062
+AI ile uzun videolardan otomatik klip + highlight çıkarımı — Shorts/Reels/TikTok ağı için.
+
+## PersonaLive
+**Repo:** [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | ★3,744
+Canlı yayın için gerçek zamanlı portre animasyonu — 7/24 AI avatar stream.
+
+## RedInk
+**Repo:** [HisMax/RedInk](https://github.com/HisMax/RedInk) | ★5,545
+Xiaohongshu platformu için hızlı metin/görsel üretimi — Asya sosyal medya arbitrajı.
+
+## MuMuAINovel
+**Repo:** [xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) | ★2,998
+AI ile kitlesel kitap/roman/plot yazımı — Amazon KDP/Gumroad satışı için.

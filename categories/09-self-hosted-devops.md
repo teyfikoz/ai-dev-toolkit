@@ -73,3 +73,56 @@ Tailscale veri düzlemi üzerinden çalışan netcat alternatifi. Tailscale kont
 - **Stars:** 32
 - **Açıklama:** Rust ile yazılmış terminal AI agent'ları için her zaman açık multiplexer sunucu — persistent agent bağlantıları. OCC terminal entegrasyonu için alternatif; ttyd yerine kalıcı AI agent bağlantıları için altyapı.
 ---
+
+---
+## ubicloud
+**Repo:** [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | ★12,262
+Açık kaynak bulut — compute/storage/networking. Ucuz bare-metal üzerinde kendi AWS'ini kur.
+
+## trailbase
+**Repo:** [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) | ★5,610
+Gerçek zamanlı uygulama veri yönetimi için hafif Firebase alternatifi — KVKK uyumlu.
+
+## certimate
+**Repo:** [certimate-go/certimate](https://github.com/certimate-go/certimate) | ★9,295
+ACME ile SSL sertifika otomasyonu ve yenileme — görsel dashboard ile.
+
+## CF-Workers-docker.io
+**Repo:** [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) | ★9,223
+Docker Hub proxy via Cloudflare Workers [ARCHIVED].
+
+## filebrowser
+**Repo:** [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | ★8,284
+Güzel web UI ile dosya yöneticisi — self-hosted, hafif.
+
+## lago
+**Repo:** [getlago/lago](https://github.com/getlago/lago) | ★10,547
+Açık kaynak fatura ve abonelik yönetimi — Stripe/Paddle alternatif araştırma.
+
+## openreplay
+**Repo:** [openreplay/openreplay](https://github.com/openreplay/openreplay) | ★12,848
+Self-hosted session replay — FullStory/Hotjar alternatifi. B2BLife/RoboCheckIn kullanıcı analizi.
+
+## dozzle
+**Repo:** [amir20/dozzle](https://github.com/amir20/dozzle) | ★14,376
+Docker container log izleme için hafif web UI.
+
+## duplicati
+**Repo:** [duplicati/duplicati](https://github.com/duplicati/duplicati) | ★14,991
+Şifreli bulut yedekleme — cross-platform, ücretsiz. Hetzner PostgreSQL yedekleme.
+
+## overleaf
+**Repo:** [overleaf/overleaf](https://github.com/overleaf/overleaf) | ★18,128
+Self-hosted LaTeX editörü — teknik rapor ve doküman hazırlama.
+
+## authelia
+**Repo:** [authelia/authelia](https://github.com/authelia/authelia) | ★28,958
+28K★ self-hosted SSO ve 2FA gateway — tüm servisleri tek auth arkasında.
+
+## jellyfin
+**Repo:** [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | ★57,098
+57K★ ücretsiz medya sunucusu — Plex/Netflix yerine self-hosted.
+
+## openui
+**Repo:** [thesysdev/openui](https://github.com/thesysdev/openui) | ★9,145
+UI bileşeni üretimi — Figma/v0 alternatifi. Synaptiq Studio UI prototipleme.

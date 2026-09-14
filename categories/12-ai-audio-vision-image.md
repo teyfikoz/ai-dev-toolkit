@@ -26,3 +26,16 @@
 - **Açıklama:** Açık kaynak yerel ElevenLabs alternatifi — ses klonlama, ses tasarımı, TTS. Tamamen lokal çalışır, OCC Ses Stüdyosu için ideal alternatif.
 
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) — Python öğrenme serisi — 100 günlük kapsamlı müfredat ⭐186105
+
+---
+## llm-twin-course
+**Repo:** [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) | ★4,385
+Üretim kalitesinde LLM sistemi inşası için 12 derslik ücretsiz mühendislik kursu — Synaptiq agent mimarisi öğrenme.
+
+## DevOps-Roadmap
+**Repo:** [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | ★20,528
+2026 için yapılandırılmış DevOps öğrenme yol haritası.
+
+## 2026-AI-College-Jobs
+**Repo:** [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) | ★6,343
+2026 AI/ML alanı staj ve giriş seviyesi işleri — günlük güncellenen veritabanı. GlobalKariyerim için.

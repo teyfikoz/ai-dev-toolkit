@@ -186,3 +186,24 @@ Open Source Deep Research — özel veriler üzerinde arama ve akıl yürütme. 
 - [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) — DeepSeek-v4-Flash 0731 tarifi: 2x DGX Spark üzerinde fine-tune ve deployment ⭐1296
 
 - [vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) — Google Vertex AI ile Gemini/Imagen/Chirp/TTS generatif medya stüdyosu ⭐1206
+
+---
+## flux
+**Repo:** [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | ★25,957
+En iyi açık kaynak görsel üretim modeli — Midjourney aboneliği olmadan yerel inference.
+
+## faster-whisper
+**Repo:** [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ★25,394
+GPU ile ultra hızlı yerel STT — OpenAI Whisper API'nin ücretsiz yedeği. Language Shorts Factory için.
+
+## VAR
+**Repo:** [FoundationVision/VAR](https://github.com/FoundationVision/VAR) | ★8,731
+Next-token tipi görsel üretim mimarisi — diffusion modellerine alternatif.
+
+## gpt4free
+**Repo:** [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | ★66,684
+GPT-4 ve üst model ücretsiz API erişimi — 66K★ [⚠️ ToS riski, sadece araştırma amaçlı].
+
+## datatrove
+**Repo:** [huggingface/datatrove](https://github.com/huggingface/datatrove) | ★3,333
+HuggingFace büyük ölçekli veri işleme — LLM fine-tune veri pipeline'ı.
