@@ -207,3 +207,8 @@ GPT-4 ve üst model ücretsiz API erişimi — 66K★ [⚠️ ToS riski, sadece 
 ## datatrove
 **Repo:** [huggingface/datatrove](https://github.com/huggingface/datatrove) | ★3,333
 HuggingFace büyük ölçekli veri işleme — LLM fine-tune veri pipeline'ı.
+
+---
+## auto-gpu-kernel
+**Repo:** [Dogacel/auto-gpu-kernel](https://github.com/Dogacel/auto-gpu-kernel) | ★250
+MLSys 2026 ödüllü (Agent-only) — FlashInfer AI ile LLM GPU kernel otomatik üretimi ve optimizasyonu. Synaptiq yerel inference hızlandırma için.

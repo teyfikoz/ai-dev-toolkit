@@ -203,3 +203,8 @@ Otonom AI yazılım geliştirici — repo üzerinde metin açıklamasıyla bug f
 ## openai-agents-js
 **Repo:** [openai/openai-agents-js](https://github.com/openai/openai-agents-js) | ★3,811
 OpenAI Agents SDK — JavaScript/TypeScript için resmi agent framework. OCC/Synaptiq entegrasyon referansı.
+
+---
+## OpenSpace
+**Repo:** [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | ★7,686
+AI agent skill yönetim katmanı — görev bazlı skill arama/yeniden kullanma, etkinlik değerlendirme, ekip paylaşımı, başarılı prosedürleri iyileştirme. Synaptiq 284 agent skill registry ve OCC workflow yönetimi için.

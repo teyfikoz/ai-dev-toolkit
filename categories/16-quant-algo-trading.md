@@ -34,3 +34,12 @@ Polymarket/Kalshi hava durumu tahmin piyasası botu. GFS ensemble, Kelly kriteri
 - **Repo:** https://github.com/virattt/ai-hedge-fund
 - **Stars:** 63,187
 - **Açıklama:** AI hedge fon ekibi — çoklu ajan tabanlı hisse analiz ve portföy yönetimi. Temel analiz, teknik analiz, sentiment ve risk ajanları. StockPulse + TSA FundPilot için referans mimari.
+
+---
+## fly-high
+**Repo:** [immortalhowwl/fly-high](https://github.com/immortalhowwl/fly-high) | ★2
+Robinhood Chain memecoin trader izleme — 3 fly agent: Follow Trader / Follow Group / Watch Exits + Evolution Lab genetik algoritma simülasyonu. *[Aksiyon: GPT-6 Astra]*
+
+## strategies
+**Repo:** [fmzquant/strategies](https://github.com/fmzquant/strategies) | ★5,768
+5800+ halka açık trading stratejisi — JS/Python/C++/PineScript/Blockly, tam aranabilir. Backtest referans kütüphanesi. *[Aksiyon: GPT-6 Astra]*
