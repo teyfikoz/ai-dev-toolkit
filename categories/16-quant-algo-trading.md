@@ -43,3 +43,19 @@ Robinhood Chain memecoin trader izleme — 3 fly agent: Follow Trader / Follow G
 ## strategies
 **Repo:** [fmzquant/strategies](https://github.com/fmzquant/strategies) | ★5,768
 5800+ halka açık trading stratejisi — JS/Python/C++/PineScript/Blockly, tam aranabilir. Backtest referans kütüphanesi. *[Aksiyon: GPT-6 Astra]*
+
+## quant-finance-education
+- [gs-quant](https://github.com/goldmansachs/gs-quant) — Goldman Sachs kantitatif finans Python toolkit'i ⭐12,965
+- [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) — Olasılık, stokastik süreçler, sayısal yöntemler notebook koleksiyonu ⭐7,454
+- [tf-quant-finance](https://github.com/google/tf-quant-finance) — Google'ın TensorFlow tabanlı kantitatif finans kütüphanesi ⭐5,502
+- [Finance](https://github.com/shashankvemuri/Finance) — Hisse analizi, teknik göstergeler, portföy optimizasyonu araçları ⭐4,266
+- [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) — Modern finans terminali: piyasa analitik, yatırım araştırma ⭐31,675
+- [rqalpha](https://github.com/ricequant/rqalpha) — Genişletilebilir algoritmik backtest ve trading framework ⭐6,769
+- [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) — Kantitatif finans ve algoritmik trading eğitim notebookları ⭐1,395
+- [optlib](https://github.com/dbrojas/optlib) — Python opsiyon fiyatlama kütüphanesi ⭐1,634
+- [optopsy](https://github.com/goldspanlabs/optopsy) — Opsiyon araştırma ve backtesting kütüphanesi ⭐1,476
+- [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) — RL destekli kantitatif trading platformu ⭐3,073
+- [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework) — Otomatik trading algoritması geliştirme framework'ü ⭐2,070
+- [quant-notes](https://github.com/dingran/quant-notes) — Kantitatif mülakat hazırlık rehberi ⭐975
+- [Python_Option_Pricing](https://github.com/dedwards25/Python_Option_Pricing) — Black-Scholes, Monte Carlo, Binomial opsiyon fiyatlama ⭐851
+- [DermanPapers](https://github.com/MarcosCarreira/DermanPapers) — Emanuel Derman'ın orijinal QF makalelerinin notebook replikasyonu ⭐530
