@@ -208,3 +208,16 @@ OpenAI Agents SDK — JavaScript/TypeScript için resmi agent framework. OCC/Syn
 ## OpenSpace
 **Repo:** [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | ★7,686
 AI agent skill yönetim katmanı — görev bazlı skill arama/yeniden kullanma, etkinlik değerlendirme, ekip paylaşımı, başarılı prosedürleri iyileştirme. Synaptiq 284 agent skill registry ve OCC workflow yönetimi için.
+
+---
+## CLI-Anything
+**Repo:** [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | ★49,500
+Tüm yazılımı agent-native yapan CLI hub — 49K★. Synaptiq agent'larının mevcut CLI araçlarına bağlanması için.
+
+## MiroFish
+**Repo:** [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | ★73,799
+Evrensel swarm intelligence motoru — herhangi bir şeyi tahmin eden agent sürüsü. Synaptiq swarm referansı.
+
+## GraphAgent
+**Repo:** [HKUDS/GraphAgent](https://github.com/HKUDS/GraphAgent) | ★370
+EMNLP2025 — Agentic Graph Language Assistant. Synaptiq KG API entegrasyonu için.

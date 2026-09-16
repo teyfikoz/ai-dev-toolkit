@@ -39,3 +39,15 @@
 ## 2026-AI-College-Jobs
 **Repo:** [speedyapply/2026-AI-College-Jobs](https://github.com/speedyapply/2026-AI-College-Jobs) | ★6,343
 2026 AI/ML alanı staj ve giriş seviyesi işleri — günlük güncellenen veritabanı. GlobalKariyerim için.
+
+---
+## zotero-mcp (research)
+**Repo:** See 08-productivity section.
+
+## Synthyra Protein Models (HF)
+- [Synthyra/ESM2-650M](https://huggingface.co/Synthyra/ESM2-650M) — Protein dizi modeli
+- [Synthyra/ESM2-150M](https://huggingface.co/Synthyra/ESM2-150M) — Hafif versiyon
+- [Synthyra/Profluent-E1-150M](https://huggingface.co/Synthyra/Profluent-E1-150M) — Protein tasarım modeli
+- [Synthyra/ESMplusplus_6B](https://huggingface.co/Synthyra/ESMplusplus_6B) — Büyük protein modeli
+- [Synthyra/ANKH2_large](https://huggingface.co/Synthyra/ANKH2_large) — Protein fonksiyon tahmini
+**HomeLab kullanımı:** Biyomedikal analiz sekmesi için protein yapı/fonksiyon tahmini. *Offline-first KVKK kısıtı geçerli.*

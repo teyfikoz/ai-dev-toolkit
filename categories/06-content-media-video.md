@@ -527,3 +527,12 @@ Xiaohongshu platformu için hızlı metin/görsel üretimi — Asya sosyal medya
 ## MuMuAINovel
 **Repo:** [xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) | ★2,998
 AI ile kitlesel kitap/roman/plot yazımı — Amazon KDP/Gumroad satışı için.
+
+---
+## VoiceStudio
+**Repo:** [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | ★31,991
+Tam yerel açık kaynak ElevenLabs alternatifi — 31K★ TTS + ses klonlama. TheMrOzz/Ariabella ses pipeline'ı için edge-tts yerine.
+
+## blender-mcp
+**Repo:** [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | ★28,786
+Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içerik thumbnail üretimi.

@@ -212,3 +212,20 @@ HuggingFace büyük ölçekli veri işleme — LLM fine-tune veri pipeline'ı.
 ## auto-gpu-kernel
 **Repo:** [Dogacel/auto-gpu-kernel](https://github.com/Dogacel/auto-gpu-kernel) | ★250
 MLSys 2026 ödüllü (Agent-only) — FlashInfer AI ile LLM GPU kernel otomatik üretimi ve optimizasyonu. Synaptiq yerel inference hızlandırma için.
+
+---
+## LightRAG
+**Repo:** [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | ★39,708
+EMNLP2025 — Basit ve hızlı RAG, graph tabanlı retrieval. Local RAG €5K servis modeli için docling ile birlikte.
+
+## RuView
+**Repo:** [ruvnet/RuView](https://github.com/ruvnet/RuView) | ★94,366
+WiFi sinyallerini gerçek zamanlı uzamsal zekaya dönüştürme — π projesi. SmartBlock operatörsüz konum algılama araştırması.
+
+## csghub
+**Repo:** [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) | ★4,110
+LLM/veri/Space yönetim platformu — açık kaynak GitHub Copilot + HuggingFace benzeri.
+
+## ZGCM-1
+**Repo:** [zgcagi/ZGCM-1](https://github.com/zgcagi/ZGCM-1) | ★380
+Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevcut.

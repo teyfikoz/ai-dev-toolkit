@@ -30,3 +30,16 @@ Akıllı LLM router — basit promptları ucuz, karmaşıkları premium modele y
 ## rtk
 **Repo:** [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ★80,323
 Rust CLI proxy — geliştirme komutlarında LLM token tüketimini %60-90 azaltır.
+
+---
+## atlas
+**Repo:** [pacifio/atlas](https://github.com/pacifio/atlas) | ★4,807
+Agent'lar için kaynak kontrolü — çoklu coding agent takibi. OCC agent lifecycle yönetimi için.
+
+## OpenResearch
+**Repo:** [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | ★4,364
+Coding agent'larını research agent'lara dönüştürür. TSA araştırma pipeline'ı.
+
+## cursor-talk-to-figma-mcp
+**Repo:** [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | ★7,022
+AI Agent'ı Figma ile konuşturan MCP — tasarım → kod. Synaptiq Studio UI geliştirme.

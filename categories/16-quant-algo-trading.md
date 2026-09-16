@@ -59,3 +59,8 @@ Robinhood Chain memecoin trader izleme — 3 fly agent: Follow Trader / Follow G
 - [quant-notes](https://github.com/dingran/quant-notes) — Kantitatif mülakat hazırlık rehberi ⭐975
 - [Python_Option_Pricing](https://github.com/dedwards25/Python_Option_Pricing) — Black-Scholes, Monte Carlo, Binomial opsiyon fiyatlama ⭐851
 - [DermanPapers](https://github.com/MarcosCarreira/DermanPapers) — Emanuel Derman'ın orijinal QF makalelerinin notebook replikasyonu ⭐530
+
+---
+## quant-mind
+**Repo:** [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | ★2,950
+Agent-native açık kaynak quant araştırma ve bilgi çıkarımı sistemi. *[Aksiyon: GPT-6 Astra]*

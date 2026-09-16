@@ -99,3 +99,12 @@ Web sitelerini LLM için temiz Markdown'a çevirir — 180K★ ticari crawler al
 ## we-mp-rss
 **Repo:** [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) | ★4,619
 WeChat makalelerini Markdown'a çevirir + RSS feed — Asya trend takibi için.
+
+---
+## playwright-mcp
+**Repo:** [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | ★37,180
+Microsoft Playwright MCP — 37K★ browser otomasyon. OCC Otomasyon sekmesi: vize/e-Devlet/GlobalKariyerim.
+
+## chrome-devtools-mcp
+**Repo:** [chromedevtools/chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) | ★52,136
+Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon + B2BLife web analiz.

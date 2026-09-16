@@ -78,3 +78,24 @@ Tam özellikli web/ürün analitiği — Mixpanel/Amplitude'un ücretsiz açık 
 ## OpenStock
 **Repo:** [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | ★14,237
 Güncel piyasa verisi API'si — premium finansal veri aboneliği yerine. StockPulse için.
+
+---
+## worldmonitor
+**Repo:** [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ★86,641
+AI destekli gerçek zamanlı global istihbarat dashboard'u — 86K★. TSA DecisionSense global trend izleme.
+
+## phoenix
+**Repo:** [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | ★11,500
+AI Observability & Evaluation — LLM trace, eval, monitoring. Synaptiq agent performans izleme.
+
+## mcp-toolbox
+**Repo:** [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | ★16,486
+Google MCP Toolbox — veritabanı bağlantısı için açık kaynak MCP. B2BLife/RoboCheckIn PostgreSQL → Claude.
+
+## FinanceToolkit
+**Repo:** [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) | ★5,348
+Şeffaf finansal analiz toolkit. B2BLife şirket finansal analiz; TSA FundPilot.
+
+## financial-datasets/mcp-server
+**Repo:** [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) | ★2,293
+Finansal veri MCP server — hisse, gelir, bilanço. StockPulse + TSA FundPilot için.

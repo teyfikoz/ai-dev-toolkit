@@ -33,3 +33,8 @@ NSA'nın efsanevi 75K★ reverse engineering aracı — ikili kod decompile, zaf
 ## bounty-program
 **Repo:** [zama-ai/bounty-program](https://github.com/zama-ai/bounty-program) | ★15,252
 Homomorfik şifreleme kütüphanesi geliştirme için nakit ödül programı. SmartBlock E2E şifreleme araştırması için.
+
+---
+## Claude-Red
+**Repo:** [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | ★5,749
+Claude ile saldırgan güvenlik skill'leri kütüphanesi — 5.7K★. SmartBlock güvenlik testi; OCC Security sekmesi.
