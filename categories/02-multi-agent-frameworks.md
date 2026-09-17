@@ -221,3 +221,16 @@ Evrensel swarm intelligence motoru — herhangi bir şeyi tahmin eden agent sür
 ## GraphAgent
 **Repo:** [HKUDS/GraphAgent](https://github.com/HKUDS/GraphAgent) | ★370
 EMNLP2025 — Agentic Graph Language Assistant. Synaptiq KG API entegrasyonu için.
+
+---
+## typesafe-mario
+**Repo:** [fhshaik/typesafe-mario](https://github.com/fhshaik/typesafe-mario) | ★185
+TypeSafe/Jev agent Super Mario oynuyor — yapılandırılmış çıkış + agent loop demo. Synaptiq agent loop eğitim referansı.
+
+## openjev
+**Repo:** [TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev) | ★560
+RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi. Synaptiq looped agent mimarisi araştırması.
+
+## rowboat
+**Repo:** [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ★17,900
+İş için çok oyunculu kişisel asistan — 17.9K★. TSA multi-agent iş asistanı referansı.

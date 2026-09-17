@@ -62,3 +62,8 @@ Unity için özel olarak tasarlanmış AI otomasyon becerileri. Claude Code, Cur
 ## flybrain-robot-bridge
 **Repo:** [Frankweb33/flybrain-robot-bridge](https://github.com/Frankweb33/flybrain-robot-bridge) | ★23
 Drosophila sinir ağı esinli kamera→robot köprüsü. 8 sanal nöral popülasyon, optik akış, IMU geri bildirim, UDP motor kontrolü, ESP32 scaffold. Robot/drone/süpürge robotu bağlantısı için. SmartBlock mesh sensör ağı + How2TakeOff simülasyon motoru için araştırma referansı.
+
+---
+## ShapeEngine
+**Repo:** [DaveGreen-Games/ShapeEngine](https://github.com/DaveGreen-Games/ShapeEngine) | ★623
+Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon motoru alternatifi.

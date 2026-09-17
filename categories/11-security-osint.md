@@ -38,3 +38,8 @@ Homomorfik şifreleme kütüphanesi geliştirme için nakit ödül programı. Sm
 ## Claude-Red
 **Repo:** [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | ★5,749
 Claude ile saldırgan güvenlik skill'leri kütüphanesi — 5.7K★. SmartBlock güvenlik testi; OCC Security sekmesi.
+
+---
+## security-audit-skill
+**Repo:** [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ★10,100
+Cloudflare çok aşamalı güvenlik denetimi — bağımsız doğrulama, 10K★ coding agent skill. OCC Güvenlik + SmartBlock + RoboCheckIn için.

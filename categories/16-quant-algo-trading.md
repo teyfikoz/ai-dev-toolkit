@@ -64,3 +64,8 @@ Robinhood Chain memecoin trader izleme — 3 fly agent: Follow Trader / Follow G
 ## quant-mind
 **Repo:** [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind) | ★2,950
 Agent-native açık kaynak quant araştırma ve bilgi çıkarımı sistemi. *[Aksiyon: GPT-6 Astra]*
+
+---
+## tradingview-mcp
+**Repo:** [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | ★6,339
+TradingView grafik analizi MCP server — Claude Code ile TradingView bağlantısı. *[Aksiyon: GPT-6 Astra]*
