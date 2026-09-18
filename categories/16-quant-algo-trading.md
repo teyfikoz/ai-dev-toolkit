@@ -69,3 +69,8 @@ Agent-native açık kaynak quant araştırma ve bilgi çıkarımı sistemi. *[Ak
 ## tradingview-mcp
 **Repo:** [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | ★6,339
 TradingView grafik analizi MCP server — Claude Code ile TradingView bağlantısı. *[Aksiyon: GPT-6 Astra]*
+
+---
+## tradingview-optimizer
+**Repo:** [Roboquant-AI/tradingview-optimizer](https://github.com/Roboquant-AI/tradingview-optimizer) | ★47
+TradingView Pine Script strateji optimizasyon aracı, AI destekli parametre ayarlama ve backtest grid search. *[Aksiyon: GPT-6 Astra]*
