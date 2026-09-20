@@ -536,3 +536,12 @@ Tam yerel açık kaynak ElevenLabs alternatifi — 31K★ TTS + ses klonlama. Th
 ## blender-mcp
 **Repo:** [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | ★28,786
 Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içerik thumbnail üretimi.
+
+- [edge-tts](https://github.com/rany2/edge-tts) — Microsoft Edge TTS Python kütüphanesi, API key gerektirmez ⭐11986
+- [NeMo-text-processing](https://github.com/NVIDIA/NeMo-text-processing) — NVIDIA TTS/ASR için metin normalizasyon kütüphanesi ⭐506
+- [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) — LLM token akışını gerçek zamanlı sese çeviren Python kütüphanesi ⭐4031
+- [manim-voiceover](https://github.com/ManimCommunity/manim-voiceover) — Manim animasyonlarına TTS ile sesli anlatım ekleme eklentisi ⭐316
+- [F5-TTS](https://github.com/SWivid/F5-TTS) — Flow Matching ile yüksek kaliteli TTS modeli ⭐15262
+- [shorts-project](https://github.com/dr34ming/shorts-project) — Claude Opus 4.5 + Manim + Remotion ile AI YouTube Shorts üretimi ⭐1
+- [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — Düşük gecikme gerçek zamanlı konuşma tanıma Python kütüphanesi ⭐10137
+- [TTSTextNormalization](https://github.com/tomaarsen/TTSTextNormalization) — Yazılı metni TTS için konuşma formuna dönüştürme ⭐32
