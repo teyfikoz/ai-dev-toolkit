@@ -371,3 +371,5 @@ Gemini/Claude model kota ve limit takip — aşım faturasını önler.
 ## Claude-Usage-Tracker
 **Repo:** [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) | ★3,493
 Claude kullanım izleme — token tüketimi ve maliyet analizi.
+
+- [humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) — Claude Code skill: akademik tıp yazılarından AI izlerini temizler ⭐258

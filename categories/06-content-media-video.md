@@ -545,3 +545,5 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [shorts-project](https://github.com/dr34ming/shorts-project) — Claude Opus 4.5 + Manim + Remotion ile AI YouTube Shorts üretimi ⭐1
 - [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — Düşük gecikme gerçek zamanlı konuşma tanıma Python kütüphanesi ⭐10137
 - [TTSTextNormalization](https://github.com/tomaarsen/TTSTextNormalization) — Yazılı metni TTS için konuşma formuna dönüştürme ⭐32
+
+- [open-higgsfield](https://github.com/wide-trace/open-higgsfield) — Açık kaynak Higgsfield alternatifi: 38 model (8 image + 30 video), tek prompt bar, self-host edilebilir ⭐3501
