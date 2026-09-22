@@ -229,3 +229,5 @@ LLM/veri/Space yönetim platformu — açık kaynak GitHub Copilot + HuggingFace
 ## ZGCM-1
 **Repo:** [zgcagi/ZGCM-1](https://github.com/zgcagi/ZGCM-1) | ★380
 Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevcut.
+
+- [laya](https://github.com/NandhaKishorM/laya) — Jev benzeri typed karar modeli, 15k+ yıldız ⭐15918

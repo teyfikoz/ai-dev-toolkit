@@ -234,3 +234,5 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 ## rowboat
 **Repo:** [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | ★17,900
 İş için çok oyunculu kişisel asistan — 17.9K★. TSA multi-agent iş asistanı referansı.
+
+- [OpenMuse](https://github.com/CopilotKit/OpenMuse) — Açık kaynak self-hostable kişisel asistan, CopilotKit ⭐575

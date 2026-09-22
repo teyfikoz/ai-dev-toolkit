@@ -373,3 +373,23 @@ Gemini/Claude model kota ve limit takip — aşım faturasını önler.
 Claude kullanım izleme — token tüketimi ve maliyet analizi.
 
 - [humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) — Claude Code skill: akademik tıp yazılarından AI izlerini temizler ⭐258
+
+- [agent-desktop](https://github.com/lahfir/agent-desktop) — AI agent desktop UI, multi-provider, MCP destekli ⭐1498
+
+- [jev-drone](https://github.com/RomanSlack/jev-drone) — Jev ile drone karar alma sistemi ⭐129
+
+- [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — Browser-use + Jev: ultra hızlı tarayıcı kararları ⭐17900
+
+- [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) — Claude Code için Jev tabanlı context compaction ⭐6276
+
+- [skills](https://github.com/typesafe-ai/skills) — TypeSafe AI resmi agent skills kütüphanesi ⭐1790
+
+- [typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) — Jev ile macOS computer-use, adım başı $0.0002 ⭐817
+
+- [SemIf](https://github.com/TheoLeeCJ/SemIf) — Açık kaynak Jev benzeri semantik karar motoru ⭐3762
+
+- [NanoJev](https://github.com/TianyuCodings/NanoJev) — Jev nano klon, paralel kararlar + eğitim pipeline ⭐1977
+
+- [kev](https://github.com/jaredpalmer/kev) — MacBook'ta çalışan mini Jev modeli (Qwen2.5-0.5B) ⭐3881
+
+- [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — Jev ekosistemi awesome listesi ⭐798

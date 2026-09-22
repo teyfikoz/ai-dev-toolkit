@@ -126,3 +126,5 @@ Self-hosted LaTeX editörü — teknik rapor ve doküman hazırlama.
 ## openui
 **Repo:** [thesysdev/openui](https://github.com/thesysdev/openui) | ★9,145
 UI bileşeni üretimi — Figma/v0 alternatifi. Synaptiq Studio UI prototipleme.
+
+- [zig](https://github.com/ziglang/zig) — Zig programlama dili — sistem programlama ⭐43299
