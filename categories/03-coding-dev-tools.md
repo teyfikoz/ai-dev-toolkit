@@ -43,3 +43,5 @@ Coding agent'larını research agent'lara dönüştürür. TSA araştırma pipel
 ## cursor-talk-to-figma-mcp
 **Repo:** [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | ★7,022
 AI Agent'ı Figma ile konuşturan MCP — tasarım → kod. Synaptiq Studio UI geliştirme.
+
+- [whiteboard](https://github.com/devdotfast/whiteboard) — Gerçek zamanlı işbirlikli dijital whiteboard uygulaması ⭐1536

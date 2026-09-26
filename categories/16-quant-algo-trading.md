@@ -74,3 +74,5 @@ TradingView grafik analizi MCP server — Claude Code ile TradingView bağlantı
 ## tradingview-optimizer
 **Repo:** [Roboquant-AI/tradingview-optimizer](https://github.com/Roboquant-AI/tradingview-optimizer) | ★47
 TradingView Pine Script strateji optimizasyon aracı, AI destekli parametre ayarlama ve backtest grid search. *[Aksiyon: GPT-6 Astra]*
+
+- [MarS](https://github.com/microsoft/MarS) — Microsoft Research emir seviyesi piyasa simülasyon AI modeli ⭐1814
