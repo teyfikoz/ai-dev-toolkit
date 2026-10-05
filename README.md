@@ -11,6 +11,8 @@
 
 ## Categories
 
+Latest evidence review: [5 October 2026 — agent tools, SoL-Pi and Polymarket claims](reports/2026-10-05-agent-tools-and-polymarket-review.md). [Verified repository/model metadata](reports/2026-10-05-repo-intake.json).
+
 | # | Category | Repos |
 |---|----------|-------|
 | 01 | [Claude Code & AI Geliştirici Araçları](categories/01-claude-code-ai-dev-tools.md) | 33 |

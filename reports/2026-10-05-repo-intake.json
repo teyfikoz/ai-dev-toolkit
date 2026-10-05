@@ -1,0 +1,78 @@
+{
+  "checked_at": "2026-10-05T14:31:47.130227+00:00",
+  "github": [
+    {
+      "repo": "empero-org/brewery-ai",
+      "url": "https://github.com/empero-org/brewery-ai",
+      "stars": 148,
+      "pushed_at": "2026-10-05T09:39:32Z",
+      "license": "NOASSERTION",
+      "description": "Dil ve görsel modelleri için rehberli fine-tuning ajanı; LoRA/SFT ve veri hazırlama.",
+      "assessment": "Kontrollü eğitim deneyi adayı; trading sinyali değildir. GPU maliyeti ve lisans ayrıca incelenmeli."
+    },
+    {
+      "repo": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "stars": 2341,
+      "pushed_at": "2026-10-04T07:15:17Z",
+      "license": "MIT",
+      "description": "300+ agent kaynağını sınıflandıran keşif listesi; kalite sıralaması değildir.",
+      "assessment": "Eksik araçları bulmak için katalog; listedeki yıldız ve lisansları proje bazında tekrar doğrula."
+    },
+    {
+      "repo": "rizinorg/cutter",
+      "url": "https://github.com/rizinorg/cutter",
+      "stars": 19890,
+      "pushed_at": "2026-09-11T12:44:05Z",
+      "license": "GPL-3.0",
+      "description": "Rizin tabanlı grafik arayüzlü tersine mühendislik ve ikili dosya analizi.",
+      "assessment": "İzinli yazılım inceleme için bağımsız araç; trading kararı için katkı kanıtı yok."
+    },
+    {
+      "repo": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "stars": 14603,
+      "pushed_at": "2026-10-05T05:09:59Z",
+      "license": "Apache-2.0",
+      "description": "Gerçek zamanlı ses/video ajanları; STT/LLM/TTS eklentileri ve test altyapısı.",
+      "assessment": "Erişilebilir sesli arayüz adayı; yazılı alternatif korunmalı, ses verisi dış sağlayıcıya giderse gizlilik incelemesi gerekli."
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars": 157016,
+      "pushed_at": "2026-10-04T21:17:44Z",
+      "license": "MIT",
+      "description": "Uzman agent rol ve çalışma talimatları koleksiyonu.",
+      "assessment": "İnceleme rollerini standardize etmek için; çalışan şirket veya doğrulanmış trading motoru değildir."
+    },
+    {
+      "repo": "NVlabs/SoL-Pi",
+      "url": "https://github.com/NVlabs/SoL-Pi",
+      "stars": 3330,
+      "pushed_at": "2026-10-05T13:38:31Z",
+      "license": "MIT",
+      "description": "Pi için dört isteğe bağlı agent harness verimlilik mekanizması.",
+      "assessment": "Önce çevrimdışı maliyet/başarı kıyası; Codex eklentisi değildir. Log arşivi ve ucuz model özetleri ham kanıtla doğrulanmalı."
+    }
+  ],
+  "huggingface": {
+    "id": "empero-ai/Homebrew-Qwen3.5-2B-Grandmas-Kitchen",
+    "url": "https://huggingface.co/empero-ai/Homebrew-Qwen3.5-2B-Grandmas-Kitchen",
+    "likes": 0,
+    "downloads": 16,
+    "license": "apache-2.0",
+    "base_model": "Qwen/Qwen3.5-2B",
+    "kind": "LoRA adapter"
+  },
+  "added": [
+    "empero-org/brewery-ai",
+    "slavakurilyak/awesome-ai-agents",
+    "rizinorg/cutter",
+    "livekit/agents"
+  ],
+  "updated": [
+    "msitarzewski/agency-agents",
+    "NVlabs/SoL-Pi"
+  ]
+}

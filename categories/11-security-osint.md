@@ -43,3 +43,5 @@ Claude ile saldırgan güvenlik skill'leri kütüphanesi — 5.7K★. SmartBlock
 ## security-audit-skill
 **Repo:** [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ★10,100
 Cloudflare çok aşamalı güvenlik denetimi — bağımsız doğrulama, 10K★ coding agent skill. OCC Güvenlik + SmartBlock + RoboCheckIn için.
+
+| 1076 | **cutter** | 19,890 | Rizin tabanlı grafik arayüzlü tersine mühendislik ve ikili dosya analizi. | [link](https://github.com/rizinorg/cutter) |

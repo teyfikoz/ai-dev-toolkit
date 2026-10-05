@@ -51,3 +51,5 @@
 - [Synthyra/ESMplusplus_6B](https://huggingface.co/Synthyra/ESMplusplus_6B) — Büyük protein modeli
 - [Synthyra/ANKH2_large](https://huggingface.co/Synthyra/ANKH2_large) — Protein fonksiyon tahmini
 **HomeLab kullanımı:** Biyomedikal analiz sekmesi için protein yapı/fonksiyon tahmini. *Offline-first KVKK kısıtı geçerli.*
+
+| 1077 | **agents** | 14,603 | Gerçek zamanlı ses/video ajanları; STT/LLM/TTS eklentileri ve test altyapısı. | [link](https://github.com/livekit/agents) |

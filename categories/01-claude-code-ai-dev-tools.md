@@ -393,3 +393,5 @@ Claude kullanım izleme — token tüketimi ve maliyet analizi.
 - [kev](https://github.com/jaredpalmer/kev) — MacBook'ta çalışan mini Jev modeli (Qwen2.5-0.5B) ⭐3881
 
 - [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — Jev ekosistemi awesome listesi ⭐798
+
+| 924 | **SoL-Pi** | 3,330 | Pi için dört isteğe bağlı agent harness verimlilik mekanizması. | [link](https://github.com/NVlabs/SoL-Pi) |

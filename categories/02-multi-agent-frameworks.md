@@ -2,7 +2,7 @@
 
 | # | Repo | Stars | Ne İşe Yarar? | GitHub |
 |---|------|-------|--------------|--------|
-| 1 | **agency-agents** | 108,000 | 218 uzman seviyesinde Agent rolu — CEO, avukat, programci, buyume uzmanı, pazarlamaci ve daha fazlasi. Birden fazla agent'i sanal sirket gibi organize et. Claude Code ve Cursor'a direkt rol ver, goose ile birlikte multi-project dashboard icin kullan | [link](https://github.com/msitarzewski/agency-agents) |
+| 36 | **agency-agents** | 157,016 | Uzman agent rol ve çalışma talimatları koleksiyonu. | [link](https://github.com/msitarzewski/agency-agents) |
 | 2 | **council-of-high-intelligence** | 800 | 18 AI dahinin karar tartışması | [link](https://github.com/0xNyk/council-of-high-intelligence) |
 | 3 | **ruflo** | 950 | Claude Code için 100+ ajanlı orchestrasyon | [link](https://github.com/ruvnet/ruflo) |
 | 4 | **AgentHub** | 490 | Claude Code ile sanal gelistirici takimi; farkli rollerde paralel agent orkestrasyonu | [link](https://github.com/Stanshy/AgentHub) |
@@ -236,3 +236,5 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 İş için çok oyunculu kişisel asistan — 17.9K★. TSA multi-agent iş asistanı referansı.
 
 - [OpenMuse](https://github.com/CopilotKit/OpenMuse) — Açık kaynak self-hostable kişisel asistan, CopilotKit ⭐575
+
+| 1075 | **awesome-ai-agents** | 2,341 | 300+ agent kaynağını sınıflandıran keşif listesi; kalite sıralaması değildir. | [link](https://github.com/slavakurilyak/awesome-ai-agents) |

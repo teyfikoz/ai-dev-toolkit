@@ -231,3 +231,9 @@ LLM/veri/Space yönetim platformu — açık kaynak GitHub Copilot + HuggingFace
 Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevcut.
 
 - [laya](https://github.com/NandhaKishorM/laya) — Jev benzeri typed karar modeli, 15k+ yıldız ⭐15918
+
+| 1074 | **brewery-ai** | 148 | Dil ve görsel modelleri için rehberli fine-tuning ajanı; LoRA/SFT ve veri hazırlama. | [link](https://github.com/empero-org/brewery-ai) |
+
+### HF fine-tuning örneği — 5 Ekim 2026
+
+[Grandmas Kitchen](https://huggingface.co/empero-ai/Homebrew-Qwen3.5-2B-Grandmas-Kitchen): Qwen3.5-2B üzerine yemek tarifi üslubu LoRA adaptörü (Apache-2.0 model kartı). Trading modeli veya finansal başarı kanıtı değildir.
