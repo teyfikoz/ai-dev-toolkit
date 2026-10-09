@@ -547,3 +547,22 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [TTSTextNormalization](https://github.com/tomaarsen/TTSTextNormalization) — Yazılı metni TTS için konuşma formuna dönüştürme ⭐32
 
 - [open-higgsfield](https://github.com/wide-trace/open-higgsfield) — Açık kaynak Higgsfield alternatifi: 38 model (8 image + 30 video), tek prompt bar, self-host edilebilir ⭐3501
+
+
+## Claude Motion Design & Programatik Video (Ekim 2026)
+
+- [hyperframes](https://github.com/heygen-com/hyperframes) — HTML yaz, video render et: ajanlar için kodla video üretim motoru. ⭐59461 · **Kullanım:** YouTube: LearnLingOz karaoke Shorts için PIL+FFmpeg yerine HTML/CSS+GSAP render; TheMrOzz/HF Shorts başlık-altyazı animasyonları. Öncelik 1.
+- [hyperframes-student-kit](https://github.com/nateherkai/hyperframes-student-kit) — Claude Code/Codex ile Reels ve YouTube Shorts kurgusu: 14 skill, transkript tabanlı kesim. ⭐1246 · **Kullanım:** YouTube: uzun videolardan Shorts kesimi (Ariabella longform → shorts, TheMrOzz AI Eng). Öncelik 1.
+- [skills](https://github.com/remotion-dev/skills) — Remotion resmi ajan skill seti: React ile programatik video. ⭐4938 · **Kullanım:** YouTube: ToWealthyTime grafik/veri videoları, HF Top5. Not: Remotion >3 çalışanlı şirketlerde ücretli lisans.
+- [claude-motion-design](https://github.com/howseen-ai/claude-motion-design) — HTML + Playwright + ffmpeg ile saf kodla motion design videoları; After Effects yok. ⭐328 · **Kullanım:** Mevcut ffmpeg hattına en az değişiklikle uyar: ToWealthyTime/TheMrOzz veri ve formül animasyonları. Öncelik 1.
+- [animate](https://github.com/cth9191/animate) — Herhangi stilde prosedürel canvas animasyon: hikâye, görünüm ve storyboard tek dosyada. ⭐244 · **Kullanım:** YouTube: sleep/bedtime_stories ve podcast arka plan görselleri (Pixabay bağımlılığını azaltır).
+- [motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills) — Lansman kalitesinde motion graphics için 13 Claude Code skill; her kare kod. ⭐115 · **Kullanım:** SaaS: RoboCheckIn/B2BLife Product Hunt ve landing tanıtım videoları.
+- [product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) — Ürün lansmanı motion design skill: kodla lansman, promo ve demo videoları. ⭐98 · **Kullanım:** SaaS + mobil: PersonaLite/SmartBlock App Store önizleme videoları, Gumroad ürün demoları.
+- [motion-graphics](https://github.com/Barty-Bart/motion-graphics) — Claude Code ve Codex için motion graphics skill paketi. ⭐526 · **Kullanım:** Astra/Codex ile ortak kullanılabilir; TSA FeedbackRadar ve StockPulse demo videoları.
+- [claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) — Claude Code/Desktop/claude.ai için Remotion ile profesyonel video oluşturma ve düzenleme skill. ⭐308 · **Kullanım:** Remotion seçilirse alternatif skill; remotion-dev/skills resmi olanı tercih et.
+- [klik-anim-skill-creation](https://github.com/t3knobox/klik-anim-skill-creation) — Remotion motion graphics için sektör standardı animasyon kuralları skill seti. ⭐18 · **Kullanım:** Remotion kullanılırsa kalite rehberi; düşük yıldız, deneysel.
+- [hyperframes-motion-reel-skill](https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill) — HyperFrames ile beat senkronlu showreel motion graphics skill (HTML+GSAP+SVG+Canvas). ⭐21 · **Kullanım:** YouTube: müzik/beat senkron Shorts intro ve kanal showreel (Ariabella, HF kanal).
+- [motion-design-skills](https://github.com/iart-ai/motion-design-skills) — Motion design temelleri: zamanlama, tipografi, marka öğeleri kurulabilir skill olarak. ⭐73 · **Kullanım:** Kanal marka tutarlılığı (renk/tipografi/lower-third) için rehber.
+- [motion-design-skill](https://github.com/LottieFiles/motion-design-skill) — AI ajanlar için evrensel motion prensipleri: zamanlama, easing, koreografi, Disney ilkeleri. ⭐2007 · **Kullanım:** Tüm video ve UI animasyonlarında kalite rehberi; PersonaLite/SmartBlock Lottie onboarding.
+- [claude-motion](https://github.com/whaleyxbt/claude-motion) — Kodlama ajanları için motion design araç seti. ⭐69 · **Kullanım:** Genel motion araçları; HyperFrames/claude-motion-design yanında ikincil.
+- [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills) — GSAP, Motion, Remotion, Lottie ve Rive için derlenmiş motion ajan skill listesi. ⭐17 · **Kullanım:** Keşif listesi; yeni skill araştırırken referans.

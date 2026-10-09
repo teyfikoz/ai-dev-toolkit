@@ -395,3 +395,8 @@ Claude kullanım izleme — token tüketimi ve maliyet analizi.
 - [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — Jev ekosistemi awesome listesi ⭐798
 
 | 924 | **SoL-Pi** | 3,330 | Pi için dört isteğe bağlı agent harness verimlilik mekanizması. | [link](https://github.com/NVlabs/SoL-Pi) |
+
+
+## Claude Dokümantasyon Arşivi (Ekim 2026)
+
+- [claude-code-docs](https://github.com/thevibeworks/claude-code-docs) — Anthropic geliştirici dokümanlarının günde 4 kez güncellenen arşivi (3.900+ dosya). ⭐61 · **Kullanım:** Claude Code/Agent SDK referansı; ajanlara çevrimdışı doküman bağlamı.

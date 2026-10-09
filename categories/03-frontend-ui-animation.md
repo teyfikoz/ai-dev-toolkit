@@ -57,3 +57,9 @@ ThreeJS + WebGL interaktif 3D UI bileşen kataloğu. React entegrasyonu, shader 
 - **Tags:** threejs, webgl, react, shaders, ui-components
 - **GitHub:** https://github.com/MengTo/threeui
 - **Kullanım:** OCC / Synaptiq Studio 3D görselleştirme bileşenleri
+
+
+## Motion / Animasyon Kütüphaneleri ve Skill'leri (Ekim 2026)
+
+- [GSAP](https://github.com/greensock/GSAP) — Modern web için profesyonel JavaScript animasyon kütüphanesi (GSAP). ⭐28945 · **Kullanım:** Landing sayfaları (B2BLife, RoboCheckIn, KredimPlus) ve HyperFrames video sahneleri; OCC grafik geçişleri.
+- [motion-dev-animations-skill](https://github.com/199-biotechnologies/motion-dev-animations-skill) — Motion.dev için Claude Code skill: 120fps animasyon, yay fiziği, scroll ve jest efektleri. ⭐118 · **Kullanım:** React ön yüzler: OCC, TSA, KredimPlus mikro-etkileşimleri (motion zaten Excel'de kayıtlı).
