@@ -237,3 +237,8 @@ Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevc
 ### HF fine-tuning örneği — 5 Ekim 2026
 
 [Grandmas Kitchen](https://huggingface.co/empero-ai/Homebrew-Qwen3.5-2B-Grandmas-Kitchen): Qwen3.5-2B üzerine yemek tarifi üslubu LoRA adaptörü (Apache-2.0 model kartı). Trading modeli veya finansal başarı kanıtı değildir.
+
+
+## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
+
+- [BitNet](https://github.com/microsoft/BitNet) — 1-bit LLM resmi çıkarım çerçevesi; CPU üzerinde verimli. ⭐41171 · **Kullanım:** Hetzner GPU yok → CPU inference denemesi; ucuz yerel model adayı.

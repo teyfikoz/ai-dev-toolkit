@@ -566,3 +566,13 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [motion-design-skill](https://github.com/LottieFiles/motion-design-skill) — AI ajanlar için evrensel motion prensipleri: zamanlama, easing, koreografi, Disney ilkeleri. ⭐2007 · **Kullanım:** Tüm video ve UI animasyonlarında kalite rehberi; PersonaLite/SmartBlock Lottie onboarding.
 - [claude-motion](https://github.com/whaleyxbt/claude-motion) — Kodlama ajanları için motion design araç seti. ⭐69 · **Kullanım:** Genel motion araçları; HyperFrames/claude-motion-design yanında ikincil.
 - [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills) — GSAP, Motion, Remotion, Lottie ve Rive için derlenmiş motion ajan skill listesi. ⭐17 · **Kullanım:** Keşif listesi; yeni skill araştırırken referans.
+
+
+## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
+
+- [OpenCreator](https://github.com/krillinai/OpenCreator) — Açık kaynak AI video çeviri ve dublaj aracı (eski adı KrillinAI). ⭐13223 · **Kullanım:** YouTube: LearnLingOz çok dilli dublaj; mevcut 6-dil karaoke hattına sesli çeviri eklenebilir.
+- [social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) — Sosyal medya araştırma AI skill seti: öne çıkan gönderi ve yorum madenciliği. ⭐3762 · **Kullanım:** İçerik fikri: @teyfikoz/@scuplancom için trend ve rakip analizi.
+- [kokoro](https://github.com/hexgrad/kokoro) — Kokoro-82M: hafif, yüksek kaliteli açık kaynak TTS modeli. ⭐9331 · **Kullanım:** YouTube: edge-tts/mrozz yanında alternatif ses; shorts anlatımı. Apache-2.0 kontrol et.
+- [podcastfy](https://github.com/souzatharsis/podcastfy) — NotebookLM podcast özelliğinin açık kaynak Python alternatifi: içerikten çok sesli sohbet. ⭐6607 · **Kullanım:** Podcast Factory: metin/URL → podcast; history/bedtime/ai_explained kanalları.
+- [flux2](https://github.com/black-forest-labs/flux2) — FLUX.2 görsel üretim modellerinin resmi çıkarım reposu. ⭐2738 · **Kullanım:** YouTube thumbnail + Ariabella görseli; lisans (FLUX ticari kısıtlı) kontrol şart.
+- [social-media-agent](https://github.com/langchain-ai/social-media-agent) — Sosyal medya gönderilerini kaynak bulma, derleme ve zamanlama ajanı (insan onaylı). ⭐2846 · **Kullanım:** Otomasyon: @teyfikoz/@scuplancom gönderi zamanlama; SaaS cross-sell duyuruları.

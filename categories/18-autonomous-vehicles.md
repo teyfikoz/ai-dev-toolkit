@@ -6,3 +6,9 @@
 | 2 | **apollo** | 10,000 | Baidu açık kaynak tam otonom sürüş platformu — sensör füzyonu, yol planlama, kontrol. Apollo 9.0: AI-Native mimari. | [link](https://github.com/ApolloAuto/apollo) |
 | 3 | **autoware** | 4,000 | Toyota destekli açık kaynak otonom sürüş yığını — ROS2 tabanlı. Gerçek araçlarda test edildi, Tier IV şirketi geliştiriyor. | [link](https://github.com/autowarefoundation/autoware) |
 | 4 | **awesome-autonomous-vehicles** | 2,000 | Otonom araç kaynakları küratörlü listesi — dataset, sensör, planlama, makale ve şirket rehberi. | [link](https://github.com/manfreddiaz/awesome-autonomous-vehicles) |
+
+
+## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
+
+- [lerobot](https://github.com/huggingface/lerobot) — Gerçek dünya robotik için uçtan uca öğrenme kütüphanesi. ⭐28201 · **Kullanım:** Portföyde robotik ürün yok; araştırma/gelecek fikir.
+- [openvla](https://github.com/openvla/openvla) — Açık kaynak vision-language-action robot politika modeli. ⭐7162 · **Kullanım:** Portföyde robotik yok; araştırma amaçlı.

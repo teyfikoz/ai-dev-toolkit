@@ -400,3 +400,10 @@ Claude kullanım izleme — token tüketimi ve maliyet analizi.
 ## Claude Dokümantasyon Arşivi (Ekim 2026)
 
 - [claude-code-docs](https://github.com/thevibeworks/claude-code-docs) — Anthropic geliştirici dokümanlarının günde 4 kez güncellenen arşivi (3.900+ dosya). ⭐61 · **Kullanım:** Claude Code/Agent SDK referansı; ajanlara çevrimdışı doküman bağlamı.
+
+
+## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
+
+- [local-deep-research](https://github.com/LearningCircuit/local-deep-research) — Yerel/bulut LLM ile derin araştırma; SimpleQA ~%95 (Qwen3.6-27B). ⭐9203 · **Kullanım:** İçerik ve RWA araştırması; Astra danışmanı için ikinci araştırma hattı (yerel).
+- [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) — Blender 3D kontrolü için LLM bağımsız topluluk MCP eklentisi. ⭐30957 · **Kullanım:** 3D içerik/thumbnail; OCC 3D grafik varlıkları üretimi.
+- [world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) — 139 araçlı MCP: ücretsiz kamu APIlerinden gerçek zamanlı küresel istihbarat. ⭐955 · **Kullanım:** B2BLife/TSA pazar ve şirket istihbaratı beslemesi.

@@ -99,3 +99,11 @@ Google MCP Toolbox — veritabanı bağlantısı için açık kaynak MCP. B2BLif
 ## financial-datasets/mcp-server
 **Repo:** [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) | ★2,293
 Finansal veri MCP server — hisse, gelir, bilanço. StockPulse + TSA FundPilot için.
+
+
+## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
+
+- [ragflow](https://github.com/infiniflow/ragflow) — Önde gelen açık kaynak RAG motoru: belge anlama tabanlı soru-cevap. ⭐92285 · **Kullanım:** SaaS: B2BLife/TSA belge Q&A. KVKK: yalnız Hetzner self-host, veri dışarı çıkmaz.
+- [chroma](https://github.com/chroma-core/chroma) — AI için arama altyapısı; gömme tabanlı vektör veritabanı. ⭐29512 · **Kullanım:** RAG belleği. KVKK: self-host only, Supabase/bulut YOK.
+- [meilisearch](https://github.com/meilisearch/meilisearch) — Şimşek hızında arama motoru API; AI destekli hibrit arama. ⭐59577 · **Kullanım:** KredimPlus/TSA site içi arama; self-host Hetzner.
+- [repowise](https://github.com/repowise-dev/repowise) — Kod tabanı zekası: sağlık skoru, otomatik dokümantasyon. ⭐7789 · **Kullanım:** Dev araç: portföy repolarının sağlık denetimi (OCC, SaaS).
