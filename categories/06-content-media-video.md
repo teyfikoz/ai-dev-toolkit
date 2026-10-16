@@ -576,3 +576,19 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [podcastfy](https://github.com/souzatharsis/podcastfy) — NotebookLM podcast özelliğinin açık kaynak Python alternatifi: içerikten çok sesli sohbet. ⭐6607 · **Kullanım:** Podcast Factory: metin/URL → podcast; history/bedtime/ai_explained kanalları.
 - [flux2](https://github.com/black-forest-labs/flux2) — FLUX.2 görsel üretim modellerinin resmi çıkarım reposu. ⭐2738 · **Kullanım:** YouTube thumbnail + Ariabella görseli; lisans (FLUX ticari kısıtlı) kontrol şart.
 - [social-media-agent](https://github.com/langchain-ai/social-media-agent) — Sosyal medya gönderilerini kaynak bulma, derleme ve zamanlama ajanı (insan onaylı). ⭐2846 · **Kullanım:** Otomasyon: @teyfikoz/@scuplancom gönderi zamanlama; SaaS cross-sell duyuruları.
+
+
+## Ekim 2026 — ArtCraft (clean-room Adobe/Office alt.) + ajan araçları
+
+- [artcraft](https://github.com/storytold/artcraft) — Sanatçılar için niyet-tabanlı crafting motoru; ArtCraft ailesinin çekirdeği. ⭐30378 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Clean-room Adobe alt.; apps MIT/Apache = barındırma/dağıtım/katkı serbest. artcraft-services AYRI lisans (kısıtlı).
+- [photocraft](https://github.com/storytold/photocraft) — Açık kaynak foto düzenleyici (Photoshop alt.); katman/maske/PSD. ⭐64778 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** WASM ile tarayıcıda çalışır → b2blife/occ statik barındırma adayı (pilot). Atıf şart.
+- [vectorcraft](https://github.com/storytold/vectorcraft) — Açık kaynak vektör aracı (Illustrator alt.); SVG/PDF. ⭐9421 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** WASM web barındırma adayı; MIT/Apache.
+- [filmcraft](https://github.com/storytold/filmcraft) — Açık kaynak doğrusal olmayan video kurgu (Premiere alt.). ⭐14155 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Masaüstü (WASM YOK); indirme linki olarak sunulabilir.
+- [lightcraft](https://github.com/storytold/lightcraft) — Açık kaynak RAW foto düzenleyici (Lightroom alt.). ⭐13181 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** İndirme/katkı serbest.
+- [effectcraft](https://github.com/storytold/effectcraft) — Açık kaynak motion graphics/kompozit (After Effects alt.). ⭐6987 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** YouTube: video efektleri; MIT/Apache.
+- [pdfcraft](https://github.com/storytold/pdfcraft) — Açık kaynak PDF okuyucu/düzenleyici (Acrobat alt.). ⭐14917 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Gumroad PDF ürünleriyle sinerji; barındırma serbest.
+- [wordcraft](https://github.com/storytold/wordcraft) — Clean-room kelime işlemci (Word alt.), Rust. ⭐13608 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** docx üretimi (LinkedIn) ile sinerji.
+- [gridcraft](https://github.com/storytold/gridcraft) — Clean-room elektronik tablo (Excel alt.). ⭐5380 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Katkı/barındırma serbest.
+- [deckcraft](https://github.com/storytold/deckcraft) — Açık kaynak sunum aracı (PowerPoint alt.). ⭐3567 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Barındırma serbest.
+- [designcraft](https://github.com/storytold/designcraft) — Açık kaynak sayfa/dizgi editörü (InDesign alt.). ⭐4200 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Barındırma serbest.
+- [soundcraft](https://github.com/storytold/soundcraft) — Clean-room ses düzenleme (Pro Tools alt.). ⭐3053 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** YouTube ses montajı adayı.

@@ -407,3 +407,12 @@ Claude kullanım izleme — token tüketimi ve maliyet analizi.
 - [local-deep-research](https://github.com/LearningCircuit/local-deep-research) — Yerel/bulut LLM ile derin araştırma; SimpleQA ~%95 (Qwen3.6-27B). ⭐9203 · **Kullanım:** İçerik ve RWA araştırması; Astra danışmanı için ikinci araştırma hattı (yerel).
 - [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) — Blender 3D kontrolü için LLM bağımsız topluluk MCP eklentisi. ⭐30957 · **Kullanım:** 3D içerik/thumbnail; OCC 3D grafik varlıkları üretimi.
 - [world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) — 139 araçlı MCP: ücretsiz kamu APIlerinden gerçek zamanlı küresel istihbarat. ⭐955 · **Kullanım:** B2BLife/TSA pazar ve şirket istihbaratı beslemesi.
+
+
+## Ekim 2026 — ArtCraft (clean-room Adobe/Office alt.) + ajan araçları
+
+- [craft-launcher](https://github.com/storytold/craft-launcher) — Craft uygulamalarını tek merkezden kuran/güncelleyen başlatıcı. ⭐2984 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Kullanıcılara toplu dağıtım için.
+- [artcraft-services](https://github.com/storytold/artcraft-services) — ArtCraft backend + web frontend + bulut katmanı. ⭐1140 · **Lisans:** fair-source WIP (KISITLI) · **Kullanım:** DİKKAT: "fair source WIP", açık kaynak DEĞİL; yalnız özel/kişisel kullanım. PUBLIC barındırma için KULLANMA.
+- [ruflo](https://github.com/ruvnet/ruflo) — Çok-ajanlı orkestrasyon harnessi. ⭐75538 · **Lisans:** MIT · **Kullanım:** Astra çok-ajan araştırması; değerlendir.
+- [orca](https://github.com/stablyai/orca) — Paralel ajan filosu için ADE (ajan geliştirme ortamı). ⭐94357 · **Lisans:** MIT · **Kullanım:** Çoklu görev otomasyonu adayı.
+- [replica-skill](https://github.com/Jakeschincariol/replica-skill) — "Herhangi bir uygulamayı klonla" 11 Claude skill (tersine müh.). ⭐2863 · **Lisans:** MIT · **Kullanım:** YALNIZ sahip olunan/izinli hedef; ticari klonlama telif ihlali.
