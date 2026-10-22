@@ -238,3 +238,7 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 - [OpenMuse](https://github.com/CopilotKit/OpenMuse) — Açık kaynak self-hostable kişisel asistan, CopilotKit ⭐575
 
 | 1075 | **awesome-ai-agents** | 2,341 | 300+ agent kaynağını sınıflandıran keşif listesi; kalite sıralaması değildir. | [link](https://github.com/slavakurilyak/awesome-ai-agents) |
+
+## Ekim 2026 — Otonom ajan platformları
+
+- [AgentGPT](https://github.com/reworkd/AgentGPT) — Tarayıcıda çalışan otonom AI ajan platformu; görev oluştur, agent çalıştır, sonuç al. ⭐32000+ **Kullanım:** TechSyncAnalytica StrategyLab UI referansı; multi-agent görev arayüzü tasarımı.

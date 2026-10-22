@@ -242,3 +242,7 @@ Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevc
 ## Ekim 2026 — toplu ekleme (içerik/RAG/güvenlik araçları)
 
 - [BitNet](https://github.com/microsoft/BitNet) — 1-bit LLM resmi çıkarım çerçevesi; CPU üzerinde verimli. ⭐41171 · **Kullanım:** Hetzner GPU yok → CPU inference denemesi; ucuz yerel model adayı.
+
+## Ekim 2026 — LLM yönlendirme
+
+- [litellm](https://github.com/BerriAI/litellm) — 100+ LLM için tek Python/REST API: OpenAI formatında Groq/HuggingFace/NIM/Ollama/Claude'a yönlendir. Retry, fallback, budget tracking, streaming dahil. ⭐46000+ **Kullanım:** Tüm SaaS'lar (B2BLife/RoboCheckIn/TSA) için Groq-primary + HF-fallback router; `GROQ_API_KEY` + `HF_API_TOKEN` ile anında entegre.

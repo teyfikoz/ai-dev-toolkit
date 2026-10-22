@@ -169,3 +169,10 @@ with SystemOneAdapterClient(
 **Konsept:** pump.fun en iyi trader'larını wallet-token graph ile izle, Jev ile pattern değerlendir, Opus ile rapor üret.
 **Stack:** Opus 5.5 (trader profili + rapor) + Graph Theory (wallet-token ilişkileri) + Jev (dar karar soruları)
 **Kullanım:** StockPulse'un memecoin modülü için, B2BLife'ın on-chain şirket izleme için referans mimari.
+
+## Ekim 2026 — MCP + AI finans araçları
+
+- [mcp-server-ccxt](https://github.com/lazy-geeek/mcp-server-ccxt) — CCXT'nin MCP sunucusu; Claude/Astra'dan doğrudan `get_price`, `get_ohlcv`, `place_order` çağrısı. Gate.io/OKX/Binance dahil. **Kullanım:** Astra döngüsünde exchange sorgusu; OCC market-analysis MCP entegrasyonu.
+- [dexpaprika-mcp](https://github.com/dexpaprika/dexpaprika-mcp) — DexPaprika DEX analytics MCP sunucusu; on-chain token fiyat/hacim/likidite sorgulama, pool/swap geçmişi. **Kullanım:** OCC market-analysis DeFi veri akışı; B2BLife on-chain şirket izleme.
+- [claudefi](https://github.com/xargsgrep/claudefi) — Claude ile finans analizi: portföy özeti, hisse analizi, haber özeti + öneri. Tool use + structured output. **Kullanım:** OCC AI analiz katmanı referansı; Astra konsey prompt tasarımı.
+- [NVIDIA Nemotron-RL-Agentic-Finance-v1](https://huggingface.co/nvidia/Nemotron-RL-Agentic-Finance-v1) — NVIDIA finans ajanı RL ince-ayar modeli; piyasa analizi + karar için optimize. **Kullanım:** Astra konseyi 5. üye adayı (NIM API üzerinden); Gate sinyal doğrulama.

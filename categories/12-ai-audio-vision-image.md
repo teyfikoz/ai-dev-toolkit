@@ -53,3 +53,8 @@
 **HomeLab kullanımı:** Biyomedikal analiz sekmesi için protein yapı/fonksiyon tahmini. *Offline-first KVKK kısıtı geçerli.*
 
 | 1077 | **agents** | 14,603 | Gerçek zamanlı ses/video ajanları; STT/LLM/TTS eklentileri ve test altyapısı. | [link](https://github.com/livekit/agents) |
+
+## Ekim 2026 — Hızlı ses transcript araçları
+
+- [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) — Whisper'ın en hızlı versiyonu; batching + FlashAttention ile 150x hız. CLI, HF pipeline uyumlu. ⭐28000+ **Kullanım:** TheMrOzz video ses → altyazı pipeline otomasyonu; YouTube auto-subtitle yerine kaliteli SRT.
+- [whisper-web](https://github.com/xenova/whisper-web) — Tarayıcıda çalışan Whisper; transformers.js ile WebGPU/WASM. Sunucu yok, 100% istemci tarafı. ⭐11000+ **Kullanım:** ScuPlan/B2BLife'a "ses → metin" widget gömme; KVKK uyumlu (veri cihazdan çıkmaz).
