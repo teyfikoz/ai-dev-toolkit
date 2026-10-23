@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-23T19:50:00.000000+00:00",
+  "session": "Kullanıcı tarafından 5 repo URL'si değerlendirme için iletildi. 4 tanesi eklendi, 1 tanesi (ai-jailbreaks) kapsam dışı.",
+  "github": [
+    {
+      "repo": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "stars": 8000,
+      "license": "Apache-2.0",
+      "description": "SimStudio AI — multi-agent workflow builder; görsel arayüzle agent zinciri kur, test et, deploy et. OpenAI/Anthropic/Ollama destekli.",
+      "assessment": "TechSyncAnalytica 14-agent pipeline görselleştirme referansı olarak eklendi."
+    },
+    {
+      "repo": "microsoft/TRELLIS",
+      "url": "https://github.com/microsoft/TRELLIS",
+      "stars": 7000,
+      "license": "MIT",
+      "description": "Microsoft TRELLIS — metin/görsel → 3D asset üretimi; GLB/video/Gaussian Splat çıktı.",
+      "assessment": "How2TakeOff 3D kampüs için AI destekli bina/uçak asset üretimi. 10-mobile-game-3d kategorisine eklendi."
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "stars": 400,
+      "license": "Apache-2.0",
+      "description": "NVIDIA PersonaPlex — büyük ölçekli yapay persona simülasyonu; kullanıcı davranış modeli, A/B test ve ürün araştırması.",
+      "assessment": "PersonaLite kullanıcı segment analizi ve RoboCheckIn ICP modelleme için. 15-nvidia-nim-nemo kategorisine eklendi."
+    },
+    {
+      "repo": "google-gemini/gemini-api-cli",
+      "url": "https://github.com/google-gemini/gemini-api-cli",
+      "stars": 1200,
+      "license": "Apache-2.0",
+      "description": "Google Gemini CLI — terminal üzerinden Gemini'ye prompt at, dosya analiz et, multimodal görev çalıştır.",
+      "assessment": "Mevcut Groq/HF pipeline'larına Gemini alternatif olarak eklendi. 13-big-tech-sdks-apis kategorisine eklendi."
+    }
+  ],
+  "rejected": [
+    {
+      "repo": "ai-jailbreaks (kullanıcı URL'si)",
+      "reason": "Güvenlik/ToS kapsamı dışı — AI toolkit'e eklenmedi."
+    }
+  ],
+  "added": [
+    "simstudioai/sim",
+    "microsoft/TRELLIS",
+    "NVIDIA/personaplex",
+    "google-gemini/gemini-api-cli"
+  ],
+  "updated": []
+}
