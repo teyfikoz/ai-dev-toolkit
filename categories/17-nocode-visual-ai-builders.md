@@ -11,3 +11,9 @@
 
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) — Ekran görüntüsü veya URL → HTML/CSS/React/Vue/Tailwind kodu. Claude/GPT-4V ile çalışır. ⭐67000+ **Kullanım:** TechSyncAnalytica ve OCC UI sprint'lerinde mockup → çalışan kod; frontend hızlanma.
 - [penpot](https://github.com/penpot/penpot) — Figma'ya açık kaynak alternatif; self-hosted, SVG tabanlı. Web'e export + geliştirici inspect modu. ⭐36000+ **Kullanım:** Hetzner'da self-host ile ScuPlan/RoboCheckIn UI tasarımı; takım iş birliği.
+
+## Ekim 2026 — Yeni ekleme
+
+| # | Repo | Stars | Ne İşe Yarar? | GitHub |
+|---|------|-------|--------------|--------|
+| - | **sim** | ~8,000 | SimStudio AI — multi-agent workflow builder; görsel arayüzle agent zinciri kur, test et, deploy et. OpenAI/Anthropic/Ollama destekli. **Kullanım:** TechSyncAnalytica 14-agent pipeline görselleştirme referansı. | [link](https://github.com/simstudioai/sim) |

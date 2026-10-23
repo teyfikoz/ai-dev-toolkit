@@ -67,3 +67,9 @@ Drosophila sinir ağı esinli kamera→robot köprüsü. 8 sanal nöral popülas
 ## ShapeEngine
 **Repo:** [DaveGreen-Games/ShapeEngine](https://github.com/DaveGreen-Games/ShapeEngine) | ★623
 Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon motoru alternatifi.
+
+## Ekim 2026 — 3D Asset
+
+| # | Repo | Stars | Ne İşe Yarar? | GitHub |
+|---|------|-------|--------------|--------|
+| - | **TRELLIS** | ~7,000 | Microsoft TRELLIS — metin/görsel → 3D asset üretimi; GLB/video/Gaussian Splat çıktı. **Kullanım:** How2TakeOff 3D kampüs için AI destekli bina/uçak asset üretimi. | [link](https://github.com/microsoft/TRELLIS) |

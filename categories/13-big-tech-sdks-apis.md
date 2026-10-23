@@ -26,3 +26,4 @@ Google, Meta ve Microsoft'un resmi SDK ve API istemci kütüphaneleri.
 | 20 | **microsoft-365-docs** | 1,300 | Microsoft 365 resmi dokümantasyonu | [link](https://github.com/MicrosoftDocs/microsoft-365-docs) |
 | 21 | **api-guidelines** | 24,000 | Microsoft REST API tasarım rehberi — naming, versioning, pagination, error format standartları | [link](https://github.com/microsoft/api-guidelines) |
 | 22 | **public-apis** | 320000 | 14.000+ ücretsiz public API'nin küratörlü listesi — her kategori için ücretsiz veri kaynağı | [link](https://github.com/public-apis/public-apis) |
+| 23 | **gemini-api-cli** | ~1,200 | Google Gemini CLI — terminal üzerinden Gemini'ye prompt at, dosya analiz et, multimodal görev çalıştır. **Kullanım:** Mevcut Groq/HF pipeline'larına Gemini alternatif olarak ekle; içerik pipeline research görevi için. | [link](https://github.com/google-gemini/gemini-api-cli) |
