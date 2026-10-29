@@ -246,3 +246,9 @@ Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevc
 ## Ekim 2026 — LLM yönlendirme
 
 - [litellm](https://github.com/BerriAI/litellm) — 100+ LLM için tek Python/REST API: OpenAI formatında Groq/HuggingFace/NIM/Ollama/Claude'a yönlendir. Retry, fallback, budget tracking, streaming dahil. ⭐46000+ **Kullanım:** Tüm SaaS'lar (B2BLife/RoboCheckIn/TSA) için Groq-primary + HF-fallback router; `GROQ_API_KEY` + `HF_API_TOKEN` ile anında entegre.
+
+## Ekim 2026 — Token Optimizasyon & Kod Kalitesi
+
+- [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) — Kodlama agent oturumlarını ucuzlatan plugin: repo micro-skills, tool pruning, failure-loop interrupt. Claude Code/Codex/Copilot CLI destekli. %18-30 maliyet azaltır. ⭐— · **Kullanım:** Her Claude Code oturumunda otomatik → aylık token faturasını düşür.
+- [desloppify](https://github.com/peteromallet/desloppify) — Codebase kalite skoru + öncelikli fix kuyruğu. Mekanik tespitler (dead code, duplication, complexity) + LLM subjektif review. Python/TS/Go/Rust/Dart 8 dil tam desteği. CI/CD health gate. ⭐— · **Kullanım:** RoboCheckIn ve TechSyncAnalytica için teknik borç ölçümü ve öncelikli temizlik.
+- [multi-agent-repo-protocol](https://github.com/Soda-null/multi-agent-repo-protocol) — Birden fazla AI coding agent'ın aynı git repo'sunda çakışmasız çalışmasını sağlar; conflict prevention + attribution. ⭐— · **Kullanım:** Astra + Claude aynı anda OCC/trading repo'sunda çalışırken kullanılabilir.

@@ -592,3 +592,10 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [deckcraft](https://github.com/storytold/deckcraft) — Açık kaynak sunum aracı (PowerPoint alt.). ⭐3567 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Barındırma serbest.
 - [designcraft](https://github.com/storytold/designcraft) — Açık kaynak sayfa/dizgi editörü (InDesign alt.). ⭐4200 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** Barındırma serbest.
 - [soundcraft](https://github.com/storytold/soundcraft) — Clean-room ses düzenleme (Pro Tools alt.). ⭐3053 · **Lisans:** MIT/Apache-2.0 · **Kullanım:** YouTube ses montajı adayı.
+
+## Ekim 2026 — Uzun Video, Dubbing & Apple Silicon Audio
+
+- [OpenCreator](https://github.com/krillinai/OpenCreator) — Lokal AI içerik üretim workspace: 123+ dil video çevirisi/dubbing, görsel üretim, TTS, article writer, stick figure animation. Codex CLI + FFmpeg + yt-dlp entegreli. ⭐— · **Kullanım:** @learnlingoz için yeni dil çiftleri; mevcut Shorts pipeline'ına dubbing katmanı ekleme; lokal çalıştırma = sıfır API maliyeti.
+- [Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) — "Error-Recycling Fine-Tuning" ile sınırsız uzunlukta temporal tutarlı video üretimi. Text/audio/skeleton input destekli. ⭐— · **Kullanım:** Ariabella uzun form videolar (Higgsfield kredi yetersizliğinde lokal alternatif); @themrozz için dakikalarca uzun AI video içerik.
+- [mlx-audio](https://github.com/blaizzy/mlx-audio) — Apple Silicon MLX ile hızlı TTS + audio işleme. edge-tts'e kıyasla M-serisi Mac'te 3-5x hız. ⭐— · **Kullanım:** Language Shorts pipeline'ında edge-tts alternatifi; TheMrOzz ses kalitesini yükseltmek için Chatterbox öncesi pre-processing.
+- [Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) — Bkz. yukarıda.

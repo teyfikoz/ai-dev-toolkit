@@ -176,3 +176,11 @@ with SystemOneAdapterClient(
 - [dexpaprika-mcp](https://github.com/dexpaprika/dexpaprika-mcp) — DexPaprika DEX analytics MCP sunucusu; on-chain token fiyat/hacim/likidite sorgulama, pool/swap geçmişi. **Kullanım:** OCC market-analysis DeFi veri akışı; B2BLife on-chain şirket izleme.
 - [claudefi](https://github.com/xargsgrep/claudefi) — Claude ile finans analizi: portföy özeti, hisse analizi, haber özeti + öneri. Tool use + structured output. **Kullanım:** OCC AI analiz katmanı referansı; Astra konsey prompt tasarımı.
 - [NVIDIA Nemotron-RL-Agentic-Finance-v1](https://huggingface.co/nvidia/Nemotron-RL-Agentic-Finance-v1) — NVIDIA finans ajanı RL ince-ayar modeli; piyasa analizi + karar için optimize. **Kullanım:** Astra konseyi 5. üye adayı (NIM API üzerinden); Gate sinyal doğrulama.
+
+## Ekim 2026 — Hedge Fund AI Infrastructure
+
+### QuantGPT (quantgpt.co)
+- **URL:** https://quantgpt.co | **MCP:** https://terminal.quantgpt.co/mcp
+- **Ne Yapar:** Hedge fund grade data (point-in-time fundamentals, 1998'den delisted dahil, FRED macro, kripto) + cloud backtesting + 175 strateji kütüphanesi + runner (Alpaca üzerinden 24/7 live). MCP ile Claude/ChatGPT/Gemini/Cursor'a bağlanıyor.
+- **Fiyat:** $49-$149/ay | **Kullanım:** Astra için backtesting altyapısı — BTC 15m sinyal validasyonu + out-of-sample split. Survivorship bias ve look-ahead bias düzeltilmiş veri.
+- **Astra Önerisi:** QuantGPT Pro MCP bağlantısı ile Gate 2 backtestleri burada çalıştırmak → kendi laptop/Hetzner'da hesaplamak yerine cloud compute kullanmak. OKX yerine Alpaca — US stocks/ETF için.
