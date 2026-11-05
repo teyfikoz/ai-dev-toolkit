@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-11-05T13:00:00.000000+00:00",
+  "session": "Kullanıcı 5 URL iletildi (1 tekrar); 4 benzersiz xAI/Grok reposu değerlendirildi ve eklendi.",
+  "summary": "API key olmadan kullanım hedeflendi. grok-prompts ve grok-1 ücretsiz/açık kaynak; grok-build XAI_API_KEY gerektirir; chenyme/grok2api ToS ihlali uyarısıyla eklendi.",
+  "github": [
+    {
+      "repo": "xai-org/grok-prompts",
+      "url": "https://github.com/xai-org/grok-prompts",
+      "stars": 700,
+      "license": "Apache-2.0",
+      "api_key_required": false,
+      "category": "01-claude-ai-dev-tools.md",
+      "description": "xAI resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Herhangi LLM'e uyarlanabilir kalıplar.",
+      "assessment": "Astra konsey prompt'larını iyileştirmek için Grok reasoning kalıpları adapte edilebilir. 01-claude-ai-dev-tools kategorisine eklendi."
+    },
+    {
+      "repo": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50000,
+      "license": "Apache-2.0",
+      "api_key_required": false,
+      "category": "05-llm-infrastructure-local-ai.md",
+      "description": "Grok-1 açık kaynak model ağırlıkları — 314B MoE, JAX implementasyonu.",
+      "assessment": "Ücretsiz ağırlıklar ama ~700GB VRAM gerektirir. Hetzner'da çalışmaz. Referans amaçlı eklendi.",
+      "warning": "Hetzner 32GB RAM'de impractical. Şu an Astra konseyi için uygulanamaz."
+    },
+    {
+      "repo": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": 600,
+      "license": "Apache-2.0",
+      "api_key_required": true,
+      "api_key_source": "console.x.ai (ilk kredi ücretsiz)",
+      "category": "13-big-tech-sdks-apis.md",
+      "description": "xAI resmi Grok uygulama geliştirme araç takımı — multi-agent desk şablonları, Grok Bot kurulumu.",
+      "assessment": "XAI_API_KEY ile Astra konseyine 5. üye olarak eklenebilir. 13-big-tech-sdks-apis kategorisine eklendi."
+    },
+    {
+      "repo": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "stars": 2000,
+      "license": "MIT",
+      "api_key_required": false,
+      "category": "13-big-tech-sdks-apis.md",
+      "description": "Resmi olmayan Grok2 API köprüsü — web cookie/session kullanır.",
+      "assessment": "xAI ToS ihlali riski. Üretim sistemine BAĞLANMAZ. Yalnızca araştırma. Uyarıyla eklendi.",
+      "warning": "ToS violation — xAI hesap askıya alma riski. Astra'da kullanma."
+    }
+  ]
+}

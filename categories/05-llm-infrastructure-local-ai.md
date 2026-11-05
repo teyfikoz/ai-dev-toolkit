@@ -252,3 +252,12 @@ Hafif açık kaynak dil modeli — özelleştirilebilir, HF'de 7B versiyonu mevc
 - [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) — Kodlama agent oturumlarını ucuzlatan plugin: repo micro-skills, tool pruning, failure-loop interrupt. Claude Code/Codex/Copilot CLI destekli. %18-30 maliyet azaltır. ⭐— · **Kullanım:** Her Claude Code oturumunda otomatik → aylık token faturasını düşür.
 - [desloppify](https://github.com/peteromallet/desloppify) — Codebase kalite skoru + öncelikli fix kuyruğu. Mekanik tespitler (dead code, duplication, complexity) + LLM subjektif review. Python/TS/Go/Rust/Dart 8 dil tam desteği. CI/CD health gate. ⭐— · **Kullanım:** RoboCheckIn ve TechSyncAnalytica için teknik borç ölçümü ve öncelikli temizlik.
 - [multi-agent-repo-protocol](https://github.com/Soda-null/multi-agent-repo-protocol) — Birden fazla AI coding agent'ın aynı git repo'sunda çakışmasız çalışmasını sağlar; conflict prevention + attribution. ⭐— · **Kullanım:** Astra + Claude aynı anda OCC/trading repo'sunda çalışırken kullanılabilir.
+
+## Kasım 2026 — Açık Kaynak LLM Weights
+
+## xai-org/grok-1
+**Repo:** [xai-org/grok-1](https://github.com/xai-org/grok-1) | ★50,000+ | Apache-2.0
+xAI'ın açık kaynak Grok-1 model ağırlıkları — 314B parametre, Mixture-of-Experts (MoE) mimarisi. JAX ile yazılmış, 8×A100 veya H100 gerektirir.
+- **API Key gerekli mi?** HAYIR — ağırlıklar ücretsiz indirilir, kendi altyapında çalıştırılır.
+- **Pratiklik:** Hetzner'da (32GB RAM, GPU yok) ÇALIŞMAZ. Minimum ~700GB VRAM gerektirir. Referans/araştırma amaçlı.
+- **Kullanım:** Grok mimarisini anlamak; ileride küçük Grok variant'ları (Grok-mini/distilled) için altyapı tasarımı. Astra konseyi için şu an uygulanamaz.

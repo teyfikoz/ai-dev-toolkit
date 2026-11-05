@@ -27,3 +27,18 @@ Google, Meta ve Microsoft'un resmi SDK ve API istemci kütüphaneleri.
 | 21 | **api-guidelines** | 24,000 | Microsoft REST API tasarım rehberi — naming, versioning, pagination, error format standartları | [link](https://github.com/microsoft/api-guidelines) |
 | 22 | **public-apis** | 320000 | 14.000+ ücretsiz public API'nin küratörlü listesi — her kategori için ücretsiz veri kaynağı | [link](https://github.com/public-apis/public-apis) |
 | 23 | **gemini-api-cli** | ~1,200 | Google Gemini CLI — terminal üzerinden Gemini'ye prompt at, dosya analiz et, multimodal görev çalıştır. **Kullanım:** Mevcut Groq/HF pipeline'larına Gemini alternatif olarak ekle; içerik pipeline research görevi için. | [link](https://github.com/google-gemini/gemini-api-cli) |
+
+## Kasım 2026 — xAI Grok SDK & API Araçları
+
+## xai-org/grok-build
+**Repo:** [xai-org/grok-build](https://github.com/xai-org/grok-build) | ★600+ | Apache-2.0
+xAI'ın resmi Grok uygulama geliştirme araç takımı — Grok Bot kurulumu, multi-agent desk şablonları, skill tanımları.
+- **API Key gerekli mi?** EVET — `XAI_API_KEY` (console.x.ai, ilk $5-25 ücretsiz kredi)
+- **Kullanım:** Grok'u XAI_API_KEY ile Astra konseyi 5. üyesi olarak eklemek için; ayrıca B2BLife/TSA agent pipeline'ları için Grok Bot şablonları.
+
+## chenyme/grok2api
+**Repo:** [chenyme/grok2api](https://github.com/chenyme/grok2api) | ★2,000+ | MIT
+⚠️ **ToS Uyarısı:** xAI web arayüzünü ters-mühendislikle API'ye çeviren resmi olmayan köprü. xAI kullanım koşullarını ihlal eder, hesap askıya alınma riski taşır, her an kırılabilir.
+- **API Key gerekli mi?** HAYIR — grok.com oturumu/cookie kullanır
+- **Pratiklik:** Tutarsız, güncellemelerde bozulur. Üretim sistemine (Astra) BAĞLANMAZ.
+- **Kullanım:** Yalnızca araştırma/test ortamında Grok yeteneklerini keşfetmek için. Canlı trading'de kullanma.
