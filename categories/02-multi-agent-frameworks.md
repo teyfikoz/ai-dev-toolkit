@@ -242,3 +242,7 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 ## Ekim 2026 — Otonom ajan platformları
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT) — Tarayıcıda çalışan otonom AI ajan platformu; görev oluştur, agent çalıştır, sonuç al. ⭐32000+ **Kullanım:** TechSyncAnalytica StrategyLab UI referansı; multi-agent görev arayüzü tasarımı.
+
+## Kasım 2026 — Çok-Ajan Git Koordinasyonu
+
+- [multi-agent-repo-protocol](https://github.com/Soda-null/multi-agent-repo-protocol) — Claude Code + Codex + DeepSeek gibi birden fazla AI coding agent'ın aynı git reposunu çakışmasız paylaşmasını sağlayan kurallar, git hook'ları ve scriptler; her commit otomatik atıflandırılır. MIT ⭐12 · **Kullanım:** OCC / occ-dashboard üzerinde hem Claude hem Codex (Astra) çalışıyor; bu protokol commit çakışmalarını ve üzerine yazma hatalarını önler. Özellikle `astra_cycle.py` ve `astra_council.py` gibi ortak dosyalar için kritik.

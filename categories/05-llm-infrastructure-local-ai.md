@@ -261,3 +261,12 @@ xAI'ın açık kaynak Grok-1 model ağırlıkları — 314B parametre, Mixture-o
 - **API Key gerekli mi?** HAYIR — ağırlıklar ücretsiz indirilir, kendi altyapında çalıştırılır.
 - **Pratiklik:** Hetzner'da (32GB RAM, GPU yok) ÇALIŞMAZ. Minimum ~700GB VRAM gerektirir. Referans/araştırma amaçlı.
 - **Kullanım:** Grok mimarisini anlamak; ileride küçük Grok variant'ları (Grok-mini/distilled) için altyapı tasarımı. Astra konseyi için şu an uygulanamaz.
+
+## Kasım 2026 — LLM Davranış Düzeltme
+
+## p-e-w/heretic
+**Repo:** [p-e-w/heretic](https://github.com/p-e-w/heretic) | ★39,479 | AGPL-3.0
+Training-free LLM modifikasyon kütüphanesi — sansür kaldırma, "slop" (kalıp metinler) bastırma, sycophancy (aşırı onay verme) azaltma. Model ağırlıklarına dokunmadan inference sırasında davranış değişikliği.
+- **API Key gerekli mi?** HAYIR — yerel model üzerinde çalışır
+- **Kullanım:** Astra konseyi Hetzner Qwen modelinde sycophancy azaltmak için — özellikle `disagree` oranını artırmak (her konsey üyesinin bağımsız düşünmesi kritik). Groq veya yerel Ollama üzerinde de test edilebilir.
+- **Dikkat:** AGPL-3.0 — açık kaynak projede kullanılırsa kaynak açıklanmalı; Astra internal kullanımda sorun yok.

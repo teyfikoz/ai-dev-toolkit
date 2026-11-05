@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-11-05T17:50:00.000000+00:00",
+  "session": "6 repo değerlendirildi; 1 zaten mevcut (answer-me-with-html), 5 yeni eklendi.",
+  "repos": [
+    {
+      "repo": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "stars": 39479,
+      "license": "AGPL-3.0",
+      "category": "05-llm-infrastructure-local-ai.md",
+      "description": "Training-free LLM modification: sansür kaldırma, slop bastırma, sycophancy azaltma.",
+      "portfolio_use": "Astra konseyi Hetzner Qwen modeline uygulanabilir — disagree oranı artırmak için. Internal kullanım AGPL sorun değil.",
+      "priority": "ORTA"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": 62904,
+      "license": "NOASSERTION",
+      "category": "08-security-osint.md",
+      "description": "Gerçek zamanlı açık kaynaklı uydu verisiyle fotorealistik 3D küre. Canlı ISS, Starlink, spatial intelligence.",
+      "portfolio_use": "YouTube içerik materyali (@scuplancom/space). How2TakeOff airspace katmanı referansı. Deploy için lisans araştır.",
+      "priority": "DÜŞÜK"
+    },
+    {
+      "repo": "facebookresearch/brain2qwerty",
+      "url": "https://github.com/facebookresearch/brain2qwerty",
+      "stars": 1214,
+      "license": "NOASSERTION",
+      "category": "14-medical-health-ai.md",
+      "description": "Non-invasive MEG/EEG beyin sinyali → yazı çözümleme. Transformer + karakter dil modeli.",
+      "portfolio_use": "Yalnızca araştırma/içerik (YouTube). Mevcut portföyde uygulanamaz.",
+      "priority": "ARAŞTIRMA"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "stars": 3918,
+      "license": "MIT",
+      "category": "01-claude-code-ai-dev-tools.md",
+      "description": "Claude Code agent skill koleksiyonu: HTML artifact, wireframe, prototip, plan, diyagram üretimi.",
+      "portfolio_use": "OCC dashboard, handoff artifact, B2BLife/RoboCheckIn wireframe. ~/.claude/skills/ altına kurulabilir.",
+      "priority": "YÜKSEK"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 5331,
+      "license": "MIT",
+      "category": "01-claude-code-ai-dev-tools.md",
+      "note": "ZATEN MEVCUT — önceki oturumda eklenmişti.",
+      "priority": "MEVCUT"
+    },
+    {
+      "repo": "Soda-null/multi-agent-repo-protocol",
+      "url": "https://github.com/Soda-null/multi-agent-repo-protocol",
+      "stars": 12,
+      "license": "MIT",
+      "category": "02-multi-agent-frameworks.md",
+      "description": "Claude Code + Codex + DeepSeek gibi birden fazla AI agent'ın aynı git reposunu çakışmasız paylaşma protokolü.",
+      "portfolio_use": "OCC/occ-dashboard: hem Claude hem Codex yazıyor. Bu protokol commit çakışmasını önler. astra_cycle.py gibi ortak dosyalar için kritik.",
+      "priority": "YÜKSEK"
+    }
+  ]
+}
