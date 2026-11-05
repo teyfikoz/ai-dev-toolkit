@@ -246,3 +246,7 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 ## Kasım 2026 — Çok-Ajan Git Koordinasyonu
 
 - [multi-agent-repo-protocol](https://github.com/Soda-null/multi-agent-repo-protocol) — Claude Code + Codex + DeepSeek gibi birden fazla AI coding agent'ın aynı git reposunu çakışmasız paylaşmasını sağlayan kurallar, git hook'ları ve scriptler; her commit otomatik atıflandırılır. MIT ⭐12 · **Kullanım:** OCC / occ-dashboard üzerinde hem Claude hem Codex (Astra) çalışıyor; bu protokol commit çakışmalarını ve üzerine yazma hatalarını önler. Özellikle `astra_cycle.py` ve `astra_council.py` gibi ortak dosyalar için kritik.
+
+## Kasım 2026 — Chat-Tabanlı Multi-Agent UI
+
+- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Grok Bot açık kaynak alternatifi: her sidebar kişisi gerçek bir AI agent (Claude/Codex), kendi VM'i ve bağlı uygulamalarıyla. Electron (Mac/Win/Linux) + Expo mobil. Self-hosted, local-first, TypeScript + React 19. ⭐13,196 · **Kullanım:** (1) **TechSyncAnalytica**: 14 AI agent (DecisionSense, StrategyLab, FeedbackRadar) chat-contact olarak wrap'lenebilir — kullanıcı "ajana mesaj atar" arayüzü; (2) **B2BLife**: şirket araştırma botu olarak; (3) **Astra Trading**: trade raporu + komut arayüzü; (4) Backlog'daki Telegram/Discord bot görevinin çok daha iyi alternatifi.
