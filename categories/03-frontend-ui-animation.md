@@ -63,3 +63,10 @@ ThreeJS + WebGL interaktif 3D UI bileşen kataloğu. React entegrasyonu, shader 
 
 - [GSAP](https://github.com/greensock/GSAP) — Modern web için profesyonel JavaScript animasyon kütüphanesi (GSAP). ⭐28945 · **Kullanım:** Landing sayfaları (B2BLife, RoboCheckIn, KredimPlus) ve HyperFrames video sahneleri; OCC grafik geçişleri.
 - [motion-dev-animations-skill](https://github.com/199-biotechnologies/motion-dev-animations-skill) — Motion.dev için Claude Code skill: 120fps animasyon, yay fiziği, scroll ve jest efektleri. ⭐118 · **Kullanım:** React ön yüzler: OCC, TSA, KredimPlus mikro-etkileşimleri (motion zaten Excel'de kayıtlı).
+
+## Kasım 2026 — Design System
+
+## cosscom/ui
+**Repo:** [cosscom/ui](https://github.com/cosscom/ui) | ★10795
+Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüphanesi; date picker, modal, form elemanları.
+- **Kullanım:** TSA, RoboCheckIn, KredimPlus ön yüz bileşen standardizasyonu; Cal.com quality-tested, production-ready.

@@ -201,10 +201,4 @@ AI ajan altyapıları için saldırı güvenlik framework'ü. MCP, A2A, gateway 
 - **Açıklama:** Otomatik sızma testi ve güvenlik açığı raporlama aracı — AI destekli, kapsamlı pentest pipeline. RoboCheckIn güvenlik tarama özelliği için AI-guided pentest akışı; OCC Network Security sekmesi entegrasyonu.
 ---
 
----
-
-### gods-eye-view (bilawalsidhu)
-- **Repo:** https://github.com/bilawalsidhu/gods-eye-view
-- **Stars:** 62,904
-- **Açıklama:** Tarayıcıda çalışan casus uydu simülatörü — gerçek zamanlı açık kaynaklı uydu/uzay verisiyle fotorealistik 3D küre üzerinde canlı spatial intelligence. Live ISS, Starlink, askeri uydu konumları.
-- **Kullanım:** @scuplancom / space tech YouTube içeriği için görsel demo materyali. How2TakeOff için airspace/uydu takip özelliği referans mimarisi. ScuPlan dive site konum katmanı için harita altyapısı ilhamı. Üretim deploy öncesi lisans kontrolü zorunlu (NOASSERTION).
+| 7 | **gods-eye-view** | 62,904 | Tarayıcıda gerçek zamanlı uydu takibi — ISS, Starlink, askeri uydular, fotorealistik 3D küre üzerinde canlı. TLE verisi (CelesTrak/NORAD) + WebGL renders. SciBreak için: her objetin konumunu API ile çekip "Bu anda uzayda ne var?" Shorts üretimi. How2TakeOff airspace katmanı referans mimarisi. | [link](https://github.com/bilawalsidhu/gods-eye-view) |

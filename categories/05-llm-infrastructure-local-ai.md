@@ -270,3 +270,10 @@ Training-free LLM modifikasyon kütüphanesi — sansür kaldırma, "slop" (kal�
 - **API Key gerekli mi?** HAYIR — yerel model üzerinde çalışır
 - **Kullanım:** Astra konseyi Hetzner Qwen modelinde sycophancy azaltmak için — özellikle `disagree` oranını artırmak (her konsey üyesinin bağımsız düşünmesi kritik). Groq veya yerel Ollama üzerinde de test edilebilir.
 - **Dikkat:** AGPL-3.0 — açık kaynak projede kullanılırsa kaynak açıklanmalı; Astra internal kullanımda sorun yok.
+
+## Kasım 2026 — MoE Lokal Çalıştırma
+
+## flash-moe
+**Repo:** [danveloper/flash-moe](https://github.com/danveloper/flash-moe) | ★4492
+Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük bellek, hızlı inference, Apple Silicon optimize.
+- **Kullanım:** Hetzner yerine Mac'te lokal MoE inference; Astra konsey için hafif expert routing denemeleri; ScreenMesh brain proxy alternatifi.

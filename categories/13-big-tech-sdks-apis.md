@@ -42,3 +42,10 @@ xAI'ın resmi Grok uygulama geliştirme araç takımı — Grok Bot kurulumu, mu
 - **API Key gerekli mi?** HAYIR — grok.com oturumu/cookie kullanır
 - **Pratiklik:** Tutarsız, güncellemelerde bozulur. Üretim sistemine (Astra) BAĞLANMAZ.
 - **Kullanım:** Yalnızca araştırma/test ortamında Grok yeteneklerini keşfetmek için. Canlı trading'de kullanma.
+
+---
+
+**Repo:** [linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) | ★63 | MIT | TypeScript
+- **Ne yapar?** Claude/Cursor/VS Code üzerinden LinkedIn hesabını programatik kontrol eder. Gönderi paylaşma, profil bilgisi çekme, B2B büyüme otomasyonu.
+- **Gerekli:** LINKED_API_TOKEN + IDENTIFICATION_TOKEN (LinkedIn hesabına özgü)
+- **Kullanım:** B2BLife ve TechSyncAnalytica için LinkedIn lead generation; cold outreach otomasyonu; haftalık şirket analiz paylaşımı. OCC paneline LinkedIn metrik entegrasyonu.

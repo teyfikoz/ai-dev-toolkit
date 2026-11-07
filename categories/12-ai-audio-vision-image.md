@@ -58,3 +58,13 @@
 
 - [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) — Whisper'ın en hızlı versiyonu; batching + FlashAttention ile 150x hız. CLI, HF pipeline uyumlu. ⭐28000+ **Kullanım:** TheMrOzz video ses → altyazı pipeline otomasyonu; YouTube auto-subtitle yerine kaliteli SRT.
 - [whisper-web](https://github.com/xenova/whisper-web) — Tarayıcıda çalışan Whisper; transformers.js ile WebGPU/WASM. Sunucu yok, 100% istemci tarafı. ⭐11000+ **Kullanım:** ScuPlan/B2BLife'a "ses → metin" widget gömme; KVKK uyumlu (veri cihazdan çıkmaz).
+
+## Kasım 2026 — Voice Cloning, AI Avatar & Vision
+
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) — Yerel çalışan ElevenLabs alternatifi; sıfırdan ses klonlama, çok sesli TTS, voice conversion. ⭐103088 · **Kullanım:** TheMrOzz ve @learnlingoz için yerel ses klonlama; mrozz_voice.py pipeline'a entegrasyon adayı.
+- [voicebox](https://github.com/jamiepine/voicebox) — Açık kaynak AI ses stüdyosu; real-time voice cloning, studio kalitesi çıktı. ⭐59727 · **Kullanım:** Ariabella için video seslendirme; edge-tts'e kıyasla daha doğal insan sesi.
+- [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) — ModelScope ses işleme toolkit; gürültü giderme, ses iyileştirme, source separation. ⭐4610 · **Kullanım:** TheMrOzz ses kalitesi pipeline'ında pre-processing; mikrofon arka plan gürültüsü temizleme.
+- [openwhispr](https://github.com/OpenWhispr/openwhispr) — Yerel/bulut ses-metin çevirisi; Whisper tabanlı, çok dil destekli, API key YOK. ⭐10904 · **Kullanım:** @learnlingoz video altyazı otomasyonu; LearnLingOz subtitle pipeline için Whisper alternatifi.
+- [VibeVoice](https://github.com/microsoft/VibeVoice) — Microsoft açık kaynak frontier voice AI; real-time konuşma, düşük gecikme, çok dil. ⭐56524 · **Kullanım:** TSA müşteri destek bot seslendirme; B2BLife raporlama ses özeti.
+- [ScrumSurvivor](https://github.com/heiner-palmen/ScrumSurvivor) — Meeting için AI avatar + lip-sync; gerçekçi dudak hareketi, webcam overlay. ⭐19 · **Kullanım:** ScreenMesh'e "meeting avatar" cihaz tipi ekleme; Ariabella için gerçekçi AI presenter.
+- [lingbot-map](https://github.com/Robbyant/lingbot-map) — ECCV 2026 En İyi Makale — Geometric Context Transformer; sokak görüntüsünden 3D mekansal harita çıkarma. ⭐18569 · **Kullanım:** ScreenMesh'in coğrafi konumlama doğruluğunu artırmak için sokak seviyesi mekansal bağlam; RuView ile birlikte WiFi+vision fusion.

@@ -1,0 +1,274 @@
+{
+  "checked_at": "2026-11-07T00:00:00.000000+00:00",
+  "session": "Kullanıcı 31 URL iletildi + ScreenMesh için benzer repo araştırması; 33 benzersiz repo değerlendirildi.",
+  "summary": "31 kullanıcı reposu + 2 ScreenMesh-similar repo (wisense, meshenger-android) eklendi. 8 kategori dosyası güncellendi. Kategoriler: Security/Privacy (13), Voice/Vision (7), Self-hosted (4), Productivity (2), Space/SDR (3), Frontend (1), LLM (1), Content (1). Yeni ScreenMesh referansları: RuView (WiFi spatial), wisense (CSI sensing), SatDump (SDR), meshenger-android (P2P).",
+  "github": [
+    {
+      "repo": "gommzystudio/device-activity-tracker",
+      "url": "https://github.com/gommzystudio/device-activity-tracker",
+      "stars": 5211,
+      "category": "11-security-osint.md",
+      "description": "Cihaz hareket/aktivite izleme; hangi cihazların ne zaman aktif olduğunu kaydeder.",
+      "assessment": "ScreenMesh cihaz zaman damgası ve online/offline geçiş takibi için referans.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "Meltedd/scarecrow",
+      "url": "https://github.com/Meltedd/scarecrow",
+      "stars": 391,
+      "category": "11-security-osint.md",
+      "description": "Araç plakası tanıma sistemlerine karşı adversarial privacy koruması; ALPR evasion.",
+      "assessment": "ScreenMesh kamera cihazları için privacy filter katmanı; adversarial ML araştırması."
+    },
+    {
+      "repo": "yjeanrenaud/yj_nearbyglasses",
+      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "stars": 2587,
+      "category": "11-security-osint.md",
+      "description": "Bluetooth/WiFi ile yakındaki akıllı gözlükleri (AR, recording) tespit eder.",
+      "assessment": "ScreenMesh'e 'nearby_device' sensor tipi ekleme için referans.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "NVIDIA/garak",
+      "url": "https://github.com/NVIDIA/garak",
+      "stars": 9913,
+      "category": "11-security-osint.md",
+      "description": "NVIDIA LLM güvenlik açığı tarayıcısı; prompt injection, hallucination, toxic content testleri.",
+      "assessment": "TSA/B2BLife AI ajanlarını jailbreak ve adversarial prompt testi."
+    },
+    {
+      "repo": "Azure/PyRIT",
+      "url": "https://github.com/Azure/PyRIT",
+      "stars": 0,
+      "category": "11-security-osint.md",
+      "description": "Microsoft Azure AI red teaming framework; otomatik risk tespiti ve saldırı simülasyonu.",
+      "assessment": "TSA ve B2BLife AI pipeline'larının red-team testi."
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "stars": 26919,
+      "category": "11-security-osint.md",
+      "description": "LLM test ve değerlendirme aracı; prompt regression, güvenlik, kalite testleri.",
+      "assessment": "Groq/Qwen LLM çağrılarının regresyon testi; Astra konsey prompt kalitesi izleme."
+    },
+    {
+      "repo": "protectai/llm-guard",
+      "url": "https://github.com/protectai/llm-guard",
+      "stars": 3219,
+      "category": "11-security-osint.md",
+      "description": "LLM girdi/çıktı güvenlik katmanı; PII sansür, prompt injection tespiti, toxic içerik filtresi.",
+      "assessment": "TSA kullanıcı girdilerini filtrele; RoboCheckIn yorum alanlarında PII koruma (KVKK)."
+    },
+    {
+      "repo": "NVIDIA/NeMo-Guardrails",
+      "url": "https://github.com/NVIDIA/NeMo-Guardrails",
+      "stars": 7445,
+      "category": "11-security-osint.md",
+      "description": "NVIDIA LLM conversation guardrails kütüphanesi; Colang dili ile kural tabanlı davranış kontrolü.",
+      "assessment": "TSA StrategyLab ajanlarına kural seti; B2BLife raporlama limitleri."
+    },
+    {
+      "repo": "Giskard-AI/giskard",
+      "url": "https://github.com/Giskard-AI/giskard",
+      "stars": 5946,
+      "category": "11-security-osint.md",
+      "description": "LLM ve ML model değerlendirme + test platformu; CI/CD entegrasyon, bias ve hallucination testi.",
+      "assessment": "TSA ve B2BLife model çıktılarını sürekli izleme; deployment öncesi kalite kapısı."
+    },
+    {
+      "repo": "semgrep/semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "stars": 17531,
+      "category": "11-security-osint.md",
+      "description": "Hafif statik kod analizi; güvenlik açığı ve kod kalitesi tarayıcısı; CI/CD entegre.",
+      "assessment": "FastAPI/Express kod tabanlarında (B2BLife, RoboCheckIn) otomatik güvenlik açığı tespiti."
+    },
+    {
+      "repo": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "stars": 39083,
+      "category": "11-security-osint.md",
+      "description": "Kapsamlı güvenlik açığı tarayıcısı; konteyner, Kubernetes, IaC, bağımlılık, gizli bilgi tarama.",
+      "assessment": "Hetzner konteyner/bağımlılık denetimi; npm paket güvenlik kontrolü."
+    },
+    {
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": 0,
+      "category": "11-security-osint.md",
+      "description": "AI destekli penetrasyon testi asistanı; otomatik exploit bulma ve raporlama.",
+      "assessment": "YETKİLİ hedeflerde güvenlik testi; kendi Hetzner altyapısının yıllık denetimi.",
+      "warning": "Yalnızca yetkili sistemlerde kullanılabilir."
+    },
+    {
+      "repo": "greenbone/openvas-scanner",
+      "url": "https://github.com/greenbone/openvas-scanner",
+      "stars": 4924,
+      "category": "11-security-osint.md",
+      "description": "OpenVAS açık kaynak güvenlik açığı tarayıcısı; ağ hizmetleri ve servisler için CVE tespiti.",
+      "assessment": "Hetzner 46.62.164.198 ve tüm Paddle/prod servisleri için düzenli güvenlik açığı taraması."
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 103088,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "Yerel çalışan ElevenLabs alternatifi; sıfırdan ses klonlama, çok sesli TTS, voice conversion.",
+      "assessment": "TheMrOzz ve @learnlingoz için yerel ses klonlama; mrozz_voice.py pipeline entegrasyonu."
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": 59727,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "Açık kaynak AI ses stüdyosu; real-time voice cloning, studio kalitesi çıktı.",
+      "assessment": "Ariabella için video seslendirme; edge-tts'e kıyasla daha doğal insan sesi."
+    },
+    {
+      "repo": "modelscope/ClearerVoice-Studio",
+      "url": "https://github.com/modelscope/ClearerVoice-Studio",
+      "stars": 4610,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "ModelScope ses işleme toolkit; gürültü giderme, ses iyileştirme, source separation.",
+      "assessment": "TheMrOzz ses kalitesi pipeline'ında pre-processing; mikrofon arka plan gürültüsü temizleme."
+    },
+    {
+      "repo": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "stars": 10904,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "Yerel/bulut ses-metin çevirisi; Whisper tabanlı, çok dil destekli, API key yok.",
+      "assessment": "@learnlingoz video altyazı otomasyonu; LearnLingOz subtitle pipeline için Whisper alternatifi."
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "stars": 56524,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "Microsoft açık kaynak frontier voice AI; real-time konuşma, düşük gecikme, çok dil.",
+      "assessment": "TSA müşteri destek bot seslendirme; B2BLife raporlama ses özeti."
+    },
+    {
+      "repo": "heiner-palmen/ScrumSurvivor",
+      "url": "https://github.com/heiner-palmen/ScrumSurvivor",
+      "stars": 19,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "Meeting için AI avatar + lip-sync; gerçekçi dudak hareketi, webcam overlay.",
+      "assessment": "ScreenMesh'e 'meeting avatar' cihaz tipi; Ariabella için gerçekçi AI presenter referansı.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars": 18569,
+      "category": "12-ai-audio-vision-image.md",
+      "description": "ECCV 2026 En İyi Makale — Geometric Context Transformer; sokak görüntüsünden 3D mekansal harita.",
+      "assessment": "ScreenMesh coğrafi konumlama doğruluğunu artırmak için sokak seviyesi mekansal bağlam.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "SatDump/SatDump",
+      "url": "https://github.com/SatDump/SatDump",
+      "stars": 2497,
+      "category": "22-space-technology.md",
+      "description": "SDR tabanlı uydu veri alıcısı; NOAA/Meteosat/GOES telemetri decode, canlı görüntü alma.",
+      "assessment": "ScreenMesh gerçek uydu telemetri cihazı entegrasyonu; screenmesh_brain ile NOAA APT görüntü analizi.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars": 102748,
+      "category": "22-space-technology.md",
+      "description": "Ticari WiFi donanımını mekansal zeka sensörüne dönüştürür; CSI ile varlık/hareket/nefes tespiti.",
+      "assessment": "ScreenMesh 'wifi_spatial' cihaz tipi; bina içi konum tespiti; oda bazlı varlık sayımı.",
+      "screenmesh_relevant": true
+    },
+    {
+      "repo": "AppFlowy-IO/AppFlowy-Cloud",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+      "stars": 2012,
+      "category": "09-self-hosted-devops.md",
+      "description": "AppFlowy'nin Rust tabanlı self-hosted bulut backend'i; real-time collaboration, auth, storage.",
+      "assessment": "TSA/OCC team wiki'si için AppFlowy'e sync layer; Hetzner'da barındırma."
+    },
+    {
+      "repo": "AppFlowy-IO/appflowy-editor",
+      "url": "https://github.com/AppFlowy-IO/appflowy-editor",
+      "stars": 693,
+      "category": "11-productivity-saas-cms.md",
+      "description": "Flutter ile geliştirilmiş zengin metin editörü bileşeni — Notion benzeri blok editörü.",
+      "assessment": "Selfix veya TSA gibi uygulamalara Notion tarzı not/içerik editörü eklemek için Flutter component."
+    },
+    {
+      "repo": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "stars": 17064,
+      "category": "09-self-hosted-devops.md",
+      "description": "Açık kaynak proje yönetim yazılımı — Jira/Trello alternatifi; Gantt, agile board, wiki.",
+      "assessment": "TSA/B2BLife müşteri projelerini takip; Hetzner'da deployment, Paddle entegrasyon adayı."
+    },
+    {
+      "repo": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "stars": 39020,
+      "category": "09-self-hosted-devops.md",
+      "description": "Açık kaynak müşteri destek platformu — Intercom/Zendesk alternatifi; web chat, email, social inbox.",
+      "assessment": "RoboCheckIn ve TSA müşteri desteği; Groq bot ile otomatik ticket yanıtı; Hetzner deployment."
+    },
+    {
+      "repo": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "stars": 24551,
+      "category": "11-productivity-saas-cms.md",
+      "description": "Açık kaynak Loom alternatifi — ekran kaydı, paylaşım, yorumlama. Tauri + React.",
+      "assessment": "TSA müşteri demo kayıtları; RoboCheckIn support ticket video ekleme; self-hosted."
+    },
+    {
+      "repo": "cosscom/ui",
+      "url": "https://github.com/cosscom/ui",
+      "stars": 10795,
+      "category": "03-frontend-ui-animation.md",
+      "description": "Cal.com açık kaynak design system'i — React + Tailwind bileşen kütüphanesi; date picker, modal, form.",
+      "assessment": "TSA, RoboCheckIn, KredimPlus ön yüz bileşen standardizasyonu."
+    },
+    {
+      "repo": "danveloper/flash-moe",
+      "url": "https://github.com/danveloper/flash-moe",
+      "stars": 4492,
+      "category": "05-llm-infrastructure-local-ai.md",
+      "description": "Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük bellek, hızlı inference.",
+      "assessment": "Mac'te lokal MoE inference; Astra konsey için hafif expert routing denemeleri."
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "stars": 32856,
+      "category": "06-content-media-video.md",
+      "description": "Açık kaynak AI üretim araçları hub'ı; görsel, video, ses, metin üretim modellerini tek arayüzde toplar.",
+      "assessment": "@learnlingoz ve @meetariabella içerik üretim pipeline'ı için alternatif araç keşfi."
+    },
+    {
+      "repo": "meshenger-app/meshenger-android",
+      "url": "https://github.com/meshenger-app/meshenger-android",
+      "stars": 974,
+      "category": "09-self-hosted-devops.md",
+      "description": "LAN üzerinden P2P Voice/Video çağrı uygulaması — sunucu gerektirmez, internet bağlantısı yok, şifreli.",
+      "assessment": "ScreenMesh P2P WebRTC referans implementasyonu; lokal mesh ağında cihazlar arası doğrudan iletişim.",
+      "screenmesh_relevant": true,
+      "note": "Kullanıcı tarafından iletilmedi — ScreenMesh araştırması sırasında tespit edildi."
+    },
+    {
+      "repo": "collabray/wisense",
+      "url": "https://github.com/collabray/wisense",
+      "stars": 28,
+      "category": "22-space-technology.md",
+      "description": "Python WiFi CSI insan algılama; varlık/düşme/nefes tespiti, M5Stack uyumlu.",
+      "assessment": "ScreenMesh lokal ağ varlık sensörü; Raspberry Pi tabanlı oda izleme probe'u.",
+      "screenmesh_relevant": true,
+      "note": "Kullanıcı tarafından iletilmedi — ScreenMesh araştırması sırasında tespit edildi."
+    }
+  ]
+}

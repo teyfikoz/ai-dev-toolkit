@@ -54,3 +54,15 @@ Kapsamlı RPA — UiPath gibi pahalı alternatiflerin yerine rutin veri transfer
 ## laracom
 **Repo:** [jsdecena/laracom](https://github.com/jsdecena/laracom) | ★2,042
 Laravel e-ticaret mağazası — Shopify aylık ücret ve işlem kesintisi olmadan.
+
+## Kasım 2026 — Editör Bileşeni & Kayıt Araçları
+
+## appflowy-editor
+**Repo:** [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) | ★693
+Flutter ile geliştirilmiş zengin metin editörü bileşeni — Notion benzeri blok editörü, embed, shortcut. AppFlowy'nin editör çekirdeği.
+- **Kullanım:** Selfix veya TSA gibi uygulamalara Notion tarzı not/içerik editörü eklemek için Flutter embeddable component.
+
+## Cap
+**Repo:** [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | ★24551
+Açık kaynak Loom alternatifi — ekran kaydı, paylaşım, yorumlama. Tauri + React, self-hosted veya cloud.
+- **Kullanım:** TSA müşteri demo kayıtları; RoboCheckIn support ticket video ekleme; Hetzner'da barındırma ile tam kontrol.

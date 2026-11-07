@@ -128,3 +128,25 @@ Self-hosted LaTeX editörü — teknik rapor ve doküman hazırlama.
 UI bileşeni üretimi — Figma/v0 alternatifi. Synaptiq Studio UI prototipleme.
 
 - [zig](https://github.com/ziglang/zig) — Zig programlama dili — sistem programlama ⭐43299
+
+## Kasım 2026 — Proje Yönetimi & P2P Networking
+
+## AppFlowy-Cloud
+**Repo:** [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) | ★2012
+AppFlowy'nin Rust tabanlı self-hosted bulut backend'i; real-time collaboration, auth, storage. AppFlowy (09'da mevcut) ile birlikte kullanılır.
+- **Kullanım:** TSA/OCC team wiki'si için AppFlowy'e sync layer ekleme; Hetzner'da barındırma.
+
+## openproject
+**Repo:** [opf/openproject](https://github.com/opf/openproject) | ★17064
+Açık kaynak proje yönetim yazılımı — Jira/Trello alternatifi; Gantt, agile board, wiki, zaman takibi. Ruby on Rails.
+- **Kullanım:** TSA/B2BLife müşteri projelerini takip; Hetzner'da deployment, Paddle ile faturalandırma entegrasyonu adayı.
+
+## chatwoot
+**Repo:** [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | ★39020
+Açık kaynak müşteri destek platformu — Intercom/Zendesk alternatifi; web chat, email, social media inbox. Ruby on Rails + Vue.
+- **Kullanım:** RoboCheckIn ve TSA müşteri desteği; Groq bot ile otomatik ticket yanıtı; Hetzner deployment.
+
+## meshenger-android
+**Repo:** [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) | ★974
+LAN üzerinden P2P Voice/Video çağrı uygulaması — sunucu gerektirmez, internet bağlantısı yok, şifreli.
+- **Kullanım:** ScreenMesh P2P WebRTC referans implementasyonu; lokal mesh ağında cihazlar arası doğrudan iletişim modülü adayı.
