@@ -277,3 +277,8 @@ Training-free LLM modifikasyon kütüphanesi — sansür kaldırma, "slop" (kal�
 **Repo:** [danveloper/flash-moe](https://github.com/danveloper/flash-moe) | ★4492
 Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük bellek, hızlı inference, Apple Silicon optimize.
 - **Kullanım:** Hetzner yerine Mac'te lokal MoE inference; Astra konsey için hafif expert routing denemeleri; ScreenMesh brain proxy alternatifi.
+
+## Kasım 2026 — Yeni Modeller
+
+- **DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic** (HuggingFace: xtools-at) — Qwen3.5-9B tabanlı decensored model; matematik/STEM ağırlıklı (GSM8K %94.5, MMLU-Pro %90.5). BF16, Apache 2.0. %36 daha az token/doğru cevap. · **Kullanım:** GlobalKariyerim lokal LLM olarak (mevcut Ollama yerine); Hetzner üzerinde hafif inference; matematik ağırlıklı TechSyncAnalytica analiz görevleri.
+- **kanana-2-v-decide-3b-2611** (HuggingFace: kakaocorp) — Kakao'nun 3.67B multimodal karar modeli: seçenek listesinden seç / evet-hayır / derecelendirme; metin değil olasılık dağılımı döndürür. 20K token context, 10 görsel, Türkçe+İngilizce. KananaOpenLicense. · **Kullanım:** B2BLife şirket puanlama (çoklu seçenek skorlaması); TechSyncAnalytica DecisionSense arka planı; RoboCheckIn uyarı önceliklendirme; multimodal girdi için vision encoder.

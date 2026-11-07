@@ -108,3 +108,10 @@ Microsoft Playwright MCP — 37K★ browser otomasyon. OCC Otomasyon sekmesi: vi
 ## chrome-devtools-mcp
 **Repo:** [chromedevtools/chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) | ★52,136
 Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon + B2BLife web analiz.
+
+## Kasım 2026 — Ücretsiz MCP Alternatifleri
+
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) — Microsoft resmi Playwright MCP server: accessibility snapshot tabanlı browser automation, vision model gerekmez. Ücretsiz, açık kaynak. GitHub Copilot otomatik entegrasyon. ⭐— · **Kullanım:** B2BLife WebsiteGap scraping; RoboCheckIn site güvenlik tarama; Claude Code'a MCP olarak eklenebilir. **Perplexity/Firecrawl/Chrome MCP alternatifi.**
+- [freecrawl-mcp](https://github.com/dylan-gluck/freecrawl-mcp) — Self-hosted Firecrawl MCP alternatifi: web scraping + document processing, ücretsiz. · **Kullanım:** B2BLife şirket web analizi (Firecrawl API ücretliydi, bu ücretsiz). Claude Code MCP olarak ekle.
+- [perplexity-web-api-mcp](https://github.com/mishamyrt/perplexity-web-api-mcp) — Rust ile Perplexity MCP: API key gerekmez, session ile çalışır, ücretsiz. · **Kullanım:** B2BLife/TechSyncAnalytica araştırma sorguları; Claude Code'a MCP ekle.
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Resmi Chrome DevTools MCP server (46.3K★, Apache-2.0): canlı Chrome kontrolü, debug, screenshot, performance trace. · **Kullanım:** RoboCheckIn site test; B2BLife scraping; Playwright MCP ile birlikte veya alternatif.

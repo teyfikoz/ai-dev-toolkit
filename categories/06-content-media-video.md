@@ -605,3 +605,14 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 ## Kasım 2026 — AI Generation Hub
 
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Açık kaynak AI üretim araçları hub'ı; görsel, video, ses, metin üretim modellerini tek arayüzde toplayan koleksiyon. ⭐32856 · **Kullanım:** @learnlingoz ve @meetariabella içerik üretim pipeline'ı için alternatif araç keşfi; Ariabella video üretim stack araştırması.
+
+## Kasım 2026 — 3D Sinematik + AI Media Studio
+
+- [cinecode](https://github.com/sarpstar/cinecode) — Kodla film: AI agent script yazar, her kareyi Canvas 2D/Three.js ile inşa eder, ses tasarımı yapar → MP4. Quick Mode (<3 dk) + Film Mode (araştırma+çok katmanlı ses). 8 görsel stil. ⭐727 · **Kullanım:** YouTube: @learnlingoz/@themrozz kanalları için mevcut FFmpeg hattına alternatif; Ariabella longform film üretimi; How2TakeOff 3D tanıtım videosu. Claude Code ile çalışır, harici ücretli servis yok.
+- [banana-studio](https://github.com/orkunisitmak/banana-studio) — Self-hosted AI medya stüdyosu (macOS + Windows desktop + Vercel): GPT Image 2.5, Seedance, MiniMax H3 Max ile görsel+video üretimi; korumalı alan düzenleme; referans kütüphanesi. MIT, kendi API key'in. ⭐310 · **Kullanım:** Ariabella görsel+video üretim hattı (Higgsfield alternatifi/tamamlayıcısı); YouTube thumbnail + product shot; Supabase yerine local storage.
+- [blender-kiln](https://github.com/elithril/blender-kiln) — Fotoğraftan Blender'da temiz 3D model: Claude Code + Blender MCP server ile photo-to-3D, karakter rigging/animasyon, 3D baskı hazırlık, format dönüştürme (GLB/FBX/USDZ/STL). Blender 4.4+. ⭐175 · **Kullanım:** How2TakeOff 3D kampüs modelleri; Ariabella karakter building (referans fotodan 3D); Gumroad için 3D ürün demosu.
+- [polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 3,000+ ücretsiz low-poly 3D model (GLB/MJS/FBX/USD): karakterler, araçlar, binalar, terrain; 28 temalı kit; CC BY 4.0 ticari. CLI: `npx polyfork`. ⭐303 · **Kullanım:** How2TakeOff three.js 3D kampüs varlıkları (uçak, bina, araç); cinecode Three.js filmlerinde hazır model; Nyxera 3D robot yapımında parça kütüphanesi.
+
+## Kasım 2026 — Nyxera Sinematik 3D Metodu (Claude Code Skill)
+
+- **Nyxera 3D Simulator Skill** — Tek fotoğraftan three.js'te 3D mekanik robot/nesne: "iş tanımı" dosyası + checklist loop + pixel density ölçümü + JSON koreografi scriptinden film render. Adımlar: (1) ChatGPT'den referans görsel, (2) job description dosyası, (3) objeye özel checklist, (4) still loop+grading, (5) pixel density ölçümü (dark_px/total_px ≥ 0.80 ref), (6) onaylanmış koreografiden film port, (7) 21sn tam + 10sn kısa script, (8) ffmpeg H.264 render. · **Kullanım:** How2TakeOff: 3D uçak/motor exploder; Ariabella: mekanik karakter tanıtım filmi; cinecode ile ortak kullanım. NOT: Opus 5.5 gerektirir, paralel değil tek agent per build.

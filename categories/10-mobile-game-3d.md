@@ -73,3 +73,8 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 | # | Repo | Stars | Ne İşe Yarar? | GitHub |
 |---|------|-------|--------------|--------|
 | - | **TRELLIS** | ~7,000 | Microsoft TRELLIS — metin/görsel → 3D asset üretimi; GLB/video/Gaussian Splat çıktı. **Kullanım:** How2TakeOff 3D kampüs için AI destekli bina/uçak asset üretimi. | [link](https://github.com/microsoft/TRELLIS) |
+
+## Kasım 2026 — 3D Modelleme
+
+- [blender-kiln](https://github.com/elithril/blender-kiln) — Fotoğraftan Blender 3D model (Claude Code + Blender MCP): photo-to-3D, animasyon rigging, 3D baskı (FDM/resin), GLB/FBX/USDZ/STL çıktı. ⭐175 → 06-content ile çapraz ref.
+- [polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 3,000+ low-poly 3D model (CC BY 4.0, ticari): GLB/MJS, three.js uyumlu, `npx polyfork` CLI. ⭐303 → How2TakeOff three.js 3D kampüs varlıkları.

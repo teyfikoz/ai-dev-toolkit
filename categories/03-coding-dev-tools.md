@@ -45,3 +45,7 @@ Coding agent'larını research agent'lara dönüştürür. TSA araştırma pipel
 AI Agent'ı Figma ile konuşturan MCP — tasarım → kod. Synaptiq Studio UI geliştirme.
 
 - [whiteboard](https://github.com/devdotfast/whiteboard) — Gerçek zamanlı işbirlikli dijital whiteboard uygulaması ⭐1536
+
+## Kasım 2026 — Native UI Framework
+
+- [rune](https://github.com/anomalyco/rune) — Rust ile native GPU-rendered cross-platform UI framework (macOS/Win/Linux/web): kendi renderer, text, layout, spring animasyonu. Headless mode (PNG render + element tree dump + scripted input) → agent automation için tasarlandı. ⭐3,700 · **Kullanım:** ScreenMesh/TefoBrowser native UI katmanı; Synaptiq Studio desktop shell; agent-headless test pipeline (Playwright alternatifi desktop app'ler için).

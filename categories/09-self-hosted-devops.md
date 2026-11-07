@@ -150,3 +150,7 @@ Açık kaynak müşteri destek platformu — Intercom/Zendesk alternatifi; web c
 **Repo:** [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) | ★974
 LAN üzerinden P2P Voice/Video çağrı uygulaması — sunucu gerektirmez, internet bağlantısı yok, şifreli.
 - **Kullanım:** ScreenMesh P2P WebRTC referans implementasyonu; lokal mesh ağında cihazlar arası doğrudan iletişim modülü adayı.
+
+## Kasım 2026 — Bulut Compute CLI
+
+- [google-colab-cli](https://github.com/googlecolab/google-colab-cli) — Colab runtime'ını terminal'dan yönet: CPU/GPU (T4/L4/A100/H100)/TPU kiralama, Python/notebook çalıştırma, dosya transfer, Drive mount, uv paket yönetimi. ⭐2,000 · **Kullanım:** MusicGen/model eğitim görevleri için ücretsiz GPU (Hetzner'e yük bindirmez); GlobalKariyerim ML modelleri; NeuroTraceAI veri analizi batch job. Linux/macOS.
