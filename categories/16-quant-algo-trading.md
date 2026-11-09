@@ -79,6 +79,34 @@ TradingView Pine Script strateji optimizasyon aracı, AI destekli parametre ayar
 
 ---
 
+## Kas 2026 — Grok Bot Templates (Kullanıcı tarafından eklendi)
+
+### cobusgreyling/grok-bot-templates
+- **Repo:** https://github.com/cobusgreyling/grok-bot-templates
+- **Açıklama:** Grok tabanlı trading bot template'leri — multi-asset sinyal, entry/exit kuralları, risk yönetimi şablonları.
+- **Kullanım:** Astra multi-asset genişlemesi (ETH/XRP/SOL) için template referansı.
+- **Tags:** grok, trading-bot, templates, multi-asset
+
+### unicodef1wn/grokbot-field-notes
+- **Repo:** https://github.com/unicodef1wn/grokbot-field-notes
+- **Açıklama:** Grok bot saha notları — gerçek dünya uygulama deneyimleri, hata kayıtları, optimizasyon notları.
+- **Kullanım:** Astra bot geliştirme sürecinde pratik referans.
+- **Tags:** grok, trading-bot, field-notes, lessons-learned
+
+### milind-soni/OpenMausBot
+- **Repo:** https://github.com/milind-soni/OpenMausBot
+- **Açıklama:** Açık kaynak trading bot — çoklu varlık desteği, sinyal üretimi, otomatik işlem yürütme.
+- **Kullanım:** Astra için multi-asset mimari referansı; ETH/XRP/SOL ekleme için blueprint.
+- **Tags:** trading-bot, multi-asset, open-source, automated-trading
+
+### xai-org/grok-prompts
+- **Repo:** https://github.com/xai-org/grok-prompts
+- **Açıklama:** xAI resmi Grok prompt kütüphanesi — finans, analiz, karar destek prompt şablonları.
+- **Kullanım:** Astra konsey promptlarını optimize etmek için; council üyelerine gönderilen prompt kalitesini artırmak.
+- **Tags:** xai, grok, prompts, llm-prompting, finance-prompts
+
+---
+
 ## 28 Eyl 2026 — Yeni Eklentiler (Polymarket + Quant Infra)
 
 ### brainbrick-trades/The-Quant-Trading-Vault
