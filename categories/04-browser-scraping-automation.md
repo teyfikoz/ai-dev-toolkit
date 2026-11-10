@@ -33,6 +33,7 @@
 | 29 | **axios** | 109162 | Promise based HTTP client for the browser and node.js | [link](https://github.com/axios/axios) |
 | 30 | **uBlock** | 66571 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | [link](https://github.com/gorhill/uBlock) |
 | 31 | **flights** | 1803 | Hızlı ve güvenilir Google Flights scraper (Python). Uçuş fiyatları, saatler, rezervasyon verileri — 180+ ülke. Protobuf tabanlı, API anahtarı gerektirmez. | [link](https://github.com/AWeirdDev/flights) |
+| 32 | **[agent-qa](https://vostride.com)** | 856 | Web, Android ve iOS için doğal dille QA; kalıcı memidex belleği, doğrulanmış kendini geliştirme ve incelenebilir koşu kanıtları. FSL-1.1-ALv2 rekabetçi kullanımı sınırlar; model/altyapı maliyetleri ayrıdır. Yalnızca belgeler incelendi, çalıştırılmadı. | [link](https://github.com/vostride/agent-qa) |
 
 ### stealth-browser-mcp
 - **Repo:** https://github.com/vibheksoni/stealth-browser-mcp
