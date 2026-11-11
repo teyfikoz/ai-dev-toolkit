@@ -11,14 +11,14 @@
 
 ## Categories
 
-Latest evidence review: [7 November 2026 — security, voice, SDR, P2P networking, productivity](reports/2026-11-07-repo-intake.json). [Previous: 5 November 2026](reports/2026-11-05-repo-intake-2.json).
+Latest evidence review: [11 November 2026 — Safari MCP source and release review](reports/2026-11-11-safari-mcp-review.md). Previous: [7 November 2026 — security, voice, SDR, P2P networking, productivity](reports/2026-11-07-repo-intake.json). [Previous: 5 November 2026](reports/2026-11-05-repo-intake-2.json).
 
 | # | Category | Repos |
 |---|----------|-------|
 | 01 | [Claude Code & AI Geliştirici Araçları](categories/01-claude-code-ai-dev-tools.md) | 250 |
 | 02 | [Multi-Agent Frameworks](categories/02-multi-agent-frameworks.md) | 97 |
 | 03 | [Frontend, UI & Animasyon](categories/03-frontend-ui-animation.md) | 30 |
-| 04 | [Browser, Scraping & Otomasyon](categories/04-browser-scraping-automation.md) | 49 |
+| 04 | [Browser, Scraping & Otomasyon](categories/04-browser-scraping-automation.md) | 51 |
 | 05 | [LLM Infrastructure & Local AI](categories/05-llm-infrastructure-local-ai.md) | 137 |
 | 06 | [İçerik, Medya & Video](categories/06-content-media-video.md) | 190 |
 | 07 | [Data, Analytics & Charts](categories/07-data-analytics-charts.md) | 49 |

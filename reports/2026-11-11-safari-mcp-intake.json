@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "scope": "Static source review only; no installation, browser execution, dependency audit or independent performance benchmark.",
+  "repos": [
+    {
+      "repo": "Epistates/MCPSafari",
+      "stars": 64,
+      "commit": "13ba540f7cfdcf053e5e97e0a7c5ef7b73d9c5ad",
+      "release": "v0.3.2",
+      "description": "Swift ve Safari eklentisi üzerinden gerçek Safari oturumunu MCP istemcilerine açar; macOS 14+/Safari 17+.",
+      "assessment": "Safari QA adayı. Ana daldaki v0.4 güvenlik korumaları son v0.3.2 yayınına mal edilmemeli; site izinleri dar tutulmalı.",
+      "url": "https://github.com/Epistates/MCPSafari",
+      "category": "04-browser-scraping-automation.md"
+    },
+    {
+      "repo": "achiya-automation/safari-mcp",
+      "stars": 241,
+      "commit": "813fd503c566372f66bcb9edfa155238a80693cb",
+      "release": "v2.23.0",
+      "description": "Node.js ve AppleScript/JavaScript ile Safari otomasyonu; 98 araç beyanı, mevcut oturumlar ve isteğe bağlı eklenti/HTTP.",
+      "assessment": "Safari 26 için pilot adayı; sürüm sabitle, Apple Events izinlerini sınırla. SECURITY.md yerellik iddiaları eksik; model sağlayıcısına çıktı aktarımı dikkate alınmalı.",
+      "url": "https://github.com/achiya-automation/safari-mcp",
+      "category": "04-browser-scraping-automation.md"
+    }
+  ]
+}

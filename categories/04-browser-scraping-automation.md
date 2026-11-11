@@ -115,3 +115,15 @@ Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon 
 - [freecrawl-mcp](https://github.com/dylan-gluck/freecrawl-mcp) — Self-hosted Firecrawl MCP alternatifi: web scraping + document processing, ücretsiz. · **Kullanım:** B2BLife şirket web analizi (Firecrawl API ücretliydi, bu ücretsiz). Claude Code MCP olarak ekle.
 - [perplexity-web-api-mcp](https://github.com/mishamyrt/perplexity-web-api-mcp) — Rust ile Perplexity MCP: API key gerekmez, session ile çalışır, ücretsiz. · **Kullanım:** B2BLife/TechSyncAnalytica araştırma sorguları; Claude Code'a MCP ekle.
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Resmi Chrome DevTools MCP server (46.3K★, Apache-2.0): canlı Chrome kontrolü, debug, screenshot, performance trace. · **Kullanım:** RoboCheckIn site test; B2BLife scraping; Playwright MCP ile birlikte veya alternatif.
+
+### Epistates/MCPSafari
+- **Repo:** https://github.com/Epistates/MCPSafari
+- **Stars:** 64 (2026-11-11)
+- **Açıklama:** Swift ve Safari eklentisi üzerinden gerçek Safari oturumunu MCP istemcilerine açar; macOS 14+/Safari 17+.
+- **Değerlendirme:** Safari QA adayı. Ana daldaki v0.4 güvenlik korumaları son v0.3.2 yayınına mal edilmemeli; site izinleri dar tutulmalı.
+
+### achiya-automation/safari-mcp
+- **Repo:** https://github.com/achiya-automation/safari-mcp
+- **Stars:** 241 (2026-11-11)
+- **Açıklama:** Node.js ve AppleScript/JavaScript ile Safari otomasyonu; 98 araç beyanı, mevcut oturumlar ve isteğe bağlı eklenti/HTTP.
+- **Değerlendirme:** Safari 26 için pilot adayı; sürüm sabitle, Apple Events izinlerini sınırla. SECURITY.md yerellik iddiaları eksik; model sağlayıcısına çıktı aktarımı dikkate alınmalı.
