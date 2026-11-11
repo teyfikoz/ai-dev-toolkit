@@ -32,3 +32,9 @@ Antigravity'nin yerleşik browser aracı Safari'ye otomatik dönüşmez; görevd
 Tarayıcı araç çıktıları seçilen model sağlayıcısına gönderilebilir. Gerçek müşteri PII'si yerine localhost/sentetik test verisi kullanılmalı. Doğrudan gelir artışı ölçülmedi; amaç Safari QA ve Chrome gereksinimini azaltmak.
 
 Deployment değişikliği yok. NotebookLM için bu rehber kaynak olarak hazır; notebook'a yüklenmedi.
+
+## Canlı test sonucu
+
+Kullanıcının izin ayarı sonrasında sandbox dışında MCP testi başarılı: safari_doctor **5/6**, Apple Events/Automation OK, native helper ve Accessibility kontrolü başarılı. `safari_new_tab` ile https://example.com/ yeni sekmede açıldı; `safari_read_page` başlığı **Example Domain** ve sayfa metnini döndürdü. Safari üzerinde JavaScript/DOM okuma canlı doğrulandı.
+
+Screen Recording izni eksik; ekran görüntüsü/PDF doğrulanmadı. Safari eklentisi bağlı değil, çalışan yol AppleScript. Her istemcinin kendi macOS izin zinciri ayrıca sorulabilir; tüm istemcilerin arayüzleri tek tek canlı denenmedi. Sandbox içindeki süreç kontrolü yanlış şekilde Safari çalışmıyor sonucu verdi; sandbox dışı test gerçek durumu doğruladı.
