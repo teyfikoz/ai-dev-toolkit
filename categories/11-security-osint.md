@@ -58,6 +58,11 @@ Cloudflare çok aşamalı güvenlik denetimi — bağımsız doğrulama, 10K★ 
 - [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) — IL2CPP derlenmiş Unity oyunlarını geri çözme. ⭐3025 · **Kullanım:** Oyun güvenliği araştırması; yetkili/eğitim.
 - [rea](https://github.com/morluto/rea) — Reverse Engineer Anything: AI ajanına MCP ile tersine mühendislik araçları. ⭐268217 · **Kullanım:** YALNIZ sahip olunan/izinli hedefler, güvenlik testi, birlikte çalışabilirlik. Ticari yazılım klonlama telif ihlali — kullanılmaz.
 - [universal-modder](https://github.com/rehan-remade/universal-modder) — Genel amaçlı uygulama modlama aracı. ⭐7920 · **Kullanım:** Yalnız kendi/izinli yazılım; dağıtım telif/ToS kontrolü gerekir.
+
+## privacy-scanner
+**Repo:** [maluta/privacy-scanner](https://github.com/maluta/privacy-scanner)
+Mobil uygulama ve web servisleri için gizlilik/takip SDK tarayıcısı. Uygulamalardaki tracker, telemetri ve 3. taraf gizlilik ihlallerini statik/dinamik analiz ile tespit eder.
+**Kullanım:** SmartBlock (kendi privacy-first özellik testleri), ScreenMesh (cihaz üzerindeki 3. taraf SDK tespiti), RoboCheckIn (güvenlik tarama modülüne entegrasyon). KVKK/GDPR uyumluluk doğrulaması için — kendi uygulamaları ve yetkili test hedefleri. Ticari ürün tarama DEĞİL.
 - [BruteForceAI](https://github.com/MorDavid/BruteForceAI) — AI destekli brute-force/giriş testi aracı. ⭐1852 · **Kullanım:** YALNIZ kendi sistemlerinde yetkili pentest; üçüncü taraf hedef YASAK.
 - [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) — Cloudflare üzerinde geçici e-posta servisi. ⭐11964 · **Kullanım:** Test hesapları; gerçek kullanıcı PII ile karıştırma, KVKK.
 
