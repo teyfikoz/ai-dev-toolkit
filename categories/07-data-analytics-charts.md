@@ -107,3 +107,8 @@ Finansal veri MCP server — hisse, gelir, bilanço. StockPulse + TSA FundPilot 
 - [chroma](https://github.com/chroma-core/chroma) — AI için arama altyapısı; gömme tabanlı vektör veritabanı. ⭐29512 · **Kullanım:** RAG belleği. KVKK: self-host only, Supabase/bulut YOK.
 - [meilisearch](https://github.com/meilisearch/meilisearch) — Şimşek hızında arama motoru API; AI destekli hibrit arama. ⭐59577 · **Kullanım:** KredimPlus/TSA site içi arama; self-host Hetzner.
 - [repowise](https://github.com/repowise-dev/repowise) — Kod tabanı zekası: sağlık skoru, otomatik dokümantasyon. ⭐7789 · **Kullanım:** Dev araç: portföy repolarının sağlık denetimi (OCC, SaaS).
+
+## Kasım 2026 — bilimsel yeniden üretim kaynakları
+
+- [solar_flare_verification](https://github.com/ML-Space-Weather/solar_flare_verification) — Camporeale ve Berger'in gerçek güneş patlaması tahmin doğrulama makalesine bağlı analiz notebook'u ve fiziksel veri tablosu. Yayımlanmış model/metrik sonuçlarını yazar verisiyle yeniden üretmek için doğrudan kaynak. Yerelde analiz aşaması çalıştırıldı; bu, bağımsız insan incelemesi veya tüm veri hazırlama zincirinin tekrarı değildir. **Lisans:** depoda açık LICENSE dosyası bulunmadı; yeniden dağıtım izni varsayılmamalı. Makale: [10.1029/2025SW004546](https://doi.org/10.1029/2025SW004546).
+- [solar-cycle-update](https://github.com/mmiesch/solar-cycle-update) — NOAA/SWPC solar-cycle tahmininin operasyonel uygulaması, ön işleme ve doğrulama betikleri. Bilimsel tahmin kodunu incelemek ve yeniden üretmek için kaynak. README ve yardımcı model fonksiyonları incelendi; bu kayıt tam operasyonel çalıştırma iddiası değildir. **Lisans:** Apache 2.0; veri kaynaklarının koşulları ayrıca kontrol edilmeli.
