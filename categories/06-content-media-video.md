@@ -33,6 +33,9 @@
 | 29 | **AnimeGAN** | 6800 | Gercek fotografi anime gorsel stiline donustur — TensorFlow GAN, hizli foto animasyon | [link](https://github.com/TachibanaYoshino/AnimeGAN) |
 | 30 | **Toonflow-app** | 9100 | Roman/senaryodan animasyon kisa film — AI senaryo+storyboard+karakter+video, cross-platform masaustu | [link](https://github.com/HBAI-Ltd/Toonflow-app) |
 | 31 | **Open-Sora** | 22500 | Herkes icin acik kaynak yuksek kaliteli video uretimi — Open-Sora 2.0 (11B), 200K dolara egitildi | [link](https://github.com/hpcaitech/Open-Sora) |
+| 32 | **claude-youtube** | 757 | Claude Code skill seti: kanal denetimi, video SEO skoru, izlenme kaybı analizi, thumbnail A/B test, 100k-sub yol haritası — `~/.claude/skills/` a kopyala yeter | [link](https://github.com/AgriciDaniel/claude-youtube) |
+| 33 | **youtube-skills** | 1199 | AI agent için YouTube Transcript API skill seti — transkript çekme, video arama, kanal tarama; SciBreak/GrimFiles script araştırma otomasyonuna doğrudan entegre | [link](https://github.com/ZeroPointRepo/youtube-skills) |
+| 34 | **cinecode** | 2297 | Tek cümle prompt → 8dk belgesel MP4 — 3D sahne, animasyon, harita, kinetik metin, ses efekti, FFmpeg montaj; Claude Code skill, lokal `~/Projects/tools/cinecode/` kurulu | [link](https://github.com/sarpstar/cinecode) |
 | 32 | **CogVideo** | 12600 | Metin ve goruntuden video uretimi — CogVideoX 2024, 6-10 saniye yuksek cozunurluk | [link](https://github.com/zai-org/CogVideo) |
 | 33 | **AnimateDiff** | 10200 | Stable Diffusion goruntusunu animasyona cevir — Motion LoRA, ControlNet destekli | [link](https://github.com/guoyww/AnimateDiff) |
 | 34 | **animate-anything** | 3200 | Alibaba acik domain goruntu animasyonu — hareket yonlendirmeli, karikatür stil video SR | [link](https://github.com/alibaba/animate-anything) |
