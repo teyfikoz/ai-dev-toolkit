@@ -38,3 +38,7 @@ Deployment değişikliği yok. NotebookLM için bu rehber kaynak olarak hazır; 
 Kullanıcının izin ayarı sonrasında sandbox dışında MCP testi başarılı: safari_doctor **5/6**, Apple Events/Automation OK, native helper ve Accessibility kontrolü başarılı. `safari_new_tab` ile https://example.com/ yeni sekmede açıldı; `safari_read_page` başlığı **Example Domain** ve sayfa metnini döndürdü. Safari üzerinde JavaScript/DOM okuma canlı doğrulandı.
 
 Screen Recording izni eksik; ekran görüntüsü/PDF doğrulanmadı. Safari eklentisi bağlı değil, çalışan yol AppleScript. Her istemcinin kendi macOS izin zinciri ayrıca sorulabilir; tüm istemcilerin arayüzleri tek tek canlı denenmedi. Sandbox içindeki süreç kontrolü yanlış şekilde Safari çalışmıyor sonucu verdi; sandbox dışı test gerçek durumu doğruladı.
+
+## Ekran kaydı doğrulaması — 12 Kasım 2026
+
+Kullanıcı Terminal ekran kaydı iznini açtı. Safari doctor 6/6; aynı MCP SDK oturumunda example.com açıldı ve safari_screenshot 800 px JPEG görüntü döndürdü (59.288 base64 karakter). Ekran görüntüsü canlı doğrulandı. Safari extension hâlâ opsiyonel ve bağlı değil.

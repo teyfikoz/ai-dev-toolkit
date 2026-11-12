@@ -47,6 +47,8 @@ Latest evidence review: [11 November 2026 — Safari MCP source and release revi
 
 ## Guides
 
+- [Claude koordinasyonu, çok modelli geliştirme ve Safari](guides/claude-multi-model-safari.md)
+
 Detaylı rehberler için [`guides/`](guides/) klasörüne bakın.
 
 ---
