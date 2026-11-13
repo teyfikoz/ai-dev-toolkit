@@ -49,3 +49,8 @@ AI Agent'ı Figma ile konuşturan MCP — tasarım → kod. Synaptiq Studio UI g
 ## Kasım 2026 — Native UI Framework
 
 - [rune](https://github.com/anomalyco/rune) — Rust ile native GPU-rendered cross-platform UI framework (macOS/Win/Linux/web): kendi renderer, text, layout, spring animasyonu. Headless mode (PNG render + element tree dump + scripted input) → agent automation için tasarlandı. ⭐3,700 · **Kullanım:** ScreenMesh/TefoBrowser native UI katmanı; Synaptiq Studio desktop shell; agent-headless test pipeline (Playwright alternatifi desktop app'ler için).
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [axe-core](https://github.com/dequelabs/axe-core) — Otomatik web erişilebilirlik (a11y) test motoru. ⭐7815 · **Kullanım:** RoboCheckIn güvenlik taramasına a11y raporu; KredimPlus/B2BLife WCAG kontrolü

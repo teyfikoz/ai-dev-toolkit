@@ -92,3 +92,8 @@ WiFi ağlarını tarayıp gizli kamera ve gözetim cihazlarını tespit eder (ot
 - [trivy](https://github.com/aquasecurity/trivy) — Kapsamlı güvenlik açığı tarayıcısı; konteyner, Kubernetes, IaC, bağımlılık, gizli bilgi tarama. ⭐39083 · **Kullanım:** Hetzner konteyner/bağımlılık denetimi; npm paket güvenlik kontrolü (RoboCheckIn, TSA).
 - [strix](https://github.com/usestrix/strix) — AI destekli penetrasyon testi asistanı; otomatik exploit bulma ve raporlama. ⭐— · **Kullanım:** YETKİLİ hedeflerde güvenlik testi; kendi Hetzner altyapısının yıllık denetimi.
 - [openvas-scanner](https://github.com/greenbone/openvas-scanner) — OpenVAS açık kaynak güvenlik açığı tarayıcısı; ağ hizmetleri ve servisler için CVE tespiti. ⭐4924 · **Kullanım:** Hetzner 46.62.164.198 ve tüm Paddle/prod servisleri için düzenli güvenlik açığı taraması.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [sherlock](https://github.com/sherlock-project/sherlock) — Kullanıcı adının sosyal ağlarda varlığını tarar (OSINT). ⭐111014 · **Kullanım:** Yalnız kendi marka adlarımızın (Enuma, LayoverKit, ScuPlan) handle müsaitliği; üçüncü kişileri profilleme YASAK (KVKK)

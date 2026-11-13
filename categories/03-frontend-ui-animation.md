@@ -70,3 +70,8 @@ ThreeJS + WebGL interaktif 3D UI bileşen kataloğu. React entegrasyonu, shader 
 **Repo:** [cosscom/ui](https://github.com/cosscom/ui) | ★10795
 Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüphanesi; date picker, modal, form elemanları.
 - **Kullanım:** TSA, RoboCheckIn, KredimPlus ön yüz bileşen standardizasyonu; Cal.com quality-tested, production-ready.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [astryx](https://github.com/meta/astryx) — Tamamen özelleştirilebilir, ajan-uyumlu açık kaynak tasarım sistemi. ⭐27297 · **Kullanım:** TSA/B2BLife yeni ekranlar için ajanla tutarlı UI

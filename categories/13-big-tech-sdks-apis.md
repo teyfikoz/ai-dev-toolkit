@@ -49,3 +49,8 @@ xAI'ın resmi Grok uygulama geliştirme araç takımı — Grok Bot kurulumu, mu
 - **Ne yapar?** Claude/Cursor/VS Code üzerinden LinkedIn hesabını programatik kontrol eder. Gönderi paylaşma, profil bilgisi çekme, B2B büyüme otomasyonu.
 - **Gerekli:** LINKED_API_TOKEN + IDENTIFICATION_TOKEN (LinkedIn hesabına özgü)
 - **Kullanım:** B2BLife ve TechSyncAnalytica için LinkedIn lead generation; cold outreach otomasyonu; haftalık şirket analiz paylaşımı. OCC paneline LinkedIn metrik entegrasyonu.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [apps-sdk-ui](https://github.com/openai/apps-sdk-ui) — ChatGPT Apps SDK için UI bileşen kütüphanesi. ⭐992 · **Kullanım:** B2BLife/RoboCheckIn ChatGPT uygulaması olarak yayın denemesi

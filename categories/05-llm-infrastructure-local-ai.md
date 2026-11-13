@@ -284,3 +284,15 @@ Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük b
 - **DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic** (HuggingFace: xtools-at) — Qwen3.5-9B tabanlı decensored model; matematik/STEM ağırlıklı (GSM8K %94.5, MMLU-Pro %90.5). BF16, Apache 2.0. %36 daha az token/doğru cevap. · **Kullanım:** GlobalKariyerim lokal LLM olarak (mevcut Ollama yerine); Hetzner üzerinde hafif inference; matematik ağırlıklı TechSyncAnalytica analiz görevleri.
 - **kanana-2-v-decide-3b-2611** (HuggingFace: kakaocorp) — Kakao'nun 3.67B multimodal karar modeli: seçenek listesinden seç / evet-hayır / derecelendirme; metin değil olasılık dağılımı döndürür. 20K token context, 10 görsel, Türkçe+İngilizce. KananaOpenLicense. · **Kullanım:** B2BLife şirket puanlama (çoklu seçenek skorlaması); TechSyncAnalytica DecisionSense arka planı; RoboCheckIn uyarı önceliklendirme; multimodal girdi için vision encoder.
 - **Nanbeige4.3-33B** (HuggingFace: Nanbeige) — Bilibili'nin 33B Llama tabanlı Çince+İngilizce chat modeli. Apache 2.0, BF16/GGUF, TGI + Azure deploy desteği. ★1,063 ❤️, 20K download. MMLU %88+, C-Eval %90+. · **Kullanım:** Hetzner üzerinde Çince müşteri segmenti için (B2BLife/TSA APAC genişlemesi); GlobalKariyerim Çince özgeçmiş analizi; mevcut Qwen3.8-27B'nin güçlü alternatifi — 33B daha iyi muhakeme.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [perplexica-search-engine-ai](https://github.com/BunsDev/perplexica-search-engine-ai) — Perplexity'nin açık kaynak alternatifi AI arama motoru. ⭐540 · **Kullanım:** Hetzner'de self-host + Evren/Qwen ile B2BLife araştırma ve SciBreak kaynak tarama
+- [locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) — Masaüstü lokal AI stüdyosu: sohbet, görsel/video üretimi ve kod ajanı (AGPL). ⭐4177 · **Kullanım:** Yalnız katalog; filtresiz modeller içerir, portföy ürünlerinde kullanılmaz
+
+### Hugging Face modelleri (13 Kasım 2026)
+
+- [adventists-ai/Sophon-Realtime-v1](https://huggingface.co/adventists-ai/Sophon-Realtime-v1) — Tam çift yönlü (full-duplex) konuşmadan konuşmaya ses ajanı modeli, duygu/paralinguistik ifade (Apache-2.0). · **Kullanım:** LayoverKit sesli asistan ve TheMrOzz etkileşimli ses denemesi adayı
+- [kakaocorp/kanana-2-v-decide-3b-2611](https://huggingface.co/kakaocorp/kanana-2-v-decide-3b-2611) — 3B çok modlu karar modeli: görsel+metin üzerinde seçim/evet-hayır kararı. · **Kullanım:** Evren 'clef' benzeri; ScreenMesh kamera olay sınıflandırma (lokal)
+- [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) — Güvenlik filtresi kaldırılmış DeepSeek-V4-Pro→Qwen3.5-9B damıtma modeli. · **Kullanım:** Yalnız katalog — filtresiz; mağaza/KVKK riski nedeniyle portföyde kullanılmaz

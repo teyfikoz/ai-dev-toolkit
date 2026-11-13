@@ -127,3 +127,9 @@ Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon 
 - **Stars:** 241 (2026-11-11)
 - **Açıklama:** Node.js ve AppleScript/JavaScript ile Safari otomasyonu; 98 araç beyanı, mevcut oturumlar ve isteğe bağlı eklenti/HTTP.
 - **Değerlendirme:** Safari 26 için pilot adayı; sürüm sabitle, Apple Events izinlerini sınırla. SECURITY.md yerellik iddiaları eksik; model sağlayıcısına çıktı aktarımı dikkate alınmalı.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [UI-Mate](https://github.com/Tencent/UI-Mate) — Gösterimden öğrenen GUI ajanı: fare/klavye/ekran kaydını adımlara çevirir, ajan referans alır. ⭐134 · **Kullanım:** Safari'de tekrar eden Play Console/ASC işlerini bir kez gösterip ajana öğretme adayı
+- [stagehand](https://github.com/browserbase/stagehand) — Web'den veri çekme ve etkileşim SDK'sı; Claude Code/Codex ile çalışır. ⭐26032 · **Kullanım:** B2BLife şirket tarama; Chromium tabanlı — Safari kuralı nedeniyle mağaza panellerinde kullanılmaz

@@ -78,3 +78,11 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 
 - [blender-kiln](https://github.com/elithril/blender-kiln) — Fotoğraftan Blender 3D model (Claude Code + Blender MCP): photo-to-3D, animasyon rigging, 3D baskı (FDM/resin), GLB/FBX/USDZ/STL çıktı. ⭐175 → 06-content ile çapraz ref.
 - [polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 3,000+ low-poly 3D model (CC BY 4.0, ticari): GLB/MJS, three.js uyumlu, `npx polyfork` CLI. ⭐303 → How2TakeOff three.js 3D kampüs varlıkları.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [blender](https://github.com/blender/blender) — Blender resmi aynası — açık kaynak 3D modelleme, animasyon, render. ⭐21952 · **Kullanım:** blender-kiln ve cinecode ile GrimFiles/SciBreak 3D sahneleri
+- [67.js](https://github.com/codepawl/67.js) — AI ajanlarının sürdüğü 3D motoru (JS). ⭐610 · **Kullanım:** Stickman/What If Lab kanalları için ajanla 3D sahne üretimi denemesi
+- [ohmygame](https://github.com/WhiteTowerAI/ohmygame) — AI ile oyun yapmak için açık kaynak tek kişilik oyun stüdyosu (kendi API anahtarın). ⭐2190 · **Kullanım:** Evren/Groq anahtarıyla hızlı mini oyun prototipleri; Selfix içi mini oyun fikri
+- [exact](https://github.com/expo/exact) — Tek kod tabanı web/macOS/iOS/Linux'ta native çalışır; AI ajanı her platformda derleyip test edebilir. ⭐3876 · **Kullanım:** LayoverKit (Expo) için izlenecek; erken aşama, üretime alınmaz

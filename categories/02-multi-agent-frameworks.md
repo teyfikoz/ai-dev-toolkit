@@ -256,3 +256,8 @@ RTX 3090 üzerinde yerelde Jev çalıştırma — açık kaynak Jev alternatifi.
 ## Kasım 2026 — Chat-Tabanlı Multi-Agent UI
 
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Grok Bot açık kaynak alternatifi: her sidebar kişisi gerçek bir AI agent (Claude/Codex), kendi VM'i ve bağlı uygulamalarıyla. Electron (Mac/Win/Linux) + Expo mobil. Self-hosted, local-first, TypeScript + React 19. ⭐17,964 · **Kullanım:** (1) **TechSyncAnalytica**: 14 AI agent (DecisionSense, StrategyLab, FeedbackRadar) chat-contact olarak wrap'lenebilir — kullanıcı "ajana mesaj atar" arayüzü; (2) **B2BLife**: şirket araştırma botu olarak; (3) **Astra Trading**: trade raporu + komut arayüzü; (4) Backlog'daki Telegram/Discord bot görevinin çok daha iyi alternatifi.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [LoopForge](https://github.com/Tencent/LoopForge) — Kod ajanı teslimatı için self-hosted iş akışları: Claude Code/Codex/CodeBuddy'yi script ve insan onay kapılarıyla yönetir. ⭐665 · **Kullanım:** Claude koordinatör + Codex uygulayıcı modeline onay kapılı SOP; model_router ile uyumlu

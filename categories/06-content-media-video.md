@@ -619,3 +619,10 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 ## Kasım 2026 — Nyxera Sinematik 3D Metodu (Claude Code Skill)
 
 - **Nyxera 3D Simulator Skill** — Tek fotoğraftan three.js'te 3D mekanik robot/nesne: "iş tanımı" dosyası + checklist loop + pixel density ölçümü + JSON koreografi scriptinden film render. Adımlar: (1) ChatGPT'den referans görsel, (2) job description dosyası, (3) objeye özel checklist, (4) still loop+grading, (5) pixel density ölçümü (dark_px/total_px ≥ 0.80 ref), (6) onaylanmış koreografiden film port, (7) 21sn tam + 10sn kısa script, (8) ffmpeg H.264 render. · **Kullanım:** How2TakeOff: 3D uçak/motor exploder; Ariabella: mekanik karakter tanıtım filmi; cinecode ile ortak kullanım. NOT: Opus 5.5 gerektirir, paralel değil tek agent per build.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [music-skill](https://github.com/owoevan-dev/music-skill) — Agent skill: özgün enstrümantal müziği düzenlenebilir nota olarak yazar, CC0/serbest örneklenmiş enstrümanlar ve synth ile çalar, miksler ve masterlar (MIDI + stem çıktısı). ⭐199 · **Kullanım:** Suno kredisi yokken GelenKutuphane/MindFlowMusica/Ariabella enstrümantal parçalarına lisans-temiz alternatif — 13 Kas'ta denendi
+- [openfilm](https://github.com/openfilm/openfilm) — Açık kaynak AI video ajanı: kod ajanını video ajanına çevirir, üretilen her şeyi değiştirebileceğin editörle. ⭐6413 · **Kullanım:** GrimFilesTV + SciBreak belgesel kurgusu için cinecode'a alternatif/tamamlayıcı
+- [DataMagic](https://github.com/HKUSTDial/DataMagic) — Tablodan anlatımlı animasyonlu veri hikâyesi videosu üretir. ⭐418 · **Kullanım:** SciBreak veri videoları; StockPulse/KredimPlus tanıtım videoları (faiz/stok tablosu → video)

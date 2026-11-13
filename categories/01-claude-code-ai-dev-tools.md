@@ -426,3 +426,9 @@ Claude kullanım izleme — token tüketimi ve maliyet analizi.
 - [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) — Claude Code/Codex/Copilot CLI için token tasarruf plugin: micro-skills (repo'ya özgü bilgi), tool pruning (kullanılmayan araçları kaldır), failure-loop intervention. %18-30 maliyet azaltır. Kuruldu: `claude plugin marketplace add`. ⭐— · **Kullanım:** TÜM projeler — her Claude Code oturumunda otomatik çalışır.
 - [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — LLM yanıtlarını direkt HTML artifact olarak üretir; markdown yerine interaktif görsel çıktı. ⭐— · **Kullanım:** OCC dashboard raporları ve KredimPlus makale önizlemesi için AI çıktı formatlama.
 - [effective-html](https://github.com/plannotator/effective-html) — Claude Code için agent skill koleksiyonu: kullanılabilir HTML artifact'lar, wireframe, interaktif prototip, plan ve diyagram üretimi. MIT ⭐3918 · **Kullanım:** OCC / handoff dashboard gibi araç sayfaları, B2BLife/RoboCheckIn feature wireframe'leri, TechSyncAnalytica raporları. `~/.claude/skills/` altına kurulabilir.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Kod ajanını güncel web best practice'leriyle besleyen rehber/skill paketi. ⭐10434 · **Kullanım:** Claude Code/Codex ile web projelerinde (KredimPlus, TSA, B2BLife frontend) kalite kapısı
+- [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — Agent skill'lerini kalite kapıları, örtüşme tespiti, sentetik veri ve canlı ajan testiyle değerlendirme çerçevesi. ⭐1092 · **Kullanım:** ~/.claude/skills altındaki skill'lerin (cinecode, portfolio-operator) kalite denetimi

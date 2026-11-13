@@ -68,3 +68,9 @@
 - [VibeVoice](https://github.com/microsoft/VibeVoice) — Microsoft açık kaynak frontier voice AI; real-time konuşma, düşük gecikme, çok dil. ⭐56524 · **Kullanım:** TSA müşteri destek bot seslendirme; B2BLife raporlama ses özeti.
 - [ScrumSurvivor](https://github.com/heiner-palmen/ScrumSurvivor) — Meeting için AI avatar + lip-sync; gerçekçi dudak hareketi, webcam overlay. ⭐19 · **Kullanım:** ScreenMesh'e "meeting avatar" cihaz tipi ekleme; Ariabella için gerçekçi AI presenter.
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) — ECCV 2026 En İyi Makale — Geometric Context Transformer; sokak görüntüsünden 3D mekansal harita çıkarma. ⭐18569 · **Kullanım:** ScreenMesh'in coğrafi konumlama doğruluğunu artırmak için sokak seviyesi mekansal bağlam; RuView ile birlikte WiFi+vision fusion.
+
+
+## 13 Kasım 2026 — Safari sekmelerinden eklenenler
+
+- [ProMatte](https://github.com/scornik/ProMatte) — OBS için çevrimdışı gerçek zamanlı AI arka plan kaldırma/bulanıklaştırma (GPU, CPU yedekli). ⭐15 · **Kullanım:** TheMrOzz kayıtlarında yeşil perde olmadan arka plan; tamamen lokal (KVKK dostu)
+- [ooosplat](https://github.com/ooolabdev/ooosplat) — Video/fotoğrafları tek tıkla 3D Gaussian Splat'e çeviren lokal masaüstü uygulaması. ⭐2505 · **Kullanım:** ScuPlan dalış noktaları ve Bir Yudum Dünya mekânları için 3D sahne; How2TakeOff kampüs
