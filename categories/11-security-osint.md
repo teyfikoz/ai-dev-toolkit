@@ -61,8 +61,8 @@ Cloudflare çok aşamalı güvenlik denetimi — bağımsız doğrulama, 10K★ 
 
 ## privacy-scanner
 **Repo:** [maluta/privacy-scanner](https://github.com/maluta/privacy-scanner)
-Mobil uygulama ve web servisleri için gizlilik/takip SDK tarayıcısı. Uygulamalardaki tracker, telemetri ve 3. taraf gizlilik ihlallerini statik/dinamik analiz ile tespit eder.
-**Kullanım:** SmartBlock (kendi privacy-first özellik testleri), ScreenMesh (cihaz üzerindeki 3. taraf SDK tespiti), RoboCheckIn (güvenlik tarama modülüne entegrasyon). KVKK/GDPR uyumluluk doğrulaması için — kendi uygulamaları ve yetkili test hedefleri. Ticari ürün tarama DEĞİL.
+WiFi ağlarını tarayıp gizli kamera ve gözetim cihazlarını tespit eder (otel/kiralık ev gizlilik kontrolü). Uygulama tracker/SDK tarayıcısı DEĞİL.
+**Kullanım:** ScreenMesh'e "yakındaki gözetim cihazı" sensör tipi için referans (yj_nearbyglasses ile birlikte); SmartBlock'a doğrudan uymaz. Yalnız kendi/izinli ağlarda kullanılır.
 - [BruteForceAI](https://github.com/MorDavid/BruteForceAI) — AI destekli brute-force/giriş testi aracı. ⭐1852 · **Kullanım:** YALNIZ kendi sistemlerinde yetkili pentest; üçüncü taraf hedef YASAK.
 - [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) — Cloudflare üzerinde geçici e-posta servisi. ⭐11964 · **Kullanım:** Test hesapları; gerçek kullanıcı PII ile karıştırma, KVKK.
 
