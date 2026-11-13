@@ -1,5 +1,10 @@
 # Quant & Algo Trading
 
+## Claude Trading Skills (13 Kas 2026 — Astra audit referansları)
+
+- [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — 60+ Claude Code trading skill'i: market-regime (breadth, FTD, distribution day), trade-planning (**Drawdown Circuit Breaker**, **Pre-Trade Discipline Gate**, Position Sizer), trade-memory (**Trader Memory Core**, Signal Postmortem, **Weekly Performance Digest**, Trade Performance Coach), strategy-research (Backtest Expert, **Edge Strategy Reviewer** — overfitting/sample-size kritiği, Residual Edge Analyzer). Workflow'lar YAML manifest; hepsi insan onay kapılı, otomatik emir yok. **Kullanım:** Astra `astra_daily_digest.py` (Weekly Performance Digest), replay kritiği (Edge Strategy Reviewer), konsey prompt tasarımı.
+- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 11 skill'lik sıralı day-trading iş akışı: Scanner → News → Entry Timer → Exit Planner (stop+hedef girişten önce) → Time Machine (10K senaryo + tarihsel replay: "target first %29 / stop first %26 / open %45") → Budget → Risk → Broker → Alerts. Kural: "No trade goes through until you say yes"; pozisyon = max kayıp ÷ stop mesafesi. **Kullanım:** Astra giriş öncesi R-bazlı boyutlama ve Time Machine tarzı senaryo tablosu (gölge masası çıkış kanıtı).
+
 | # | Repo | Stars | Ne İşe Yarar? | GitHub |
 |---|------|-------|--------------|--------|
 | 1 | **freqtrade** | 50,000 | Kripto trading botu — 300+ strateji, Telegram botu, backtesting, web UI, Docker. OKX/Binance/Bybit entegrasyonu. | [link](https://github.com/freqtrade/freqtrade) |
