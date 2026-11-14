@@ -623,6 +623,6 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 
 ## 13 Kasım 2026 — Safari sekmelerinden eklenenler
 
-- [music-skill](https://github.com/owoevan-dev/music-skill) — Agent skill: özgün enstrümantal müziği düzenlenebilir nota olarak yazar, CC0/serbest örneklenmiş enstrümanlar ve synth ile çalar, miksler ve masterlar (MIDI + stem çıktısı). ⭐199 · **Kullanım:** Suno kredisi yokken GelenKutuphane/MindFlowMusica/Ariabella enstrümantal parçalarına lisans-temiz alternatif — 13 Kas'ta denendi
+- [music-skill](https://github.com/owoevan-dev/music-skill) — Agent skill: özgün enstrümantal müziği düzenlenebilir nota olarak yazar, CC0/serbest örneklenmiş enstrümanlar ve synth ile çalar, miksler ve masterlar (MIDI + stem çıktısı). ⭐199 · **Kullanım:** Suno kredisi yokken GelenKutuphane/MindFlowMusica/Ariabella enstrümantal parçalarına lisans-temiz alternatif — henüz denenmedi (kurulum ~3,7 GB)
 - [openfilm](https://github.com/openfilm/openfilm) — Açık kaynak AI video ajanı: kod ajanını video ajanına çevirir, üretilen her şeyi değiştirebileceğin editörle. ⭐6413 · **Kullanım:** GrimFilesTV + SciBreak belgesel kurgusu için cinecode'a alternatif/tamamlayıcı
 - [DataMagic](https://github.com/HKUSTDial/DataMagic) — Tablodan anlatımlı animasyonlu veri hikâyesi videosu üretir. ⭐418 · **Kullanım:** SciBreak veri videoları; StockPulse/KredimPlus tanıtım videoları (faiz/stok tablosu → video)
