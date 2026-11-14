@@ -75,3 +75,8 @@ Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüpha
 ## 13 Kasım 2026 — Safari sekmelerinden eklenenler
 
 - [astryx](https://github.com/meta/astryx) — Tamamen özelleştirilebilir, ajan-uyumlu açık kaynak tasarım sistemi. ⭐27297 · **Kullanım:** TSA/B2BLife yeni ekranlar için ajanla tutarlı UI
+
+## 14 Kasım 2026 — tasarım bileşen kütüphaneleri
+
+- [cult-ui](https://github.com/nolly-studio/cult-ui) — 150+ ücretsiz shadcn/ui animasyonlu bileşen (Tailwind + Motion, MIT). ⭐7298 · **Kullanım:** React/Capacitor uygulamalarının (Selfix, SmartBlock, KredimPlus, TSA, B2BLife frontend) arayüz kalitesini yükseltme; NativeScript/React Native'e UYMAZ. Selfix tema sistemiyle birlikte.
+- [magic-mcp (21st MCP)](https://github.com/21st-dev/magic-mcp) — Claude Code/Cursor içinden 10.000+ React/Tailwind bileşeni arama + AI ile yeni UI üretme MCP sunucusu. ⭐6504 · **Kullanım:** Yeni ekran/bileşen iskeleti üretimi (Selfix/SmartBlock/web SaaS). 21st.dev API anahtarı gerekir (ENV); kurulum 21st.dev/mcp.
