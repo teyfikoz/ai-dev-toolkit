@@ -1,5 +1,14 @@
 # AI Dev Toolkit — Curated GitHub Repos & Claude Code Skills
 
+## 15 Kasım 2026 — How2TakeOff havacılık araştırması
+
+44 eksik repo eklendi, 15 mevcut kayıt yinelenmedi. 59 doğrulanmış repo; hatalı NestJS adresi ve kanonik yönlendirmeler raporlandı. Arşivlenmiş MinIO yalnız referans olarak işaretlendi.
+
+- [Yeni havacılık/veri/eğitim adayları](categories/23-aviation-data-training.md)
+- [Lisans, API hakları ve uygulama sırası](guides/how2takeoff-aviation-integration-plan.md)
+- [Tarihli GitHub metadata kanıtı](reports/2026-11-15-aviation-repo-intake.json)
+
+
 > **1170+ hand-picked repositories** for AI-powered software development.
 > Organised, analysed, and battle-tested across real production projects.
 
