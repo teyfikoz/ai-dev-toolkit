@@ -1,5 +1,13 @@
 # AI Dev Toolkit — Curated GitHub Repos & Claude Code Skills
 
+## 15 Kasım 2026 — Gizlilik, SmartBlock ve Safari repo kaydı
+
+102 benzersiz GitHub reposu API ile doğrulandı; Excel’e iki geçişte 80 yeni kayıt eklendi. 6 eski/erişilemeyen adres ve GitHub dışı kaynaklar ayrıca kaydedildi. Entegrasyonlar kurulduğu anlamına gelmez.
+
+- [Repo–uygulama kullanım tablosu](guides/privacy-and-safari-repo-matrix-20261115.md)
+- [GitHub metadata ve durum kanıtı](reports/2026-11-15-privacy-intake.json)
+- [Güncellenmiş Excel](data/AI_Dev_Toolkit_All_Repos.xlsx)
+
 ## 15 Kasım 2026 — How2TakeOff havacılık araştırması
 
 44 eksik repo eklendi, 15 mevcut kayıt yinelenmedi. 59 doğrulanmış repo; hatalı NestJS adresi ve kanonik yönlendirmeler raporlandı. Arşivlenmiş MinIO yalnız referans olarak işaretlendi.
