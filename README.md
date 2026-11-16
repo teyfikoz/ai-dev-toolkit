@@ -1,5 +1,13 @@
 # AI Dev Toolkit — Curated GitHub Repos & Claude Code Skills
 
+## 16 Kasım 2026 — Safari ve yeni SmartBlock kaynakları
+
+54 Safari adresi ve son iletilen kaynaklar değerlendirildi: 57 GitHub reposu doğrulandı, Excel’e 4 yeni kayıt eklendi; 53 mevcut kayıt yinelenmedi. Bir repo adresi çözümlenemedi. Briar’ın resmî F-Droid parmak izi ayrıca kaydedildi. Bu kayıt, yazılımların kurulduğu veya ürünlere entegre edildiği anlamına gelmez.
+
+- [Lisans, bakım durumu ve repo–uygulama tablosu](guides/safari-and-smartblock-repo-matrix-20261116.md)
+- [Doğrulama ve Excel kayıt raporu](reports/2026-11-16-safari-intake.json)
+- [Güncel Excel — 1267 veri satırı](data/AI_Dev_Toolkit_All_Repos.xlsx)
+
 ## 15 Kasım 2026 — Gizlilik, SmartBlock ve Safari repo kaydı
 
 102 benzersiz GitHub reposu API ile doğrulandı; Excel’e iki geçişte 80 yeni kayıt eklendi. 6 eski/erişilemeyen adres ve GitHub dışı kaynaklar ayrıca kaydedildi. Entegrasyonlar kurulduğu anlamına gelmez.
