@@ -31,3 +31,7 @@
 - EvrenAPI, Mantis, ShopClass ve belli sağlayıcı belirtilmeyen global kuruluşAPIleri için kesin karşılık uydurulmadı.
 
 API defterindeki HTTP403/timeout, kaynağın kesin kapandığı anlamına gelmez. HTTP200 de lisans, güvenlik veya üretime hazır entegrasyon garantisi değildir.
+
+## Son iletilen OpenAI Agents Python SDK — 17 Kasım
+
+Mevcut katalog kaydı güncellendi; duplicate satır eklenmedi. MIT, aktif; 30.735 yıldız GitHub API anlık doğrulaması. B2BLife/TSA Python iş akışları ve SciBreak taslak/QA için aday. LayOverKit mobil uygulamasına ek runtime bağımlılığı getirmeden ancak ihtiyaç varsa sunucu worker katmanında değerlendirilir. HomeLab'a bağlanmaz. Model maliyeti ve tracing yoluyla hassas veri aktarımı için ayrı doğrulama gerekir. Kurulum/entegrasyon yapılmadı.

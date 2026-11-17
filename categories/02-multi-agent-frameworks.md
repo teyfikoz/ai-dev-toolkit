@@ -101,11 +101,12 @@ Agent-ready 80+ DevOps/güvenlik beceri seti — Kubernetes, Terraform, AWS/Azur
 - **Kullanım:** Synapse SkillStore'a DevOps domain becerileri eklemek için
 
 ### openai-agents-python
-OpenAI'dan hafif, güçlü çoklu ajan iş akışı framework'ü. Agent loop, tool use, guardrails, handoffs desteği.
-- **Stars:** 29,000 | **Language:** Python
-- **Tags:** agents, multi-agent, openai, orchestration, guardrails
+OpenAI Agents SDK: Python ajan akışları, araçlar, handoff, guardrail ve oturum yönetimi.
+- **Stars:** 30,735 | **Language:** Python | **License:** MIT
 - **GitHub:** https://github.com/openai/openai-agents-python
-- **Kullanım:** Synaptiq Studio, TSA — ajan orkestrasyon referansı
+- **Doğrulama:** 2026-11-17; GitHub API pushed_at 2026-11-17T14:29:48Z, archived=false. Yıldız sayısı anlıktır.
+- **Kullanım:** B2BLife/TSA Python ajanları ve SciBreak araştırma/taslak QA için değerlendirme adayı. LayOverKit'in mobil çekirdeği için zorunlu değildir.
+- **Sınır:** SDK lisansı model/API kullanımını ücretsiz yapmaz. Sağlayıcı uyumu, trace kapsamı ve PII aktarımı ayrıca sınanır; HomeLab'ın cihaz içi sağlık akışına bağlanmaz. Henüz kurulmadı veya üretime entegre edilmedi.
 
 ### omnigent
 Claude Code, Codex, Cursor ve özel ajanları politika uygulamasıyla orkestre eden meta-araç.
