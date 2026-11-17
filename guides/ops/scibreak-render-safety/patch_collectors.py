@@ -15,6 +15,7 @@ def insert_guard(source,name,body):
 
 
 def patch(source,name):
+ original_source = source
  if 'from scibreak_disk_budget import' in source:raise ValueError('Already patched')
  source=source.replace('from pathlib import Path','from pathlib import Path\nfrom scibreak_disk_budget import collection_allowed, single_collector',1)
  if name=='scibreak_monitor.py':
@@ -40,7 +41,10 @@ def patch(source,name):
         f"  TS=$(date -u +%Y%m%d_%H%M%S)\\n"''',1)
   source=source.replace('f"  ffmpeg -y -i', 'f"  timeout 20 ffmpeg -nostdin -y -i',1)
   # Verify broadcast and fallback functions were not changed by this patch.
-  original={n.name:ast.dump(n) for n in ast.parse(source).body if isinstance(n,ast.FunctionDef)}
+  before={n.name:ast.dump(n) for n in ast.parse(original_source).body if isinstance(n,ast.FunctionDef)}
+  after={n.name:ast.dump(n) for n in ast.parse(source).body if isinstance(n,ast.FunctionDef)}
+  for function in ('stream_hls_to_rtmp', '_stream_fallback_card', 'stream_category', 'main_stream'):
+   assert before[function] == after[function], 'Broadcast function changed: ' + function
  else:raise ValueError(name)
  ast.parse(source)
  return source
