@@ -1,5 +1,17 @@
 # AI Dev Toolkit — Curated GitHub Repos & Claude Code Skills
 
+## 17 Kasım 2026 — Büyük portföy kaynak listesinin kaydı
+
+247 somut kullanıcı adresi ve adıyla anılmış kaynaklar için 318 repo adayı kontrol edildi. 299 kanonik GitHub reposu doğrulandı; bu alımda Excel’e toplam 191 yeni kayıt eklendi. Excel 1458 veri satırına ulaştı. 19 doğrulanamayan tam adres, 117 ad/platform etiketi ve 44 API/belge kaynağı ayrı durumlarıyla saklandı. Bunlar kurulum veya entegrasyon tamamlandı anlamına gelmez.
+
+- [Uygulama başına karar tablosu](guides/portfolio-source-decisions-20261117.md)
+- [Repo/lisans/faaliyet matrisi](guides/portfolio-source-matrix-20261116.md)
+- [Adı verilmiş kaynakların durumları](guides/named-resource-status-20261117.md)
+- [API ve GitHub dışı kaynak defteri](guides/api-and-non-github-source-registry-20261116.md)
+- [Tarihli doğrulama ve Excel koruma raporu](reports/2026-11-16-portfolio-backlog-intake.json)
+
+Supabase kullanılmaz; HomeLab verisi cihaz içi localStorage’da kalır. Ticari API/medya/model lisansı, repo lisansından ayrı değerlendirilir. Güvenlik araçları ve güvenilmeyen istem koleksiyonları kurulmadı veya çalıştırılmadı.
+
 ## 16 Kasım 2026 — Safari ve yeni SmartBlock kaynakları
 
 54 Safari adresi ve son iletilen kaynaklar değerlendirildi: 57 GitHub reposu doğrulandı, Excel’e 4 yeni kayıt eklendi; 53 mevcut kayıt yinelenmedi. Bir repo adresi çözümlenemedi. Briar’ın resmî F-Droid parmak izi ayrıca kaydedildi. Bu kayıt, yazılımların kurulduğu veya ürünlere entegre edildiği anlamına gelmez.
