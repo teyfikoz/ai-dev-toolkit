@@ -86,3 +86,7 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 - [67.js](https://github.com/codepawl/67.js) — AI ajanlarının sürdüğü 3D motoru (JS). ⭐610 · **Kullanım:** Stickman/What If Lab kanalları için ajanla 3D sahne üretimi denemesi
 - [ohmygame](https://github.com/WhiteTowerAI/ohmygame) — AI ile oyun yapmak için açık kaynak tek kişilik oyun stüdyosu (kendi API anahtarın). ⭐2190 · **Kullanım:** Evren/Groq anahtarıyla hızlı mini oyun prototipleri; Selfix içi mini oyun fikri
 - [exact](https://github.com/expo/exact) — Tek kod tabanı web/macOS/iOS/Linux'ta native çalışır; AI ajanı her platformda derleyip test edebilir. ⭐3876 · **Kullanım:** LayoverKit (Expo) için izlenecek; erken aşama, üretime alınmaz
+
+## 18 Kasım 2026 — Android test otomasyonu
+
+- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) — ADB üzerinden Android test emülatörüne Unicode metin girişi sağlayan klavye. GitHub API anlık yıldız sayısı1992; son push2026-08-09, arşivlenmemiş. **Lisans: GPL-2.0.** Selfix/LayOverKit gibi mobil uygulamaların yetkili UI testlerinde kullanılabilir; uygulama ürünü içine gömülmez. Klavyeye parola, API anahtarı veya başka sır girilmez. Android sürümü ile sürüm uyumu ve lisans koşulları her kullanımda ayrıca kontrol edilir.
