@@ -14,3 +14,6 @@ Used on a dedicated, authorised test emulator to publish your own accounts' Reel
 - Long-pressing Share publishes immediately. In some app builds the schedule option is missing even after switching to a Creator profile.
 - Music around 32–37 with narration at 100 stays audible; 19 was reported as inaudible.
 - An emulator with ~2.5 GB RAM triggers Instagram ANRs; force-stop and relaunch, nothing is lost before Share.
+
+## Autoposter (added 20 Nov 2026)
+`ig_autopost.py run` (cron every 10 min) executes due items from `queue.json`: account switch with verification, reels (catalogue music or original audio), stories (poll / link sticker / music, AI label), carousels (ordered multi-select, suggested music). Captions are trimmed to Instagram's 5-hashtag limit and verified after typing. ANR recovery, draft discard on failure, macOS notification after 3 failed attempts. `build_queue.py` generates items from a dated plan file.

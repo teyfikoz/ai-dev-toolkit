@@ -30,3 +30,7 @@ xAI'ın resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Grok
 - [booth](https://github.com/stepupgaming/booth) — Free, open-source text to speech for Windows. ZONOS3-Mini on your own NVIDIA GPU, with Claude support. ⭐23
 
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) — Create beautiful slides on the web using a coding agent's frontend skills ⭐32614
+
+- [day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. ⭐8774
+
+- [claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. ⭐47443

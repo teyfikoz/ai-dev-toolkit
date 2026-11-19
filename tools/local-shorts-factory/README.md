@@ -15,3 +15,8 @@ Produces vertical Shorts/Reels and 16:9 long-form videos entirely on a laptop, t
 - Shorts covers must be 9:16; verify the `shortsAspectRatio` CDN image, not the 16:9 proxy (`../youtube/shorts_thumbnail_readback.py`).
 
 Usage: `python3 selfix_viral.py --workers 4` then `python3 build_plan.py` then `python3 viral_queue.py` (dry run) / `--execute`.
+
+## Added 20 Nov 2026
+- `whatif_viral.py` + `whatif_content.py` — science "What if" Shorts: procedural space/physics illustrations, stat badges, karaoke captions; scripts fact-checked against public sources.
+- `promo.py` — app promo Short from real store screenshots in a phone frame, plus App Store / Google Play QR codes.
+- `translate_meta.py` — localizes YouTube titles/descriptions into 17 languages (free Groq tier); `viral_queue.py` applies them via `localizations` and verifies by read-back.
