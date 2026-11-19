@@ -1,5 +1,13 @@
 # AI Dev Toolkit — Curated GitHub Repos & Claude Code Skills
 
+## 19 Kasım 2026 — YouTube Shorts kapak doğrulaması
+
+Shorts için özgün 9:16 kapak kullanımı, işleme sonrası thumbnail API çağrısı ve gerçek `shortsAspectRatio` CDN görüntüsüyle yayın öncesi kontrol:
+
+- [Resmî kaynaklar ve yayın kuyruğu entegrasyonu](guides/youtube-shorts-portrait-thumbnail-verification.md)
+- [Salt okunur portre kapak doğrulayıcısı](tools/youtube/shorts_thumbnail_readback.py)
+- [Boş/yanlış oranlı kapağı reddeden testler](tools/youtube/test_shorts_thumbnail_readback.py)
+
 ## 17 Kasım 2026 — Büyük portföy kaynak listesinin kaydı
 
 247 somut kullanıcı adresi ve adıyla anılmış kaynaklar için 318 repo adayı kontrol edildi. 299 kanonik GitHub reposu doğrulandı; bu alımda Excel’e toplam 191 yeni kayıt eklendi. Excel 1458 veri satırına ulaştı. 19 doğrulanamayan tam adres, 117 ad/platform etiketi ve 44 API/belge kaynağı ayrı durumlarıyla saklandı. Bunlar kurulum veya entegrasyon tamamlandı anlamına gelmez.
