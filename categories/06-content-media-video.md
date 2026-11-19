@@ -634,3 +634,17 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Claude AI agent skill: Instagram etkileşimleri için hazır skill şablonu; takip/unfollow/yorum/hashtag araştırması. ⭐- · **Kullanım:** ig_auto_post.py caption üretiminde Claude entegrasyonu; @selfixxapp/@enumaapp engagement otomasyon deneme platformu
 - [InstagramOSINT](https://github.com/sc1341/InstagramOSINT) — Instagram açık kaynak istihbarat aracı: profil metadata, takipçi/takip listesi, gönderi arşivi, konum verileri. ⭐1800+ · **Kullanım:** @ciaoariabella rakip hesap analizi; @selfixxapp benzer uygulama Instagram hesapları araştırması
 - [instagram-botter](https://github.com/natrixdev/instagram-botter) — Instagram bot: otomatik beğeni, yorum, takip, story görüntüleme. NOT: 2026 itibarıyla Instagram API kısıtlamaları nedeniyle çalışmayabilir. ⭐- · **Kullanım:** Instagram engagement test ortamı; ig_auto_post.py alternatif yaklaşım referansı
+
+- [Pallaidium](https://github.com/tin2tin/Pallaidium) — PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. ⭐1558
+
+- [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) — Noise supression using deep filtering ⭐5052
+
+- [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) — Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! ⭐9621
+
+- [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) — 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures. ⭐13824
+
+- [lossless-cut](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ⭐46200
+
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) — A TTS that fits in your CPU (and pocket) ⭐10353
+
+- [ZONOS3-Mini](https://github.com/Zyphra/ZONOS3-Mini) — compact zero-shot voice-cloning TTS with state-of-the-art performance, leading voice control, real-time on-device. ⭐248

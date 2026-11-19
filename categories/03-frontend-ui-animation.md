@@ -80,3 +80,9 @@ Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüpha
 
 - [cult-ui](https://github.com/nolly-studio/cult-ui) — 150+ ücretsiz shadcn/ui animasyonlu bileşen (Tailwind + Motion, MIT). ⭐7298 · **Kullanım:** React/Capacitor uygulamalarının (Selfix, SmartBlock, KredimPlus, TSA, B2BLife frontend) arayüz kalitesini yükseltme; NativeScript/React Native'e UYMAZ. Selfix tema sistemiyle birlikte.
 - [magic-mcp (21st MCP)](https://github.com/21st-dev/magic-mcp) — Claude Code/Cursor içinden 10.000+ React/Tailwind bileşeni arama + AI ile yeni UI üretme MCP sunucusu. ⭐6504 · **Kullanım:** Yeni ekran/bileşen iskeleti üretimi (Selfix/SmartBlock/web SaaS). 21st.dev API anahtarı gerekir (ENV); kurulum 21st.dev/mcp.
+
+- [demucs](https://github.com/adefossez/demucs) — Code for the paper Hybrid Spectrogram and Waveform Source Separation ⭐3571
+
+- [inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ⭐11334
+
+- [google-ultra](https://github.com/gylive/google-ultra) —  ⭐2420

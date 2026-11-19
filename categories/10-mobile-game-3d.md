@@ -90,3 +90,9 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 ## 18 Kasım 2026 — Android test otomasyonu
 
 - [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) — ADB üzerinden Android test emülatörüne Unicode metin girişi sağlayan klavye. GitHub API anlık yıldız sayısı1992; son push2026-08-09, arşivlenmemiş. **Lisans: GPL-2.0.** Selfix/LayOverKit gibi mobil uygulamaların yetkili UI testlerinde kullanılabilir; uygulama ürünü içine gömülmez. Klavyeye parola, API anahtarı veya başka sır girilmez. Android sürümü ile sürüm uyumu ve lisans koşulları her kullanımda ayrıca kontrol edilir.
+
+- [awesome-astra-prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts) — 200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, previews and source links. Updated twice daily. Curated by Tripo. ⭐388
+
+- [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) — Native and Compact Structured Latents for 3D Generation ⭐13044
+
+- [PhoneGo](https://github.com/HKUDS/PhoneGo) — PhoneGo: Personal AI Agent on Your Phone ⭐1261

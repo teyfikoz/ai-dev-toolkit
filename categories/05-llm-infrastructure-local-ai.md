@@ -296,3 +296,9 @@ Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük b
 - [adventists-ai/Sophon-Realtime-v1](https://huggingface.co/adventists-ai/Sophon-Realtime-v1) — Tam çift yönlü (full-duplex) konuşmadan konuşmaya ses ajanı modeli, duygu/paralinguistik ifade (Apache-2.0). · **Kullanım:** LayoverKit sesli asistan ve TheMrOzz etkileşimli ses denemesi adayı
 - [kakaocorp/kanana-2-v-decide-3b-2611](https://huggingface.co/kakaocorp/kanana-2-v-decide-3b-2611) — 3B çok modlu karar modeli: görsel+metin üzerinde seçim/evet-hayır kararı. · **Kullanım:** Evren 'clef' benzeri; ScreenMesh kamera olay sınıflandırma (lokal)
 - [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) — Güvenlik filtresi kaldırılmış DeepSeek-V4-Pro→Qwen3.5-9B damıtma modeli. · **Kullanım:** Yalnız katalog — filtresiz; mağaza/KVKK riski nedeniyle portföyde kullanılmaz
+
+- [llm-optimization-handbook](https://github.com/TensorTonic/llm-optimization-handbook) — Make LLMs faster, cheaper and smaller: inference fundamentals, quantization, KV cache, speculative decoding, GPU kernels and serving, with hands-on problems. ⭐72
+
+- [SmartSub](https://github.com/buxuku/SmartSub) — 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles — local Whisper speech-to-text, AI dubbing & voice cloning, offline, GPU-accelerated. ⭐6110
+
+- [xn-ptts](https://github.com/gradium-ai/xn-ptts) — Phonon TTS inference using xn ⭐513
