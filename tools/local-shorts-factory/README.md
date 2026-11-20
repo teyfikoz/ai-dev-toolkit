@@ -20,3 +20,5 @@ Usage: `python3 selfix_viral.py --workers 4` then `python3 build_plan.py` then `
 - `whatif_viral.py` + `whatif_content.py` — science "What if" Shorts: procedural space/physics illustrations, stat badges, karaoke captions; scripts fact-checked against public sources.
 - `promo.py` — app promo Short from real store screenshots in a phone frame, plus App Store / Google Play QR codes.
 - `translate_meta.py` — localizes YouTube titles/descriptions into 17 languages (free Groq tier); `viral_queue.py` applies them via `localizations` and verifies by read-back.
+- `scibreak_daily.py` — daily "Space & Earth Today" Short from free public feeds (USGS M4.5+ quakes, NOAA SWPC Kp, JPL CNEOS close approaches, Open Notify ISS). Templated text (no LLM), graticule globe so real coordinates are not shown over fake continents, Turkish decimal/direction formatting, publishAt scheduling, 3-day local retention.
+- Engine: `ff()` retries ffmpeg mux/concat 4× (memory watchdogs may kill it mid-run).

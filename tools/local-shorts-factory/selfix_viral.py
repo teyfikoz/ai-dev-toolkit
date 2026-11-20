@@ -247,6 +247,14 @@ def frame_long(job, t):
 def frame(job, t):
     return {'skit': frame_skit, 'narr': frame_narr, 'long': frame_long}[job['kind']](job, t)
 
+def ff(cmd):
+    import time
+    for i in range(4):
+        r = subprocess.run(cmd)
+        if r.returncode == 0: return
+        time.sleep(15)
+    raise subprocess.CalledProcessError(r.returncode, cmd)
+
 def ts(x):
     m = round(x * 1000); return f'{m//3600000:02}:{m//60000%60:02}:{m//1000%60:02},{m%1000:03}'
 
@@ -283,14 +291,14 @@ def _produce(job):
             import time; time.sleep(20)
         else: raise RuntimeError(f'chunk {c} failed')
     (folder / 'chunks.txt').write_text('\n'.join(f"file '{x}'" for x in parts))
-    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(folder / 'chunks.txt'), '-c', 'copy', str(silent)], check=True)
+    ff(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(folder / 'chunks.txt'), '-c', 'copy', str(silent)])
     ig = OUT / f"{job['id']}_IG.mp4"; yt = OUT / f"{job['id']}_YT.mp4"
     common = ['-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart']
-    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(silent), '-i', str(voice), '-filter_complex', '[1:a]apad,loudnorm=I=-15:TP=-1.5:LRA=11[a]',
-                    '-map', '0:v', '-map', '[a]', '-shortest', *common, str(ig)], check=True)
-    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(silent), '-i', str(voice), '-stream_loop', '-1', '-i', str(bed), '-filter_complex',
+    ff(['ffmpeg', '-v', 'error', '-y', '-i', str(silent), '-i', str(voice), '-filter_complex', '[1:a]apad,loudnorm=I=-15:TP=-1.5:LRA=11[a]',
+                    '-map', '0:v', '-map', '[a]', '-shortest', *common, str(ig)])
+    ff(['ffmpeg', '-v', 'error', '-y', '-i', str(silent), '-i', str(voice), '-stream_loop', '-1', '-i', str(bed), '-filter_complex',
                     '[1:a]apad,loudnorm=I=-15:TP=-1.5:LRA=11[v];[2:a]volume=0.16,afade=t=in:d=1.5[m];[v][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]',
-                    '-map', '0:v', '-map', '[a]', '-shortest', *common, str(yt)], check=True)
+                    '-map', '0:v', '-map', '[a]', '-shortest', *common, str(yt)])
     srt = '\n'.join(f"{k+1}\n{ts(s['start'])} --> {ts(s['end'])}\n{s['text']}\n" for k, s in enumerate(job['segs']))
     (OUT / f"{job['id']}.srt").write_text(srt)
     cov = frame(job, 0.0 if job['fmt'] == 'short' else 2.0).convert('RGB'); cov.save(ROOT / 'covers' / f"{job['id']}_cover.jpg", quality=93)
