@@ -34,3 +34,25 @@ xAI'ın resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Grok
 - [day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. ⭐8774
 
 - [claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. ⭐47443
+
+- [whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing) — See what every Claude Code and Codex agent on your machine is doing — live, in a little office. ⭐408
+
+- [blender-skills](https://github.com/EL4CTEO/blender-skills) — Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. ⭐2518
+
+- [cinetic](https://github.com/Leonxlnx/cinetic) — Cinematic launch films and motion design from code, directed by your coding agent. ⭐1313
+
+- [earshot](https://github.com/Leonxlnx/earshot) — Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. ⭐5298
+
+- [motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) — Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer. ⭐1712
+
+- [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 ⭐7333
+
+- [anidoodle](https://github.com/alexgreensh/anidoodle) — Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render. ⭐1881
+
+- [blender-claymation-skill](https://github.com/angrypenguinpng/blender-claymation-skill) — Claude skill: stop-motion claymation films in Blender from a single prompt ⭐35
+
+- [gsap-skills](https://github.com/greensock/gsap-skills) — Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. ⭐18816
+
+- [opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) — Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集 ⭐545
+
+- [awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) — Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文. ⭐2433

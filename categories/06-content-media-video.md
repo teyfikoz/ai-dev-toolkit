@@ -648,3 +648,23 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts) — A TTS that fits in your CPU (and pocket) ⭐10353
 
 - [ZONOS3-Mini](https://github.com/Zyphra/ZONOS3-Mini) — compact zero-shot voice-cloning TTS with state-of-the-art performance, leading voice control, real-time on-device. ⭐248
+
+- [manim](https://github.com/3b1b/manim) — Animation engine for explanatory math videos ⭐96708
+
+- [Natron](https://github.com/NatronGitHub/Natron) — Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. ⭐5748
+
+- [co-tracker](https://github.com/facebookresearch/co-tracker) — CoTracker is a model for tracking any point (pixel) on a video. ⭐5207
+
+- [stable-ts](https://github.com/jianfch/stable-ts) — Transcription, forced alignment, and audio indexing with OpenAI's Whisper ⭐2285
+
+- [revideo](https://github.com/midrender/revideo) — Create Videos with Code ⭐4220
+
+- [shotcut](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ⭐15740
+
+- [motion-canvas](https://github.com/motion-canvas/motion-canvas) — Visualize Your Ideas With Code ⭐20093
+
+- [html-video](https://github.com/nexu-io/html-video) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team. ⭐4866
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) — 🇨🇭 A React renderer for Three.js ⭐33845
+
+- [theatre](https://github.com/theatre-js/theatre) — Motion design editor for the web ⭐13076

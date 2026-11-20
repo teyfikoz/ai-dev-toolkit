@@ -96,3 +96,7 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 - [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) — Native and Compact Structured Latents for 3D Generation ⭐13044
 
 - [PhoneGo](https://github.com/HKUDS/PhoneGo) — PhoneGo: Personal AI Agent on Your Phone ⭐1261
+
+- [LayaAir](https://github.com/layabox/LayaAir) — LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform ⭐2262
+
+- [threepp](https://github.com/markaren/threepp) — A cross-platform C++20 3D library with Python bindings and the high-level API of three.js.  ⭐1253

@@ -160,3 +160,5 @@ LAN üzerinden P2P Voice/Video çağrı uygulaması — sunucu gerektirmez, inte
 
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) — Web performansı, SEO, erişilebilirlik ve best-practice otomatik denetimi. ⭐31069 · **Kullanım:** KredimPlus/B2BLife/RoboCheckIn düzenli denetim; RoboCheckIn'e 'Lighthouse skoru' izleme özelliği adayı
 - [aws-emulator](https://github.com/aws/aws-emulator) — AWS API'lerinin lokal emülatörü (Rust). ⭐6831 · **Kullanım:** Portföy AWS kullanmıyor; yalnız S3 uyumlu test ihtiyacında
+
+- [motionbricks](https://github.com/NVlabs/motionbricks) — Official implementation of MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives (SIGGRAPH 2026) ⭐1501
