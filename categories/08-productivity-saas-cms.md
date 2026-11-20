@@ -50,3 +50,5 @@ Todoist MCP — AI agent'lar Todoist görevlerini kullanır. OCC görev yönetim
 ## thunderbird-mcp
 **Repo:** [TKasperczyk/thunderbird-mcp](https://github.com/TKasperczyk/thunderbird-mcp) | ★328
 Thunderbird e-posta MCP. GlobalKariyerim iş başvuru e-posta takibi.
+
+- [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) — Automate the application process on LinkedIn ⭐1162

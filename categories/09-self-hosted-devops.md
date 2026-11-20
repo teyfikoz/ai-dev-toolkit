@@ -162,3 +162,5 @@ LAN üzerinden P2P Voice/Video çağrı uygulaması — sunucu gerektirmez, inte
 - [aws-emulator](https://github.com/aws/aws-emulator) — AWS API'lerinin lokal emülatörü (Rust). ⭐6831 · **Kullanım:** Portföy AWS kullanmıyor; yalnız S3 uyumlu test ihtiyacında
 
 - [motionbricks](https://github.com/NVlabs/motionbricks) — Official implementation of MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives (SIGGRAPH 2026) ⭐1501
+
+- [vega-ai](https://github.com/benidevo/vega-ai) — Vega AI is an intelligent job application tracking system that transforms how job seekers manage their search. Job seekers can track every opportunity,  instantly see their match score for each role, and generate AI-powered resumes and cover letters tailored to specific job requirements. ⭐11

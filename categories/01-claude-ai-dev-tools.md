@@ -56,3 +56,5 @@ xAI'ın resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Grok
 - [opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) — Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集 ⭐545
 
 - [awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) — Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文. ⭐2433
+
+- [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) — JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified résumé, applies within your rules on Greenhouse, Ashby and Lever, tracks confirmed submissions. ⭐179
