@@ -62,3 +62,5 @@ xAI'ın resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Grok
 - [promptfoo](https://github.com/promptfoo/promptfoo) — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. ⭐27515
 
 - [motion2code](https://github.com/lovisdotio/motion2code) — Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source ⭐359
+
+- [cutaway](https://github.com/Nyxera0x/cutaway) — A Claude Code skill that turns one picture into a 3D object that takes itself apart: built in three.js from code, checked against the picture, filmed at 60 fps with a synced score. ⭐389

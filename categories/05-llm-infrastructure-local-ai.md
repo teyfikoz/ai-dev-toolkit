@@ -308,3 +308,5 @@ Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük b
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. ⭐92968
 
 - [FreeVideo](https://github.com/FlashML-org/FreeVideo) — Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. ⭐4089
+
+- [goose](https://github.com/block/goose) — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM ⭐56851
