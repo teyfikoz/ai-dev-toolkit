@@ -86,3 +86,5 @@ Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüpha
 - [inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ⭐11334
 
 - [google-ultra](https://github.com/gylive/google-ultra) —  ⭐2420
+
+- [turkish-sms-spam-classifier](https://github.com/seleenerk/turkish-sms-spam-classifier) — “Türkçe SMS Spam sınıflandırma projesi” ⭐0

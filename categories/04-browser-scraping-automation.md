@@ -139,3 +139,5 @@ Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon 
 - [EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) — A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically! ⭐838
 
 - [JobHunterX](https://github.com/kvcops/JobHunterX) — 🚀 Open-source AI job-search companion: 🔎 finds real openings on employer job boards, 🎯 explains every match and your visibility chances, 📝 writes honest resumes, and 🤖 applies through a browser agent with human takeover. ⭐10
+
+- [spam-call-blocker-app](https://github.com/adamff-dev/spam-call-blocker-app) — Open-source app that blocks spam calls. Includes customizable filters for hidden, unknown, and international numbers. ⭐224

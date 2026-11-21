@@ -117,3 +117,7 @@ Finansal veri MCP server — hisse, gelir, bilanço. StockPulse + TSA FundPilot 
 ## 13 Kasım 2026 — Safari sekmelerinden eklenenler
 
 - [PaperDemoAgent](https://github.com/wshuai190/PaperDemoAgent) — Akademik makaleden etkileşimli demo üreten ajan. ⭐18 · **Kullanım:** SciBreak makale → demo/görsel içerik
+
+- [CallShield](https://github.com/SysAdminDoc/CallShield) — Open-source spam call and text blocker for Android. GitHub-hosted spam database, no API keys, no subscriptions. ⭐82
+
+- [OpenCallShield](https://github.com/jhonsu01/OpenCallShield) — Open-source (MIT) Android app for blocking spam calls using the CallScreeningService API (Android 10+), featuring a local Room database, a detection rule engine, and synchronization with a public, collaborative database hosted on GitHub. ⭐6

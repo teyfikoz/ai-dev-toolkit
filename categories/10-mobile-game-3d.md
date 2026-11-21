@@ -100,3 +100,9 @@ Raylib tabanlı C# 2D oyun motoru — data-oriented. How2TakeOff simülasyon mot
 - [LayaAir](https://github.com/layabox/LayaAir) — LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform ⭐2262
 
 - [threepp](https://github.com/markaren/threepp) — A cross-platform C++20 3D library with Python bindings and the high-level API of three.js.  ⭐1253
+
+- [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) — A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript ⭐3003
+
+- [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) — A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber. ⭐5403
+
+- [GheychiApp](https://github.com/MahdiyarGHD/GheychiApp) — A privacy-first, open-source Android SMS app with on-device AI spam detection, built with Avalonia ⭐96
