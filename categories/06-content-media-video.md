@@ -668,3 +668,11 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) — 🇨🇭 A React renderer for Three.js ⭐33845
 
 - [theatre](https://github.com/theatre-js/theatre) — Motion design editor for the web ⭐13076
+
+- [StableGen](https://github.com/sakalond/StableGen) — Transform your 3D texturing workflow with the power of generative AI, directly within Blender! ⭐1699
+
+- [NI-Tex](https://github.com/SII-Hui/NI-Tex) — [CVPR 2026 Highlight] It's the official repository of "NI-Tex: Non-isometric Image-based Garment Texture Generation". ⭐79
+
+- [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) — From Images to High-Fidelity 3D Assets with Production-Ready PBR Material ⭐4511
+
+- [SkinTokens](https://github.com/VAST-AI-Research/SkinTokens) — SkinTokens: A Learned Compact Representation for Unified Autoregressive Rigging ⭐667
