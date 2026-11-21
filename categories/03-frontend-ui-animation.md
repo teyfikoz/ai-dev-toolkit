@@ -90,3 +90,11 @@ Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüpha
 - [turkish-sms-spam-classifier](https://github.com/seleenerk/turkish-sms-spam-classifier) — “Türkçe SMS Spam sınıflandırma projesi” ⭐0
 
 - [AnimalLift](https://github.com/Chuny1/AnimalLift) —  ⭐33
+
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) ⭐81324
+
+- [openhands-resolver](https://github.com/All-Hands-AI/openhands-resolver) — A system that tries to resolve all issues on a github repo with OpenHands. ⭐135
+
+- [open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features ⭐42109
+
+- [dspy](https://github.com/stanfordnlp/dspy) — DSPy: The framework for programming—not prompting—language models ⭐39163

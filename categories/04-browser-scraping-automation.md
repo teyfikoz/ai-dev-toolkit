@@ -141,3 +141,7 @@ Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon 
 - [JobHunterX](https://github.com/kvcops/JobHunterX) — 🚀 Open-source AI job-search companion: 🔎 finds real openings on employer job boards, 🎯 explains every match and your visibility chances, 📝 writes honest resumes, and 🤖 applies through a browser agent with human takeover. ⭐10
 
 - [spam-call-blocker-app](https://github.com/adamff-dev/spam-call-blocker-app) — Open-source app that blocks spam calls. Includes customizable filters for hidden, unknown, and international numbers. ⭐224
+
+- [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ⭐32876
+
+- [skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI ⭐23484

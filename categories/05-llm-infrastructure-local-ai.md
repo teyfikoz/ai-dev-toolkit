@@ -302,3 +302,7 @@ Mixture-of-Experts modellerini dizüstü bilgisayarda çalıştırma; düşük b
 - [SmartSub](https://github.com/buxuku/SmartSub) — 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles — local Whisper speech-to-text, AI dubbing & voice cloning, offline, GPU-accelerated. ⭐6110
 
 - [xn-ptts](https://github.com/gradium-ai/xn-ptts) — Phonon TTS inference using xn ⭐513
+
+- [Llama-macOS](https://github.com/ggml-org/Llama-macOS) — A cosy home for your LLMs. ⭐1851
+
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. ⭐92968

@@ -676,3 +676,7 @@ Blender 3D'yi LLM ile kontrol — 28K★. How2TakeOff uçak 3D görseli + içeri
 - [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) — From Images to High-Fidelity 3D Assets with Production-Ready PBR Material ⭐4511
 
 - [SkinTokens](https://github.com/VAST-AI-Research/SkinTokens) — SkinTokens: A Learned Compact Representation for Unified Autoregressive Rigging ⭐667
+
+- [krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) — Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. ⭐10921
+
+- [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) —  GUI for a Vocal Remover that uses Deep Neural Networks. ⭐27293
