@@ -60,3 +60,5 @@ xAI'ın resmi Grok sistem prompt'ları ve prompt mühendisliği örnekleri. Grok
 - [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) — JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified résumé, applies within your rules on Greenhouse, Ashby and Lever, tracks confirmed submissions. ⭐179
 
 - [promptfoo](https://github.com/promptfoo/promptfoo) — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. ⭐27515
+
+- [motion2code](https://github.com/lovisdotio/motion2code) — Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source ⭐359

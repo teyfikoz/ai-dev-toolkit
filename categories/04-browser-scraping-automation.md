@@ -145,3 +145,7 @@ Chrome DevTools MCP — 52K★ AI agent Chrome kontrolü. OCC browser otomasyon 
 - [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ⭐32876
 
 - [skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI ⭐23484
+
+- [airhand](https://github.com/sqlpxc/airhand) — High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · iOS · browser ⭐1434
+
+- [mediabunny](https://github.com/Vanilagy/mediabunny) — Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. ⭐7533

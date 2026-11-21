@@ -98,3 +98,5 @@ Cal.com'un açık kaynak design system'i — React + Tailwind bileşen kütüpha
 - [open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features ⭐42109
 
 - [dspy](https://github.com/stanfordnlp/dspy) — DSPy: The framework for programming—not prompting—language models ⭐39163
+
+- [opencomputer](https://github.com/diggerhq/opencomputer) — An open-source, faster Devin alternative ⭐967
